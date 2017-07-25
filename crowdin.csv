@@ -181,7 +181,7 @@ Item,Item,module,Magento_AdvancedCheckout
 Edit,Bewerken,module,Magento_AdvancedCheckout
 "Remove item","Verwijder dit artikel",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Producten die aandacht behoeven",module,Magento_AdvancedCheckout
-"Add to Cart","In Winkelwagen",module,Magento_AdvancedCheckout
+"Add to Cart","In winkelwagen",module,Magento_AdvancedCheckout
 Sku,Art.nr.,module,Magento_AdvancedCheckout
 File,Bestand,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","Toegestande extensie: .csv",module,Magento_AdvancedCheckout
@@ -12014,7 +12014,7 @@ Next/Previous,Volgende/Vorige,module,Magento_VersionsCms
 "Enables Chapter/Section functionality for this node, its sub-nodes and pages","Staat Hoofdstuk/Sectie functionaliteit toe voor dit knooppunt, de sub-knooppunten en pagina's",module,Magento_VersionsCms
 Chapter/Section,Hoofdstuk/sectie,module,Magento_VersionsCms
 "Defines this node as Chapter/Section","Definieert dit knooppunt als Hoofdstuk/Sectie",module,Magento_VersionsCms
-"Pagination Options for Nested Pages","Paginerings Opties voor in elkaar passende pagina's",module,Magento_VersionsCms
+"Pagination Options for Nested Pages","Paginerings opties voor in elkaar passende pagina's",module,Magento_VersionsCms
 "Enable Pagination","Stel paginatie in werking",module,Magento_VersionsCms
 Frame,Beeld,module,Magento_VersionsCms
 "Set the number of links to display at one time.","Stel het aantal links in om tegelijk weer te geven.",module,Magento_VersionsCms
@@ -12107,10 +12107,10 @@ Node,Knooppunt,module,Magento_VersionsCms
 Page:,Pagina:,module,Magento_VersionsCms
 Page,Pagina,module,Magento_VersionsCms
 Previous,Vorige,module,Magento_VersionsCms
-"You're currently reading page","U lees momenteel pagina",module,Magento_VersionsCms
+"You're currently reading page","U leest momenteel pagina",module,Magento_VersionsCms
 Next,Volgende,module,Magento_VersionsCms
-"Delete Revision and Version","Verwijder modificatie en versie",module,Magento_VersionsCms
-"Publish Revision","Publiceer Herziening",module,Magento_VersionsCms
+"Delete Revision and Version","Verwijder revisie en versie",module,Magento_VersionsCms
+"Publish Revision","Publiceer revisie",module,Magento_VersionsCms
 Pages,Pagina's,module,Magento_VersionsCms
 "CMS Page Hierarchy","CMS pagina hiërarchie",module,Magento_VersionsCms
 "Enable Hierarchy Functionality","Stel hiërarchie functionaliteit in werking",module,Magento_VersionsCms
@@ -12279,7 +12279,7 @@ Total,Totaal,module,Magento_Weee
 "Enable FPT","Verwijderingsbijdrage inschakelen",module,Magento_Weee
 "Display Prices In Product Lists","Prijzen tonen in productoverzicht",module,Magento_Weee
 "Display Prices On Product View Page","Prijzen tonen op product pagina",module,Magento_Weee
-"Display Prices In Sales Modules","Prijzen Tonen in verkoop modules",module,Magento_Weee
+"Display Prices In Sales Modules","Prijzen tonen in verkoop modules",module,Magento_Weee
 "Display Prices In Emails","Toon prijzen in Email",module,Magento_Weee
 "Apply Tax To FPT","BTW toepassen op Verwijderingsbijdrage",module,Magento_Weee
 "Include FPT In Subtotal","Inclusief FPT in subtotaal",module,Magento_Weee
@@ -12309,7 +12309,7 @@ Type,Type,module,Magento_Widget
 "Sort Order of widget instances in the same container","Sorteervolgorde van widgets in dezelfde container",module,Magento_Widget
 "Layout Updates","Lay-out update",module,Magento_Widget
 Categories,Categorieën,module,Magento_Widget
-"Anchor Categories","Verankerde Categorieën",module,Magento_Widget
+"Anchor Categories","Verankerde categorieën",module,Magento_Widget
 "Non-Anchor Categories","Niet verankerde categorieën",module,Magento_Widget
 "All Product Types","Alle product types",module,Magento_Widget
 Products,Producten,module,Magento_Widget
