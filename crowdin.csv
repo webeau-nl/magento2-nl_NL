@@ -1900,7 +1900,7 @@ Role,Rol,module,Magento_Catalog
 "Compare Products","Producten vergelijken",module,Magento_Catalog
 "Print This Page","Print deze pagina",module,Magento_Catalog
 "Remove Product","Product verwijderen",module,Magento_Catalog
-"Add to Cart","In Winkelwagen",module,Magento_Catalog
+"Add to Cart","In winkelwagen",module,Magento_Catalog
 "In stock","Op voorraad",module,Magento_Catalog
 "Out of stock","Niet op voorraad",module,Magento_Catalog
 "Add to Wish List","Toevoegen aan verlanglijst",module,Magento_Catalog
@@ -2256,7 +2256,7 @@ Stock,Voorraad,module,Magento_CatalogInventory
 "Category Permissions","Categorie Bevoegdheden",module,Magento_CatalogPermissions
 "Browsing Category","Categorie doorbladeren",module,Magento_CatalogPermissions
 "Display Product Prices","Geef productprijzen weer",module,Magento_CatalogPermissions
-"Add to Cart","In Winkelwagen",module,Magento_CatalogPermissions
+"Add to Cart","In winkelwagen",module,Magento_CatalogPermissions
 "Yes, for Everyone","Ja, voor iedereen",module,Magento_CatalogPermissions
 "Yes, for Specified Customer Groups","Ja, voor gespecificeerde klantengroepen",module,Magento_CatalogPermissions
 No,Nee,module,Magento_CatalogPermissions
@@ -2528,7 +2528,7 @@ Websites,Websites,module,Magento_CatalogStaging
 "Product Attribute",Product-attribuut,module,Magento_CatalogWidget
 SKU,Art.nr.,module,Magento_CatalogWidget
 "Please choose a condition to add.","Kies een voorwaarde om toe te voegen.",module,Magento_CatalogWidget
-"Add to Cart","In Winkelwagen",module,Magento_CatalogWidget
+"Add to Cart","In winkelwagen",module,Magento_CatalogWidget
 "In stock","Op voorraad",module,Magento_CatalogWidget
 "Out of stock","Niet op voorraad",module,Magento_CatalogWidget
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_CatalogWidget
@@ -5518,7 +5518,7 @@ View,Bekijk,module,Magento_GiftRegistry
 "Search By","Zoeken op",module,Magento_GiftRegistry
 "Please enter at least two letters.","Voer ten minste 2 letters in.",module,Magento_GiftRegistry
 "Unit Price",Stukprijs,module,Magento_GiftRegistry
-"Add to Cart","In Winkelwagen",module,Magento_GiftRegistry
+"Add to Cart","In winkelwagen",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Geschenklijst aangemaakt op %store_name",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","U heeft een nieuwe geschenkenlijst ""%registry_name"" aangemaakt.",module,Magento_GiftRegistry
@@ -6351,7 +6351,7 @@ Database,Database,module,Magento_MediaStorage
 "You will see the order total before you submit the order.","Je ziet het besteltotaal voordat je de bestelling verstuurd.",module,Magento_Msrp
 Price,Prijs,module,Magento_Msrp
 "Actual Price","Werkelijke prijs",module,Magento_Msrp
-"Add to Cart","In Winkelwagen",module,Magento_Msrp
+"Add to Cart","In winkelwagen",module,Magento_Msrp
 "Minimum Advertised Price","Minimum geadverteerde verkoopprijs",module,Magento_Msrp
 "Enable MAP","MAP (minimaal geadverteerde prijs) inschakelen",module,Magento_Msrp
 "Display Actual Price","Toon werkelijke prijs",module,Magento_Msrp
@@ -6459,7 +6459,7 @@ Name,Naam,module,Magento_MultipleWishlist
 Updated,Bijgewerkt,module,Magento_MultipleWishlist
 "Wish List Items","Verlanglijst producten",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","U moet producten selecteren om aan de winkelwagen toe te voegen.",module,Magento_MultipleWishlist
-"Add to Cart","In Winkelwagen",module,Magento_MultipleWishlist
+"Add to Cart","In winkelwagen",module,Magento_MultipleWishlist
 Back,Terug,module,Magento_MultipleWishlist
 "Add to:","Toevoegen aan:",module,Magento_MultipleWishlist
 "Create New Wish List","Nieuwe verlanglijst aanmaken",module,Magento_MultipleWishlist
@@ -8063,7 +8063,7 @@ Error,Foutmelding,module,Magento_Reports
 "Show Report For:","Toon rapport voor:",module,Magento_Reports
 "All Websites","Alle Websites",module,Magento_Reports
 "Recently Viewed","Recent bekeken",module,Magento_Reports
-"Add to Cart","In Winkelwagen",module,Magento_Reports
+"Add to Cart","In winkelwagen",module,Magento_Reports
 "In stock","Op voorraad",module,Magento_Reports
 "Out of stock","Niet op voorraad",module,Magento_Reports
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_Reports
@@ -12420,7 +12420,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_Wishlist
 "View Product","Product bekijken",module,Magento_Wishlist
 Qty,Aantal,module,Magento_Wishlist
-"Add to Cart","In Winkelwagen",module,Magento_Wishlist
+"Add to Cart","In winkelwagen",module,Magento_Wishlist
 Availability,Beschikbaarheid,module,Magento_Wishlist
 "In stock","Op voorraad",module,Magento_Wishlist
 "Out of stock","Niet op voorraad",module,Magento_Wishlist
