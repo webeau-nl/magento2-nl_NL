@@ -40,7 +40,7 @@ Notifications,Meldingen,module,Magento_AdminNotification
 "12 Hours","12 uur",module,Magento_AdminNotification
 "24 Hours","24 uur",module,Magento_AdminNotification
 critical,kritisch,module,Magento_AdminNotification
-major,belangrijk,module,Magento_AdminNotification
+major,belangrijk,module,M  agento_AdminNotification
 minor,gering,module,Magento_AdminNotification
 notice,melding,module,Magento_AdminNotification
 "Wrong message type","Verkeerde bericht-type",module,Magento_AdminNotification
@@ -903,7 +903,7 @@ Rollback,Terugdraaien,module,Magento_Backup
 Frequency,Frequentie,module,Magento_Backup
 "Maintenance Mode",Onderhoudsmodus,module,Magento_Backup
 Delete,Verwijder,module,Magento_Backup
-"Are you sure you want to delete the selected backup(s)?","Weet ke zeker dat je de geselecteerde backup(s) wilt verwijderen?",module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Weet je zeker dat je de geselecteerde backup(s) wilt verwijderen?",module,Magento_Backup
 Time,Tijd,module,Magento_Backup
 Name,Naam,module,Magento_Backup
 Size(bytes),Size(bytes),module,Magento_Backup
@@ -913,7 +913,7 @@ Action,Actie,module,Magento_Backup
 Banners,Banners,module,Magento_Banner
 "Add Banner","Banner toevoegen",module,Magento_Banner
 "Save Banner","Banner opslaan",module,Magento_Banner
-"Delete Banner","haal banner weg",module,Magento_Banner
+"Delete Banner","Banner verwijderen",module,Magento_Banner
 "Save and Continue Edit",Toepassen,module,Magento_Banner
 "New Banner","nieuwe banner",module,Magento_Banner
 Content,inhoud,module,Magento_Banner
@@ -976,8 +976,8 @@ Error,Foutmelding,module,Magento_Banner
 "One at the time, Series","een tegelijk, in een serie",module,Magento_Banner
 "One at the time, Shuffle","een tegelijk, door elkaar",module,Magento_Banner
 "Specify Banners","specificeer banners",module,Magento_Banner
-"Banner Block Template","banner blok mal",module,Magento_Banner
-"Banner Inline Template","binnenste banner mal",module,Magento_Banner
+"Banner Block Template","banner blok template",module,Magento_Banner
+"Banner Inline Template","binnenste banner template",module,Magento_Banner
 Country,Land,module,Magento_Braintree
 "Allowed Credit Card Types","Toegestane credit card typen",module,Magento_Braintree
 "Add Rule","Regel toevoegen",module,Magento_Braintree
@@ -2146,10 +2146,10 @@ Next,Volgende,module,Magento_CatalogEvent
 "Frame Size","frame grootte",module,Magento_CatalogEvent
 "Number of Items to display at once","aantal dingen dat tegelijkertijd wordt weergegeven",module,Magento_CatalogEvent
 Scroll,scroll,module,Magento_CatalogEvent
-"Number of Items to scroll per click","aantal dingen dat scrollt per klik",module,Magento_CatalogEvent
+"Number of Items to scroll per click","aantal items dat scrollt per klik",module,Magento_CatalogEvent
 "Block Custom Width","Blokkeer aangepaste breedte",module,Magento_CatalogEvent
 "If empty, we'll automatically set the width value in pixels.","Indien leeg, vullen we automatisch de breedte in, in pixels.",module,Magento_CatalogEvent
-"Catalog Events Carousel Default Template","Normale template van de carousel van catalogus-gebeurtenissen",module,Magento_CatalogEvent
+"Catalog Events Carousel Default Template","Normale sjabloon van de carousel van catalogus-gebeurtenissen",module,Magento_CatalogEvent
 ID,ID,module,Magento_CatalogEvent
 "Category ID","Categorie ID",module,Magento_CatalogEvent
 Start,Start,module,Magento_CatalogEvent
@@ -2892,8 +2892,8 @@ px.,px.,module,Magento_Cms
 "If empty, the Page Title will be used","Indien leeg, zal de paginatitel gebruikt worden",module,Magento_Cms
 "Anchor Custom Title","Zet eigen titel vast",module,Magento_Cms
 Template,Template,module,Magento_Cms
-"CMS Page Link Block Template","CMS pagina link blokkerende template",module,Magento_Cms
-"CMS Page Link Inline Template","CMS link ingelijnde template",module,Magento_Cms
+"CMS Page Link Block Template","CMS pagina link blok sjabloon",module,Magento_Cms
+"CMS Page Link Inline Template","CMS link inline sjabloon",module,Magento_Cms
 "CMS Static Block","CMS Statisch Blok",module,Magento_Cms
 "Contents of a Static Block","Inhoud van statisch blok",module,Magento_Cms
 Block,Blok,module,Magento_Cms
@@ -3198,7 +3198,7 @@ Select,Selecteer,module,Magento_ConfigurableProduct
 "Selected Attributes:","Geselecteerde Attributen:",module,Magento_ConfigurableProduct
 "Step 4: Summary","Stap 4: Samenvatting",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).","Configureerbare producten klanten toestaan om te kiezen van de opties (Ex: shirt kleur).             
+            You need to create a simple product for each configuration (Ex: a product for each color).","Configureerbare producten klanten toestaan om te kiezen van de opties (Ex: shirt kleur).
 U moet een een simpel product aanmaken voor elke configuratie (Ex: een product voor elke kleur).",module,Magento_ConfigurableProduct
 "Edit Configurations","Configuraties bewerken",module,Magento_ConfigurableProduct
 "Upload Image","Upload afbeeldingen",module,Magento_ConfigurableProduct
@@ -4423,7 +4423,7 @@ Password,Wachtwoord,module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per bestelling"" laat een éénmalige verwerkingskost voor de hele bestelling toe. ""Per pakket"" laat een verwerkingskost voor elk pakket toe.",module,Magento_Dhl
 "Handling Fee",Verwerkingskosten,module,Magento_Dhl
 "Divide Order Weight","Divide Order Weight",module,Magento_Dhl
-"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Selecteer dit om DHL te laten instaan voor een geoptimalizeerde splitsing van de bestelling indien het meer weegt dan 70kg.",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Selecteer dit om DHL te laten instaan voor een geoptimaliseerde splitsing van de bestelling indien het meer weegt dan 70kg.",module,Magento_Dhl
 "Weight Unit",Gewichtseenheid,module,Magento_Dhl
 Size,Grootte,module,Magento_Dhl
 "Allowed Methods","Toegestane methodes",module,Magento_Dhl
@@ -4797,7 +4797,7 @@ Unknown,Onbekend,module,Magento_Email
 "Email Preview","Voorvertoning E-mail",module,Magento_Email
 "An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend als voorvertoning.",module,Magento_Email
 "This email template no longer exists.","Dit e-mail-sjabloon bestaat niet meer.",module,Magento_Email
-"You saved the email template.","Je hebt de e-mailtemplate opgeslagen.",module,Magento_Email
+"You saved the email template.","Je hebt de e-mail-sjabloon opgeslagen.",module,Magento_Email
 "Area is already set","Gebied is al ingesteld",module,Magento_Email
 "Design config must have area and store.","Ontwerp configuratie moet een land en winkel hebben.",module,Magento_Email
 "Base Unsecure URL","Onveilige basis-URL",module,Magento_Email
@@ -4853,7 +4853,7 @@ Subject,Onderwerp,module,Magento_Email
 "Template Type","Template soort",module,Magento_Email
 Action,Actie,module,Magento_Email
 "Logo Image","Logo afbeelding",module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Toegestane bestand types: jpg, jpeg, gif, png. Om een logo te optimalizeren voor hoge resolutie schermen, upload een afbeelding die 3x zo groot is en specifieer vervolgens 1x de dimensies in de breedte/hoogte velden.",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Toegestane bestand types: jpg, jpeg, gif, png. Om een logo te optimaliseren voor hoge resolutie schermen, upload een afbeelding die 3x zo groot is en specifieer vervolgens 1x de dimensies in de breedte/hoogte velden.",module,Magento_Email
 "Logo Image Alt","Alt-tekst logo",module,Magento_Email
 "Logo Width","Logo breedte",module,Magento_Email
 "Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkel verplicht als je hierboven een afbeelding hebt geupload. Geef het aantal pixels in, zonder ""px"" toe te voegen.",module,Magento_Email
@@ -5556,7 +5556,7 @@ Role,Rol,module,Magento_GiftRegistry
 "Enable Gift Registry","zet verlanglijst aan",module,Magento_GiftRegistry
 "Maximum Registrants","Maximale registranten",module,Magento_GiftRegistry
 "Owner Notification",Eigenaarsnotificatie,module,Magento_GiftRegistry
-"Email Template","E-mail template",module,Magento_GiftRegistry
+"Email Template","E-mail sjabloon",module,Magento_GiftRegistry
 "Email Sender","Afzender E-mail",module,Magento_GiftRegistry
 "Gift Registry Sharing","verlanglijst delen",module,Magento_GiftRegistry
 "Maximum Sent Emails Threshold","Drempel maximaal aantal verzonden emails",module,Magento_GiftRegistry
@@ -5569,7 +5569,7 @@ Date,Datum,module,Magento_GiftRegistry
 "Gift Registry Quick Search Form","verlanglijst snel zoekformulier",module,Magento_GiftRegistry
 "Quick Search Form Types","Formuliertypes snel zoeken",module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
-"Default Template","Standaard template",module,Magento_GiftRegistry
+"Default Template","Standaard sjabloon",module,Magento_GiftRegistry
 Listed,Vermeld,module,Magento_GiftRegistry
 "Gift Wrapping",Geschenkverpakking,module,Magento_GiftWrapping
 "Add Gift Wrapping","Cadeaupapier toevoegen",module,Magento_GiftWrapping
@@ -6114,7 +6114,7 @@ Conversion,Conversie,module,Magento_Invitation
 "Invitation Section","Uitnodigings sectie",module,Magento_Invitation
 Conversions,Conversies,module,Magento_Invitation
 "Customer Invitation Email Sender","Afzender Klant Uitnodiging E-mail",module,Magento_Invitation
-"Customer Invitation Email Template","Klant uitnodigings e-mail template",module,Magento_Invitation
+"Customer Invitation Email Template","Klant uitnodigingse-mail sjabloon",module,Magento_Invitation
 "Enable Invitations Functionality","E-mail uitnodigingen functionaliteit",module,Magento_Invitation
 "Enable Invitations on Storefront","Schakel uitnodigingen in voor winkelaanzicht",module,Magento_Invitation
 "Referred Customer Group","Gerefereerde klantgroep",module,Magento_Invitation
@@ -6260,7 +6260,7 @@ Reports,Rapportages,module,Magento_Logging
 "Cart Price Rules","Winkelwagen prijs regels",module,Magento_Logging
 "Admin My Account","Beheerder Mijn Account",module,Magento_Logging
 "Newsletter Queue","Nieuwsbrief wachtrij",module,Magento_Logging
-"Newsletter Templates","Nieuwsbrief Sjablonen",module,Magento_Logging
+"Newsletter Templates","Nieuwsbrief sjablonen",module,Magento_Logging
 "Newsletter Subscribers",Nieuwsbriefabonnees,module,Magento_Logging
 "Sales Orders","Verkoop Bestellingen",module,Magento_Logging
 "Sales Order Status","Verkoop Bestellings Status",module,Magento_Logging
@@ -6500,7 +6500,7 @@ Cancel,Annuleer,module,Magento_MultipleWishlist
 "Display Wish Lists Summary","Toon samenvatting verlanglijsten",module,Magento_MultipleWishlist
 "Wish List Search Description","Verlanglijst zoekbeschrijving",module,Magento_MultipleWishlist
 "Quick Search Form Types","Formuliertypes snel zoeken",module,Magento_MultipleWishlist
-Template,Template,module,Magento_MultipleWishlist
+Template,Sjabloon,module,Magento_MultipleWishlist
 "Wish List Search Template","Zoeksjabloon verlanglijst",module,Magento_MultipleWishlist
 CSV,CSV,module,Magento_MultipleWishlist
 "Excel XML","Excel XML",module,Magento_MultipleWishlist
@@ -6616,7 +6616,7 @@ Options,Opties,module,Magento_Multishipping
 "Failed Messages Lifetime","Onbestelbare berichten levensduur",module,Magento_MysqlMq
 "New Messages Lifetime","Levensduur Van Nieuwe Berichten",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Geen New Relic Applicatie ID is geconfigureerd, kan niet doorgaan met Cron evenement rapportering",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","De New Relic integratie vereist de newrelic-php5-agent, die niet is geïnstalleerd. Meer informatie over het installeren van de agent is <a target=""_blank"" href=""%1"">hier</a> beschikbaar.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","New Relic Rapportage Sectie",module,Magento_NewRelicReporting
 "New Relic Reporting","New Relic Rapportage",module,Magento_NewRelicReporting
@@ -6641,7 +6641,7 @@ Cron,Cron,module,Magento_NewRelicReporting
 "Unsubscribe Selected","Uitschrijven geselecteerd",module,Magento_Newsletter
 Back,Terug,module,Magento_Newsletter
 Reset,Reset,module,Magento_Newsletter
-"Preview Template","Template vooraf bekijken",module,Magento_Newsletter
+"Preview Template","Sjabloon vooraf bekijken",module,Magento_Newsletter
 "Save Newsletter","Nieuwsbrief opslaan",module,Magento_Newsletter
 "Save and Resume","Opslaan en doorgaan",module,Magento_Newsletter
 "View Newsletter","Nieuwsbrief bekijken",module,Magento_Newsletter
@@ -6664,23 +6664,23 @@ Preview,Voorbeeld,module,Magento_Newsletter
 "Newsletter Templates","Nieuwsbrief Sjablonen",module,Magento_Newsletter
 "Convert to Plain Text","Omzetten naar platte tekst",module,Magento_Newsletter
 "Return HTML Version","Geef HTML-versie terug",module,Magento_Newsletter
-"Delete Template","Template verwijderen",module,Magento_Newsletter
+"Delete Template","Sjabloon verwijderen",module,Magento_Newsletter
 "Save As","Opslaan als",module,Magento_Newsletter
-"Save Template","Template opslaan",module,Magento_Newsletter
+"Save Template","Sjabloon opslaan",module,Magento_Newsletter
 "Edit Newsletter Template","Nieuwsbrief-sjabloon bewerken",module,Magento_Newsletter
 "New Newsletter Template","Nieuwe nieuwsbrief-sjabloon",module,Magento_Newsletter
-"Template Information","Template informatie",module,Magento_Newsletter
-"Template Name","Template naam",module,Magento_Newsletter
-"Template Subject","Template onderwerp",module,Magento_Newsletter
-"Template Content","Template inhoud",module,Magento_Newsletter
-"Template Styles","Template Stijl",module,Magento_Newsletter
+"Template Information","Sjabloon informatie",module,Magento_Newsletter
+"Template Name","Sjabloon naam",module,Magento_Newsletter
+"Template Subject","Sjabloon onderwerp",module,Magento_Newsletter
+"Template Content","Sjabloon inhoud",module,Magento_Newsletter
+"Template Styles","Sjabloon stijl",module,Magento_Newsletter
 "No Templates Found","Geen sjablonen gevonden",module,Magento_Newsletter
 ID,ID,module,Magento_Newsletter
-Template,Template,module,Magento_Newsletter
+Template,Sjabloon,module,Magento_Newsletter
 Added,Toegevoegd,module,Magento_Newsletter
 Updated,Bijgewerkt,module,Magento_Newsletter
 Sender,Afzender,module,Magento_Newsletter
-"Template Type","Template soort",module,Magento_Newsletter
+"Template Type","Sjabloon soort",module,Magento_Newsletter
 Action,Actie,module,Magento_Newsletter
 "Queue Newsletter","Wachtrij nieuwsbrief",module,Magento_Newsletter
 "We unsubscribed the people you identified.","We hebben de mensen uitgeschreven die je geïdentificeerd hebt.",module,Magento_Newsletter
@@ -6760,7 +6760,7 @@ Subscribe,Inschrijven,module,Magento_Newsletter
 "Success Email Sender","Afzender Succes E-mail",module,Magento_Newsletter
 "Success Email Template","Succes e-mail sjabloon",module,Magento_Newsletter
 "Unsubscription Email Sender","Afzender Uitschrijving E-mail",module,Magento_Newsletter
-"Unsubscription Email Template","Template e-mail uitschrijving",module,Magento_Newsletter
+"Unsubscription Email Template","Sjabloon e-mailuitschrijving",module,Magento_Newsletter
 "We found no problems.","We hebben geen problemen aangetroffen.",module,Magento_Newsletter
 Subscriber,Abonnee,module,Magento_Newsletter
 "Queue Start Date","Wachtrij begindatum",module,Magento_Newsletter
@@ -7634,7 +7634,7 @@ Frequency,Frequentie,module,Magento_ProductAlert
 "Start Time","Begin Tijd",module,Magento_ProductAlert
 "Error Email Recipient","E-mailadres ontvanger van foutmelding",module,Magento_ProductAlert
 "Error Email Sender","Afzender Error E-mail",module,Magento_ProductAlert
-"Error Email Template","E-mailtemplate voor foutmelding",module,Magento_ProductAlert
+"Error Email Template","E-mailsjabloon voor foutmelding",module,Magento_ProductAlert
 "Notify me when the price drops","Houd mij op de hoogte wanneer de prijs daalt",module,Magento_ProductAlert
 "Notify me when this product is in stock","Informeer mij wanneer dit product op voorraad is",module,Magento_ProductAlert
 Url,URL,module,Magento_ProductVideo
@@ -8101,7 +8101,7 @@ Dashboard,Dashboard,module,Magento_Reports
 "List of Products Recently Compared and Removed from the Compare List by Visitor","Overzicht van producten die recentelijk door bezoekers op de vergelijkingslijst zijn gezet.",module,Magento_Reports
 "Compared Products Grid Template","Vergeleken producten tabel-sjabloon",module,Magento_Reports
 "Compared Products List Template","Vergeleken producten lijst-sjabloon",module,Magento_Reports
-"Compared Products Images and Names Template","Vergeleken product afbeeldingen en namen template",module,Magento_Reports
+"Compared Products Images and Names Template","Vergeleken product afbeeldingen en namen sjabloon",module,Magento_Reports
 "Compared Product Names Only Template","Alleen vergeleken productafbeeldingen sjabloon",module,Magento_Reports
 "Compared Product Images Only Template","Alleen vergeleken productafbeeldingen sjabloon",module,Magento_Reports
 Average,Gemiddeld,module,Magento_Reports
@@ -8771,21 +8771,21 @@ State/Province,Provincie,module,Magento_Rma
 Country,Land,module,Magento_Rma
 Enabled,Ingeschakeld,module,Magento_Rma
 "RMA Email Sender","Afzender RMA E-mail",module,Magento_Rma
-"RMA Email Template","RMA email template",module,Magento_Rma
-"RMA Email Template for Guest","RMA email template voor gast",module,Magento_Rma
+"RMA Email Template","RMA emailsjabloon",module,Magento_Rma
+"RMA Email Template for Guest","RMA email sjabloon voor gast",module,Magento_Rma
 "Send RMA Email Copy To","Verzend RMS E-mail Kopie Naar",module,Magento_Rma
 Comma-separated,"Komma gescheiden",module,Magento_Rma
 "Send RMA Email Copy Method","Verzend RMS E-mail Kopie Methode",module,Magento_Rma
 "RMA Authorization","RMA Autorisatie",module,Magento_Rma
 "RMA Authorization Email Sender","Afzender RMA Autorisatie E-mail",module,Magento_Rma
-"RMA Authorization Email Template","RMA Autorisatie email template",module,Magento_Rma
-"RMA Authorization Email Template for Guest","RMA Autorisatie email template voor gast",module,Magento_Rma
+"RMA Authorization Email Template","RMA Autorisatie email sjabloon",module,Magento_Rma
+"RMA Authorization Email Template for Guest","RMA Autorisatie email sjabloon voor gast",module,Magento_Rma
 "Send RMA Authorization Email Copy To","Stuur Kopie RMA Autorisatie E-mail Naar",module,Magento_Rma
 "Send RMA Authorization Email Copy Method","Stuur RMA Autorisatie E-mail Kopie Methode",module,Magento_Rma
 "RMA Admin Comments","RMA Admin Opmerkingen",module,Magento_Rma
 "RMA Comment Email Sender","Afzender RMA Opmerking E-mail",module,Magento_Rma
-"RMA Comment Email Template","RMA Opmerkingen e-mailtemplate",module,Magento_Rma
-"RMA Comment Email Template for Guest","RMA commentaar email template voor gast",module,Magento_Rma
+"RMA Comment Email Template","RMA Opmerkingen e-mailsjabloon",module,Magento_Rma
+"RMA Comment Email Template for Guest","RMA commentaar email sjabloon voor gast",module,Magento_Rma
 "Send RMA Comment Email Copy To","Stuur RMA Opmerkingen E-mail Naar",module,Magento_Rma
 "RMA Customer Comments","RMA opmerkingen van klanten",module,Magento_Rma
 "RMA Comment Email Recipient","Geadresseerde RMA-Opmerking e-mail",module,Magento_Rma
@@ -9551,7 +9551,7 @@ Enabled,Ingeschakeld,module,Magento_Sales
 Comma-separated,"Komma gescheiden",module,Magento_Sales
 "Send Order Email Copy Method","Manier om kopie van bestelling te mailen",module,Magento_Sales
 "Order Comment Email Sender","Afzender Bestelling Opmerking E-mail",module,Magento_Sales
-"Order Comment Email Template","Bestelling opmerking E-mailtemplate",module,Magento_Sales
+"Order Comment Email Template","Bestelling opmerking E-mailsjabloon",module,Magento_Sales
 "Order Comment Email Template for Guest","Sjabloon e-mail met bestellingsnotitie voor gast",module,Magento_Sales
 "Send Order Comment Email Copy To","Kopie van bestellingsnotitie mailen aan",module,Magento_Sales
 "Send Order Comments Email Copy Method","Stuur bestel-opmerkingen e-mail kopie methode",module,Magento_Sales
@@ -9561,7 +9561,7 @@ Comma-separated,"Komma gescheiden",module,Magento_Sales
 "Send Invoice Email Copy To","Kopie van factuur mailen aan",module,Magento_Sales
 "Send Invoice Email Copy Method","Stuur factuur-opmerkingen e-mail methode",module,Magento_Sales
 "Invoice Comment Email Sender","Afzender Factuur Opmerking E-mail",module,Magento_Sales
-"Invoice Comment Email Template","Factuur-opmerking e-mailtemplate",module,Magento_Sales
+"Invoice Comment Email Template","Factuur-opmerking e-mailsjabloon",module,Magento_Sales
 "Invoice Comment Email Template for Guest","E-mail-sjabloon factuurnotitie voor gast",module,Magento_Sales
 "Send Invoice Comment Email Copy To","Kopie van factuurnotitie mailen aan",module,Magento_Sales
 "Send Invoice Comments Email Copy Method","Stuur factuur-opmerkingen e-mail kopie methode",module,Magento_Sales
@@ -9594,7 +9594,7 @@ Shipment,Verzending,module,Magento_Sales
 "Orders and Returns Search Form","Bestellingen en terugsturingen zoekformulier",module,Magento_Sales
 "Anchor Custom Title","Zet eigen titel vast",module,Magento_Sales
 Template,Template,module,Magento_Sales
-"Default Template","Standaard template",module,Magento_Sales
+"Default Template","Standaard sjabloon",module,Magento_Sales
 Name,Naam,module,Magento_Sales
 Phone,Telefoonnummer,module,Magento_Sales
 "ZIP/Post Code",Postcode,module,Magento_Sales
@@ -10483,7 +10483,7 @@ Priority,Prioriteit,module,Magento_Sitemap
 Enabled,Ingeschakeld,module,Magento_Sitemap
 "Error Email Recipient","E-mailadres ontvanger van foutmelding",module,Magento_Sitemap
 "Error Email Sender","Afzender Foutmelding E-mail",module,Magento_Sitemap
-"Error Email Template","Foutmelding Email Template",module,Magento_Sitemap
+"Error Email Template","Foutmelding E-mail sjabloon",module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Sitemap
 "Start Time","Begin Tijd",module,Magento_Sitemap
 "Sitemap File Limits","Sitemap bestand beperkingen",module,Magento_Sitemap
@@ -12119,9 +12119,9 @@ Pages,Pagina's,module,Magento_VersionsCms
 "CMS Hierarchy","CMS hiërarchie",module,Magento_VersionsCms
 "CMS Hierarchy Node Link","CMS hiërarchie node link",module,Magento_VersionsCms
 "Link to Specified CMS Hierarchy Node","Link naar gespecificeerde CMS Hiërarchie Node",module,Magento_VersionsCms
-Template,Template,module,Magento_VersionsCms
-"CMS Page Link Block Template","CMS pagina link blokkerende template",module,Magento_VersionsCms
-"CMS Page Link Inline Template","CMS link ingelijnde template",module,Magento_VersionsCms
+Template,Sjabloon,module,Magento_VersionsCms
+"CMS Page Link Block Template","CMS pagina link bloksjabloon",module,Magento_VersionsCms
+"CMS Page Link Inline Template","CMS link inline sjabloon",module,Magento_VersionsCms
 "All Store Views","Alle Winkelaanzichten",module,Magento_VersionsCms
 "Search All Products","Zoek in alle producten",module,Magento_VisualMerchandiser
 "Add Product by SKU","Product toevoegen op art.nr.",module,Magento_VisualMerchandiser
@@ -12335,7 +12335,7 @@ description,omschrijving,module,Magento_Widget
 None,Geen,module,Magento_Widget
 %1,%1,module,Magento_Widget
 Container,Container,module,Magento_Widget
-Template,Template,module,Magento_Widget
+Template,Sjabloon,module,Magento_Widget
 All,Alle,module,Magento_Widget
 "Specific %1","Specifieke %1",module,Magento_Widget
 "Open Chooser","Kiezer openen",module,Magento_Widget
@@ -12344,8 +12344,8 @@ Page,Pagina,module,Magento_Widget
 "Orders and Returns","Bestellingen en Retouren",module,Magento_Widget
 "Orders and Returns Search Form","Bestellingen en terugsturingen zoekformulier",module,Magento_Widget
 "Anchor Custom Title","Zet eigen titel vast",module,Magento_Widget
-"CMS Page Link Block Template","CMS pagina link blokkerende template",module,Magento_Widget
-"CMS Page Link Inline Template","CMS link ingelijnde template",module,Magento_Widget
+"CMS Page Link Block Template","CMS pagina link block sjabloon",module,Magento_Widget
+"CMS Page Link Inline Template","CMS link inline sjabloon",module,Magento_Widget
 "Display a Link to Loading a Spreadsheet","Geef een link weer om een Spreadsheet te laden",module,Magento_Widget
 "Defines whether a link to My Account","Definieert of een link naar Mijn account",module,Magento_Widget
 "Link Text","Link tekst",module,Magento_Widget
@@ -12453,7 +12453,7 @@ Back,Terug,module,Magento_Wishlist
 "Wish List Section",Verlanglijstsectie,module,Magento_Wishlist
 "Share Options","Delen Opties",module,Magento_Wishlist
 "Email Sender","Afzender E-mail",module,Magento_Wishlist
-"Email Template","E-mail template",module,Magento_Wishlist
+"Email Template","E-mail sjabloon",module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Wishlist
 "Max Emails Allowed to be Sent","Maximum aantal e-mails dat verzonden mag worden",module,Magento_Wishlist
 "Email Text Length Limit","E-mail tekst lengte limiet",module,Magento_Wishlist
