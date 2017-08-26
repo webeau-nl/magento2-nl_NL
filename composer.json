@@ -1,5 +1,5 @@
 {
-    "name": "honl/magento2-nl-nl",
+    "name": "webeau/magento2-nl-nl",
     "description": "H&O Magento 2 Dutch Translations / Nederlandse Vertalingen",
     "homepage": "https://github.com/ho-nl/magento2-Ho_nl_NL",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0"
+        "php": ">=7.0"
     },
     "type": "magento2-language",
     "license": "BSD-2-Clause",
