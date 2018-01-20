@@ -3274,7 +3274,7 @@ Name,Naam,module,Magento_Contact
 Email,E-mail,module,Magento_Contact
 "Phone Number",Telefoonnummer,module,Magento_Contact
 "What’s on your mind?","Wat is je vraag?",module,Magento_Contact
-Submit,Bevestig,module,Magento_Contact
+Submit,Versturen,module,Magento_Contact
 "Contact Form",Contactformulier,module,Magento_Contact
 "Name: %name","Naam: %name",module,Magento_Contact
 "Email: %email","E-mailadres: %email",module,Magento_Contact
@@ -3282,11 +3282,11 @@ Submit,Bevestig,module,Magento_Contact
 "Comment: %comment","Reactie: %comment",module,Magento_Contact
 "Contacts Section","Contact sectie",module,Magento_Contact
 Contacts,Contacten,module,Magento_Contact
-"Contact Us","Mail ons",module,Magento_Contact
-"Enable Contact Us","‘Mail ons’ inschakelen",module,Magento_Contact
+"Contact Us","Contact",module,Magento_Contact
+"Enable Contact Us","‘Contact’ inschakelen",module,Magento_Contact
 "Email Options","E-mail opties",module,Magento_Contact
 "Send Emails To","E-mails versturen aan",module,Magento_Contact
-"Email Sender","E-mail Afzender",module,Magento_Contact
+"Email Sender","E-mail afzender",module,Magento_Contact
 "Email Template","E-mail template",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_Contact
 "Invalid domain name: %1","Ongeldige domeinnaam: %1",module,Magento_Cookie
@@ -6043,7 +6043,7 @@ Reports,Rapportages,module,Magento_Invitation
 "Please enter a correct confirmation key.","Voer een juiste confirmatie sleutel in.",module,Magento_Invitation
 "Bad request.","Foute aanvraag",module,Magento_Invitation
 "Your invitation is not valid. Please create an account.","Je uitnodiging is niet geldig. Maak een account aan.",module,Magento_Invitation
-"Your invitation is not valid. Please contact us at %1.","Je uitnodiging is niet geldig. Contacteer ons op %1.",module,Magento_Invitation
+"Your invitation is not valid. Please contact us at %1.","Je uitnodiging is niet geldig. Contact ons op %1.",module,Magento_Invitation
 "We can't save this customer.","We kunnen de klant niet opslaan.",module,Magento_Invitation
 "Page not found.","Pagina niet gevonden.",module,Magento_Invitation
 "My Invitations",Uitnodigingen,module,Magento_Invitation
