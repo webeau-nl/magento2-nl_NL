@@ -3632,7 +3632,7 @@ Download,Downloads,module,Magento_Customer
 "The customer would belong to Customer Group %s.","De klant zou behoren tot de groep Customer %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Er is een fout opgetreden bij Klant Groep.",module,Magento_Customer
 "Validate VAT Number","Valideer BTW-nummer",module,Magento_Customer
-"Customer Login",Klant-login,module,Magento_Customer
+"Customer Login",Inloggen,module,Magento_Customer
 "Create New Customer Account","Nieuw account aanmaken",module,Magento_Customer
 "Date of Birth",Geboortedatum,module,Magento_Customer
 "Bad request.","Foute aanvraag",module,Magento_Customer
@@ -3871,7 +3871,7 @@ Email,Email,module,Magento_Customer
 "Send confirmation link","stuur bevestigingslink",module,Magento_Customer
 "Back to Sign In","Terug naar inloggen",module,Magento_Customer
 "Change Email","E-mailadres wijzigen",module,Magento_Customer
-"Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_Customer
+"Change Email and Password","Wijzig e-mail en wachtwoord",module,Magento_Customer
 "Current Password","Huidig wachtwoord",module,Magento_Customer
 "New Password","Nieuw wachtwoord",module,Magento_Customer
 "Password Strength",Wachtwoordsterkte,module,Magento_Customer
@@ -3880,8 +3880,8 @@ Email,Email,module,Magento_Customer
 Save,Opslaan,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Voer je e-mailadres hieronder in om een wachtwoord reset link te ontvangen.",module,Magento_Customer
 "Reset My Password","Wachtwoord resetten",module,Magento_Customer
-"Registered Customers","Geregistreerde klanten",module,Magento_Customer
-"If you have an account, sign in with your email address.","Als je een account hebt, meld je dan aan met je e-mailadres.",module,Magento_Customer
+"Registered Customers","Bestaande klanten",module,Magento_Customer
+"If you have an account, sign in with your email address.","Als je een account hebt, log hier in met je e-mailadres.",module,Magento_Customer
 Password,Wachtwoord,module,Magento_Customer
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Customer
 "Subscription option",Abonnementoptie,module,Magento_Customer
@@ -4952,8 +4952,8 @@ Reset,Reset,module,Magento_Email
 "Convert to Plain Text","Omzetten naar platte tekst",module,Magento_Email
 "Return Html Version","Geef HTML-versie terug",module,Magento_Email
 "Preview Template","Voorbeeld Sjabloon",module,Magento_Email
-"Save Template","Sjabloon Opslaan",module,Magento_Email
-"Load Template","Sjabloon Laden",module,Magento_Email
+"Save Template","Sjabloon opslaan",module,Magento_Email
+"Load Template","Sjabloon laden",module,Magento_Email
 "Edit Email Template","E-mail-sjabloon bewerken",module,Magento_Email
 "New Email Template","Nieuwe e-mail-sjabloon",module,Magento_Email
 "Default Config","Standaard configuratie",module,Magento_Email
@@ -4963,13 +4963,13 @@ Reset,Reset,module,Magento_Email
 "Template Subject","Template onderwerp",module,Magento_Email
 "Insert Variable...","Variabele waarde invoegen...",module,Magento_Email
 "Template Content","Template inhoud",module,Magento_Email
-"Template Styles","Template Stijl",module,Magento_Email
+"Template Styles","Template stijl",module,Magento_Email
 Preview,Voorbeeld,module,Magento_Email
 Unknown,Onbekend,module,Magento_Email
 "You deleted the email template.","Je hebt het e-mail sjabloon verwijderd.",module,Magento_Email
 "The email template is currently being used.","Het e-mail sjabloon wordt momenteel gebruikt.",module,Magento_Email
 "We can't delete email template data right now. Please review log and try again.","Wij kunnen de e-mail sjabloongegevens nu niet verwijderen. Controleer het logboek en probeer het opnieuw.",module,Magento_Email
-"We can't find an email template to delete.","We vinden kunnen het e-mail sjabloon om te verwijderen niet vinden.",module,Magento_Email
+"We can't find an email template to delete.","We kunnen het te verwijderen sjabloon niet vinden.",module,Magento_Email
 "Edit Template","Template bewerken",module,Magento_Email
 "Edit System Template","Systeem-sjabloon bewerken",module,Magento_Email
 "New Template","Nieuw sjabloon",module,Magento_Email
@@ -6853,7 +6853,7 @@ Cancel,Annuleer,module,Magento_Newsletter
 Resume,Doorgaan,module,Magento_Newsletter
 Preview,Voorbeeld,module,Magento_Newsletter
 "Add New Template","Nieuwe sjabloon toevoegen",module,Magento_Newsletter
-"Newsletter Templates","Nieuwsbrief Sjablonen",module,Magento_Newsletter
+"Newsletter Templates","Nieuwsbrief sjablonen",module,Magento_Newsletter
 "Convert to Plain Text","Omzetten naar platte tekst",module,Magento_Newsletter
 "Return HTML Version","Geef HTML-versie terug",module,Magento_Newsletter
 "Delete Template","Sjabloon verwijderen",module,Magento_Newsletter
@@ -6941,7 +6941,7 @@ Subscribe,Inschrijven,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Je bent nu geabonneerd op onze nieuwsbrief.",module,Magento_Newsletter
 "Newsletter unsubscription success","Nieuwsbrief uitschrijving gelukt",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Je bent uitgeschreven op onze nieuwsbrief.",module,Magento_Newsletter
-"Newsletter Template","Nieuwsbrief Sjabloon",module,Magento_Newsletter
+"Newsletter Template","Nieuwsbrief sjabloon",module,Magento_Newsletter
 "Newsletter Section","Nieuwsbrief sectie",module,Magento_Newsletter
 "Subscription Options",Abonnementopties,module,Magento_Newsletter
 "Allow Guest Subscription","Inschrijven voor gasten toestaan",module,Magento_Newsletter
@@ -12650,7 +12650,7 @@ Product,Product,module,Magento_Widget
 Conditions,Voorwaarden,module,Magento_Widget
 "Widget ID",Widget-ID,module,Magento_Widget
 "Wish List",Verlanglijst,module,Magento_Wishlist
-"Wish List Sharing","Verlanglijst Delen",module,Magento_Wishlist
+"Wish List Sharing","Verlanglijst delen",module,Magento_Wishlist
 "My Wish List","Mijn verlanglijst",module,Magento_Wishlist
 "%1's Wish List","%1's Verlanglijst",module,Magento_Wishlist
 "Page not found.","Pagina niet gevonden.",module,Magento_Wishlist
@@ -12857,7 +12857,7 @@ Footer,Footer,theme,frontend/Magento/luma
 "About Us","Over ons",theme,frontend/Magento/luma
 "Customer Service",Klantenservice,theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Openingsuren:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Openingstijden:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Creditfactuur voor je %store_name bestelling",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op je account</a>.",theme,frontend/Magento/luma
