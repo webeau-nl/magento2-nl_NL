@@ -1865,6 +1865,11 @@ Select...,Selecteer...,module,Magento_Catalog
 "Customer Group Price","Klantgroep prijs",module,Magento_Catalog
 "Customer Group",Klantengroep,module,Magento_Catalog
 "Special Price From","Speciale prijs vanaf",module,Magento_Catalog
+"Special Price From Date","Speciale prijs vanaf datum",module,Magento_Catalog
+"Special Price To Date","Speciale prijs tot datum",module,Magento_Catalog
+"Active From","Actief vanaf",module,Magento_Catalog
+"Active To","Actief tot",module,Magento_Catalog
+"Cost","Kostprijs",module,Magento_Catalog
 To,Aan,module,Magento_Catalog
 Done,Klaar,module,Magento_Catalog
 "Add Selected","Geselecteerde toevoegen",module,Magento_Catalog
@@ -1888,7 +1893,9 @@ Required,Vereist,module,Magento_Catalog
 %1,%1,module,Magento_Catalog
 "This item has weight","Dit product heeft een gewicht",module,Magento_Catalog
 "This item has no weight","Dit product heeft geen gewicht",module,Magento_Catalog
-"Set Product as New From","Stel het product in als nieuw vanaf",module,Magento_Catalog
+"Set Product as New From","Stel product in als nieuw vanaf",module,Magento_Catalog
+"Set Product as New from Date","Stel product in als nieuw vanaf datum",module,Magento_Catalog
+"Set Product as New to Date","Stel product in als nieuw tot datum",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Verwante producten, up-sells en cross-sells",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Verwante producten worden getoond aan bezoekers als toevoeging aan het product dat de bezoeker bekijkt.",module,Magento_Catalog
 "Add Related Products","Verwante producten toevoegen",module,Magento_Catalog
@@ -2161,6 +2168,7 @@ Set,"Stel (noun) / Bevestigd / Vastgelegd",module,Magento_Catalog
 Content,inhoud,module,Magento_Catalog
 "Category Image","Categorie afbeelding",module,Magento_Catalog
 Description,Omschrijving,module,Magento_Catalog
+"Short Description","Korte omschrijving",module,Magento_Catalog
 "Add CMS Block","CMS blok toevoegen",module,Magento_Catalog
 "Display Settings",Weergave-instellingen,module,Magento_Catalog
 "Display Mode",Weergavemodus,module,Magento_Catalog
@@ -2203,7 +2211,7 @@ System,Systeem,module,Magento_Catalog
 "Change status","Verander status",module,Magento_Catalog
 Enable,Activeer,module,Magento_Catalog
 Disable,Deactiveer,module,Magento_Catalog
-"Update attributes","Atttributen bijwerken",module,Magento_Catalog
+"Update attributes","Attributen bijwerken",module,Magento_Catalog
 Overview,Overzicht,module,Magento_Catalog
 "Skip to the end of the images gallery","Ga naar het einde van de afbeeldingen-gallerij",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Ga naar het begin van de afbeeldingen-gallerij",module,Magento_Catalog
@@ -5249,7 +5257,7 @@ Availability,Beschikbaarheid,module,Magento_GiftCard
 "Gift Card General Settings","Cadeaubon algemene instellingen",module,Magento_GiftCard
 Redeemable,Inwisselbaar,module,Magento_GiftCard
 "If empty no expiration.","Als leeg geen vervaldatum.",module,Magento_GiftCard
-"Allow Gift Message","Cadeau bericht toestaan",module,Magento_GiftCard
+"Allow Gift Message","Cadeaubericht toestaan",module,Magento_GiftCard
 "Gift Message Maximum Length","Cadeaubericht maximale lengte",module,Magento_GiftCard
 "Generate Gift Card Account when Order Item is","Maak rekening cadeaubon aan indien het dit bestelde product is",module,Magento_GiftCard
 "Gift Card Accounts","Cadeaubon Accounts",module,Magento_GiftCardAccount
@@ -5398,18 +5406,18 @@ CSV,CSV,module,Magento_GiftCardAccount
 Code,"Interne naam",module,Magento_GiftCardAccount
 End,Einde,module,Magento_GiftCardAccount
 "Gift Messages are not applicable for empty cart","Persoonlijke berichten zijn niet van toepassing bij een lege winkelwagen",module,Magento_GiftMessage
-"Gift Messages are not applicable for virtual products","Cadeau berichten zijn niet van toepassing op virtuele producten",module,Magento_GiftMessage
-"Gift Message is not available","Cadeau bericht is niet beschikbaar",module,Magento_GiftMessage
-"Could not add gift message to shopping cart","Kon geen cadeau bericht toevoegen aan de winkelwagen",module,Magento_GiftMessage
+"Gift Messages are not applicable for virtual products","Cadeauberichten zijn niet van toepassing op virtuele producten",module,Magento_GiftMessage
+"Gift Message is not available","Cadeaubericht is niet beschikbaar",module,Magento_GiftMessage
+"Could not add gift message to shopping cart","Kon geen cadeaubericht toevoegen aan de winkelwagen",module,Magento_GiftMessage
 "There is no item with provided id in the cart","Er is geen object met de gegeven id in de winkelwagen",module,Magento_GiftMessage
 "There is no product with provided  itemId: %1 in the cart","Er is geen product met opgegeven itemId: %1 in de winkelwagen",module,Magento_GiftMessage
 "There is no item with provided id in the order","Er is geen object met de opgegeven id in de order",module,Magento_GiftMessage
-"There is no item with provided id in the order or gift message isn't allowed","Er is geen item met de opgegeven id in de order of een cadeau bericht is niet toegestaan",module,Magento_GiftMessage
-"Could not add gift message to order: ""%1""","Kon geen cadeau bericht worden toegevoegd aan order: ""%1""",module,Magento_GiftMessage
-"There is no order with provided id or gift message isn't allowed","Er is geen order met opgegeven id of een cadeau bericht is niet toegestaan",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","Er is geen item met de opgegeven id in de order of een cadeaubericht is niet toegestaan",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","Kon geen cadeaubericht worden toegevoegd aan order: ""%1""",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","Er is geen order met opgegeven id of een cadeaubericht is niet toegestaan",module,Magento_GiftMessage
 "There is no order with provided id","Er is geen order voor opgegeven id",module,Magento_GiftMessage
-"Gift Messages are not applicable for empty order","Cadeau berichten zijn niet van toepassing op een lege bestelling",module,Magento_GiftMessage
-"Could not add gift message to order's item: ""%1""","Kon geen cadeau bericht toevoegen aan order item: ""%1""",module,Magento_GiftMessage
+"Gift Messages are not applicable for empty order","Cadeauberichten zijn niet van toepassing op een lege bestelling",module,Magento_GiftMessage
+"Could not add gift message to order's item: ""%1""","Kon geen cadeaubericht toevoegen aan order item: ""%1""",module,Magento_GiftMessage
 "Unknown entity type","Onbekend entiteittype",module,Magento_GiftMessage
 "Test label","Test Label",module,Magento_GiftMessage
 "Use Config Settings","Gebruik configuratiewaarden",module,Magento_GiftMessage
@@ -5431,7 +5439,7 @@ OK,OK,module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","Je kunt dit veld leeg laten als je geen cadeaubericht wilt toevoegen voor dit adres.",module,Magento_GiftMessage
 "Add gift options for Individual Items","Voeg cadeau-opties toe aan individuele items",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","Je kunt dit veld leeg laten als je geen cadeaubericht wilt toevoegen aan het product.",module,Magento_GiftMessage
-"Gift Message (optional)","Cadeau bericht (optioneel)",module,Magento_GiftMessage
+"Gift Message (optional)","Cadeaubericht (optioneel)",module,Magento_GiftMessage
 To:,Tot:,module,Magento_GiftMessage
 From:,Van:,module,Magento_GiftMessage
 Message:,Bericht:,module,Magento_GiftMessage
