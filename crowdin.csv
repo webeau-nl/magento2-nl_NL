@@ -4249,7 +4249,7 @@ Country,Land,module,Magento_CustomerCustomAttributes
 "Account Information",Accountgegevens,module,Magento_CustomerCustomAttributes
 "Change Email","E-mailadres wijzigen",module,Magento_CustomerCustomAttributes
 "Change Password","Wachtwoord wijzigen",module,Magento_CustomerCustomAttributes
-"Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_CustomerCustomAttributes
+"Change Email and Password","Wijzig e-mail en wachtwoord",module,Magento_CustomerCustomAttributes
 Email,Email,module,Magento_CustomerCustomAttributes
 "Current Password","Huidig Wachtwoord",module,Magento_CustomerCustomAttributes
 "New Password","Nieuw wachtwoord",module,Magento_CustomerCustomAttributes
@@ -4277,7 +4277,7 @@ Back,Terug,module,Magento_CustomerCustomAttributes
 "We found an invalid value in a website column.","We vonden een ongeldige waarde in een kolom van de website.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Vul een geldige e-mailadres in.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Zorg ervoor dat kenmerk ""%s"" niet leeg is.",module,Magento_CustomerImportExport
-"We can't find a customer who matches this email and website code.","Wij kunnen geen klant vinden die overeenkomt met dit emailadres en website code",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","Wij kunnen geen klant vinden die overeenkomt met dit e-mailadres en website code",module,Magento_CustomerImportExport
 "Customer address id column is not specified","Klanten adres id kolom is niet gespecifieerd",module,Magento_CustomerImportExport
 "We can't find that customer address.","We vinden het adres van de klant niet.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Voer een geldige regio in.",module,Magento_CustomerImportExport
@@ -6903,10 +6903,10 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "Your subscription has been confirmed.","Je inschrijving is bevestigd.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","De confirmatie code voor het abonnement is ongeldig.",module,Magento_Newsletter
 "This is an invalid subscription ID.","Dit is een ongeldig abonnementsID.",module,Magento_Newsletter
-"This email address is already assigned to another user.","Dit E-Mailadres is al toegewezen aan een andere gebruiker.",module,Magento_Newsletter
+"This email address is already assigned to another user.","Dit e-mailadres is al toegewezen aan een andere gebruiker.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Inschrijving is uitsluitend voorbehouden aan geregistreerde klanten. <a href=""%1"">Registreer</a> u.",module,Magento_Newsletter
 "Please enter a valid email address.","Vul een geldig e-mailadres in",module,Magento_Newsletter
-"This email address is already subscribed.","Het emailadres %s is al geabonneerd.",module,Magento_Newsletter
+"This email address is already subscribed.","Het e-mailadres %s is al geabonneerd.",module,Magento_Newsletter
 "The confirmation request has been sent.","De bevestigingsaanvraag werd verzonden.",module,Magento_Newsletter
 "Thank you for your subscription.","Bedankt voor je inschrijving.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Er is een probleem met je inschrijving: %1",module,Magento_Newsletter
@@ -9721,7 +9721,7 @@ Create,Aanmaken,module,Magento_Sales
 "Accept or Deny Payment","Accepteer of weiger betaling",module,Magento_Sales
 "Send Sales Emails","Stuur verkoopemails",module,Magento_Sales
 "Sales Section",Verkoopsectie,module,Magento_Sales
-"Sales Emails Section","Verkoop E-Mails sectie",module,Magento_Sales
+"Sales Emails Section","Verkoop e-mails sectie",module,Magento_Sales
 General,Algemeen,module,Magento_Sales
 "Hide Customer IP","Verberg klant-IP",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Kies of een het IP van de klant in orders, facturen, verzendingen en creditfacturen wordt weergegeven.",module,Magento_Sales
@@ -11000,7 +11000,7 @@ SKU,Art.nr.,module,Magento_Support
 "Duplicate Products By URL Key","Dubbele producten op URL sleutel",module,Magento_Support
 "URL Key","URL sleutel",module,Magento_Support
 Website,Website,module,Magento_Support
-"Duplicate Users By Email","Dubbele gebruikers op E-Mail",module,Magento_Support
+"Duplicate Users By Email","Dubbele gebruikers op e-mail",module,Magento_Support
 Email,Email,module,Magento_Support
 Type,type,module,Magento_Support
 Parent,Bovenliggende,module,Magento_Support
@@ -12053,7 +12053,7 @@ Permissions,Bevoegdheden,module,Magento_User
 "You saved the role.","Je hebt de rol opgeslagen.",module,Magento_User
 "An error occurred while saving this role.","Er is een fout opgetreden bij het opslaan van deze rol.",module,Magento_User
 "You saved the user.","Je hebt de gebruiker opgeslagen.",module,Magento_User
-"A user with the same user name or email already exists.","Een gebruiker met deze gebruikersnaam of dit emailadres bestaat reeds.",module,Magento_User
+"A user with the same user name or email already exists.","Een gebruiker met deze gebruikersnaam of dit e-mailadres bestaat reeds.",module,Magento_User
 Recommended,Aanbevolen,module,Magento_User
 Forced,Gedwongen,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Dit wachtwoord is reeds gebruikt. Probeer een ander.",module,Magento_User
@@ -12668,7 +12668,7 @@ Conditions,Voorwaarden,module,Magento_Widget
 "We can't delete the item from Wish List right now because of an error: %1.","We kunnen het product niet verwijderen van de verlanglijst omwille van een fout: %1.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","We kunnen het product momenteel niet van de verlanglijst verwijderen.",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Lengte van het bericht mag niet meer dan %1 symbolen bevatten",module,Magento_Wishlist
-"Please enter an email address.","Voer een emailadres in.",module,Magento_Wishlist
+"Please enter an email address.","Voer een e-mailadres in.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","De verlanglijst kan niet meer dan %1 gedeeld worden.",module,Magento_Wishlist
 "Please enter a valid email address.","Vul een geldig e-mailadres in",module,Magento_Wishlist
 "Your wish list has been shared.","Uw verlanglijst is gedeeld.",module,Magento_Wishlist
