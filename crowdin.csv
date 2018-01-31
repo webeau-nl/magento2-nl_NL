@@ -2818,6 +2818,8 @@ Cancel,Annuleer,module,Magento_Checkout
 "Save in address book","Opslaan in adresboek",module,Magento_Checkout
 "You can create an account after checkout.","Je kunt een account maken na het afrekenen.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Je hebt al een account bij ons. Log in of ga door zonder account.",module,Magento_Checkout
+"You already have an account with us.","Je hebt al een account bij ons.",module,Magento_Checkout
+"continue as guest.","of ga door zonder account.",module,Magento_Checkout
 "Estimated Total","Winkelwagen subtotaal",module,Magento_Checkout
 Login,Inloggen,module,Magento_Checkout
 "See Details","Bekijk details",module,Magento_Checkout
@@ -6367,7 +6369,7 @@ Back,Terug,module,Magento_Logging
 "No changes","Geen veranderingen",module,Magento_Logging
 "The item was deleted","Het product werd verwijderd",module,Magento_Logging
 N/A,n.v.t.,module,Magento_Logging
-"All Users","Alle Gebruikers",module,Magento_Logging
+"All Users","Alle gebruikers",module,Magento_Logging
 "Admin Actions Log","Admin Acties Logboek",module,Magento_Logging
 "Admin Actions Archive","Admin Acties Archief",module,Magento_Logging
 Report,Verslag,module,Magento_Logging
@@ -6635,7 +6637,7 @@ Customers,Klanten,module,Magento_MultipleWishlist
 "Unknown Magento error","Onbekende Magento fout",module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
 Refresh,Vernieuwen,module,Magento_MultipleWishlist
-"All Wish Lists","Alle verlanlijsten",module,Magento_MultipleWishlist
+"All Wish Lists","Alle verlanglijsten",module,Magento_MultipleWishlist
 Item,Item,module,Magento_MultipleWishlist
 Qty,Aantal,module,Magento_MultipleWishlist
 Price,Prijs,module,Magento_MultipleWishlist
@@ -6706,7 +6708,7 @@ Comment,Opmerking,module,Magento_MultipleWishlist
 "Wish List Quantity","Wensenlijst aantal",module,Magento_MultipleWishlist
 "Store Quantity","Winkel aantal",module,Magento_MultipleWishlist
 "Surplus / Deficit","Overschot / tekort",module,Magento_MultipleWishlist
-"All Websites","Alle Websites",module,Magento_MultipleWishlist
+"All Websites","Alle websites",module,Magento_MultipleWishlist
 "Product Info",Productinformatie,module,Magento_MultipleWishlist
 "Unit Price",Stukprijs,module,Magento_MultipleWishlist
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_MultipleWishlist
@@ -8267,7 +8269,7 @@ Error,Foutmelding,module,Magento_Reports
 "Number of Wish List referrals: %1","Aantal verlanglijst verwijzingen: %1",module,Magento_Reports
 "Number of Wish List conversions: %1","Aantal conversies van de verlanglijsten: %1",module,Magento_Reports
 "Show Report For:","Toon rapport voor:",module,Magento_Reports
-"All Websites","Alle Websites",module,Magento_Reports
+"All Websites","Alle websites",module,Magento_Reports
 "Recently Viewed","Recent bekeken",module,Magento_Reports
 "Add to Cart","In winkelwagen",module,Magento_Reports
 "In stock","Op voorraad",module,Magento_Reports
@@ -12102,7 +12104,7 @@ Resources,Bronnen,module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Als je geen toestemming voor deze actie gegeven hebt, neem onmiddellijk contact met ons op %store_email",module,Magento_User
 "or call us at %store_phone","of bel ons op %store_phone",module,Magento_User
 "Thanks,","Bedankt,",module,Magento_User
-"All Users","Alle Gebruikers",module,Magento_User
+"All Users","Alle gebruikers",module,Magento_User
 "User Roles",Gebruikersrollen,module,Magento_User
 "User Notification Template","Gebruikers kennisgevingssjabloon",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd.",module,Magento_User
