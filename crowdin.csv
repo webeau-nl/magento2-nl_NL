@@ -422,8 +422,8 @@ Debug,Debug,module,Magento_Authorizenet
 "Merchant's Email","Handelaar E-mail",module,Magento_Authorizenet
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Authorizenet
 "Credit Card Verification",Creditcard-verficatie,module,Magento_Authorizenet
-"Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_Authorizenet
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Authorizenet
+"Payment from Applicable Countries","Betaling vanuit toegestane landen",module,Magento_Authorizenet
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_Authorizenet
 "Minimum Order Total","Minimale bestelwaarde",module,Magento_Authorizenet
 "Maximum Order Total","Maximale bestelwaarde",module,Magento_Authorizenet
 "Sort Order",Sorteervolgorde,module,Magento_Authorizenet
@@ -1133,10 +1133,10 @@ Debug,Debug,module,Magento_Braintree
 "CVV Verification","CVV verificatie",module,Magento_Braintree
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Braintree
 "Sort Order",Sorteervolgorde,module,Magento_Braintree
-"Country Specific Settings","Land specifieke instellingen",module,Magento_Braintree
-"Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_Braintree
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Braintree
-"Country Specific Credit Card Types","Land specifieke kredietkaart types",module,Magento_Braintree
+"Country Specific Settings","Land-specifieke instellingen",module,Magento_Braintree
+"Payment from Applicable Countries","Betaling vanuit toegestane landen",module,Magento_Braintree
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_Braintree
+"Country Specific Credit Card Types","Land-specifieke creditcard types",module,Magento_Braintree
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
 "Override Merchant Name","Overschrijf naam handelaar",module,Magento_Braintree
 "Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
@@ -1169,7 +1169,7 @@ Amount,Aantal,module,Magento_Braintree
 "Settlement Batch ID","Betalings batch ID",module,Magento_Braintree
 Currency,Valuta,module,Magento_Braintree
 Country,Land,module,Magento_BraintreeTwo
-"Allowed Credit Card Types","Toegestane kredietkaart types",module,Magento_BraintreeTwo
+"Allowed Credit Card Types","Toegestane creditcard types",module,Magento_BraintreeTwo
 "Add Rule","Regel toevoegen",module,Magento_BraintreeTwo
 "Braintree Settlement Report","Braintree schikkingsrapport",module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Er ging iets mis",module,Magento_BraintreeTwo
@@ -1204,16 +1204,16 @@ Unrecognized,"Niet herkend",module,Magento_BraintreeTwo
 "Settlement confirmed","Regeling bevestigd",module,Magento_BraintreeTwo
 Sale,Uitverkoop,module,Magento_BraintreeTwo
 Credit,Tegoed,module,Magento_BraintreeTwo
-"Credit Card Type","Kredietkaart type",module,Magento_BraintreeTwo
-"Credit Card Number",Kredietkaartnummer,module,Magento_BraintreeTwo
-"Please, enter valid Credit Card Number","Voer geldig kredietkaartnummer in",module,Magento_BraintreeTwo
+"Credit Card Type","Creditcard type",module,Magento_BraintreeTwo
+"Credit Card Number",Creditcard-nummer,module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number","Voer geldig creditcard-nummer in",module,Magento_BraintreeTwo
 "Expiration Date",Vervaldatum,module,Magento_BraintreeTwo
 "Please, enter valid Expiration Date","Voer een geldige vervaldatum in",module,Magento_BraintreeTwo
 "Card Verification Number",Verificatienummer,module,Magento_BraintreeTwo
-"Please, enter valid Card Verification Number","Gelieve een geldig kredietkaart verificatie nummer op te geven",module,Magento_BraintreeTwo
+"Please, enter valid Card Verification Number","Gelieve een geldig creditcard verificatie nummer op te geven",module,Magento_BraintreeTwo
 ending,einddatum,module,Magento_BraintreeTwo
 expires,verloopt,module,Magento_BraintreeTwo
-"Credit Card Information","Kredietkaart informatie",module,Magento_BraintreeTwo
+"Credit Card Information","Creditcard informatie",module,Magento_BraintreeTwo
 "What is this?","Wat is dit?",module,Magento_BraintreeTwo
 "Save for later use.","Opslaan voor later gebruik.",module,Magento_BraintreeTwo
 "Place Order","Plaats bestelling",module,Magento_BraintreeTwo
@@ -1239,12 +1239,12 @@ Environment,Omgeving,module,Magento_BraintreeTwo
 "Kount Merchant ID","Kount Merchant ID",module,Magento_BraintreeTwo
 Debug,Debug,module,Magento_BraintreeTwo
 "CVV Verification","CVV verificatie",module,Magento_BraintreeTwo
-"Credit Card Types","Kredietkaart types",module,Magento_BraintreeTwo
+"Credit Card Types","Creditcard types",module,Magento_BraintreeTwo
 "Sort Order",Sorteervolgorde,module,Magento_BraintreeTwo
-"Country Specific Settings","Land specifieke instellingen",module,Magento_BraintreeTwo
-"Payment from Applicable Countries","Betaling van toepasselijke landen",module,Magento_BraintreeTwo
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_BraintreeTwo
-"Country Specific Credit Card Types","Land specifieke kredietkaart types",module,Magento_BraintreeTwo
+"Country Specific Settings","Land-specifieke instellingen",module,Magento_BraintreeTwo
+"Payment from Applicable Countries","Betaling vanuit toepasselijke landen",module,Magento_BraintreeTwo
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_BraintreeTwo
+"Country Specific Credit Card Types","Land-specifieke creditcard types",module,Magento_BraintreeTwo
 "PayPal through Braintree","PayPal via Braintree",module,Magento_BraintreeTwo
 "Override Merchant Name","Overschrijf naam winkelier",module,Magento_BraintreeTwo
 "Require Customer's Billing Address","Vereist factuuradres van de klant",module,Magento_BraintreeTwo
@@ -4307,8 +4307,8 @@ Status,Status,module,Magento_CustomerSegment
 Active,Actief,module,Magento_CustomerSegment
 Inactive,Inactief,module,Magento_CustomerSegment
 "Apply To","Pas Toe Op",module,Magento_CustomerSegment
-"Visitors and Registered Customers","Bezoekers en Geregistreerde Klanten",module,Magento_CustomerSegment
-"Registered Customers","Geregistreerde Klanten",module,Magento_CustomerSegment
+"Visitors and Registered Customers","Bezoekers en geregistreerde klanten",module,Magento_CustomerSegment
+"Registered Customers","Geregistreerde klanten",module,Magento_CustomerSegment
 Visitors,Bezoekers,module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Sla deze informatie op om segmentatie condities op te geven.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Overeenkomende Klanten (%1)",module,Magento_CustomerSegment
@@ -4495,8 +4495,8 @@ Title,Titel,module,Magento_Cybersource
 "Test Mode","Test Modus",module,Magento_Cybersource
 Debug,Debug,module,Magento_Cybersource
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Cybersource
-"Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_Cybersource
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Cybersource
+"Payment from Applicable Countries","Betaling vanuit toegestane landen",module,Magento_Cybersource
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_Cybersource
 "Minimum Order Total","Minimale bestelwaarde",module,Magento_Cybersource
 "Maximum Order Total","Maximale bestelwaarde",module,Magento_Cybersource
 "Sort Order",Sorteervolgorde,module,Magento_Cybersource
@@ -5095,8 +5095,8 @@ Title,Titel,module,Magento_Eway
 "Payment Action",Betaling,module,Magento_Eway
 Debug,Debug,module,Magento_Eway
 "Credit Card Types",Creditcard-maatschappij,module,Magento_Eway
-"Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_Eway
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_Eway
+"Payment from Applicable Countries","Betaling vanuit toegestane landen",module,Magento_Eway
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_Eway
 "Sort Order",Sorteervolgorde,module,Magento_Eway
 "Europe First Priority","Europa hoogste prioriteit",module,Magento_Fedex
 "1 Day Freight","24 uurs zending",module,Magento_Fedex
@@ -6475,9 +6475,9 @@ Reports,Rapportages,module,Magento_Logging
 "Tax Rates",BTW-tarieven,module,Magento_Logging
 "XML Sitemap",XML-Sitemap,module,Magento_Logging
 Widget,Widget,module,Magento_Logging
-"Cache Management","Cache Management",module,Magento_Logging
-"PayPal Settlement Reports","PayPal Overeenstemmings Rapporten",module,Magento_Logging
-"Archive File","Archief Bestand",module,Magento_Logging
+"Cache Management","Cache management",module,Magento_Logging
+"PayPal Settlement Reports","PayPal Overeenstemmingsrapporten",module,Magento_Logging
+"Archive File","Archief bestand",module,Magento_Logging
 Date,Datum,module,Magento_Logging
 CSV,CSV,module,Magento_Logging
 "Excel XML","Excel XML",module,Magento_Logging
@@ -6489,7 +6489,7 @@ Username,Gebruikersnaam,module,Magento_Logging
 Result,Resultaat,module,Magento_Logging
 "Full Action Name","Volledige Actienaam",module,Magento_Logging
 Details,Gegevens,module,Magento_Logging
-"Full Details","Volledige Details",module,Magento_Logging
+"Full Details","Volledige details",module,Magento_Logging
 Partners,Partners,module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
 "Platinum Partners","Platinum Partners",module,Magento_Marketplace
@@ -6497,10 +6497,10 @@ Partners,Partners,module,Magento_Marketplace
 "Featured Platinum Partners","Aanbevolen Platinum Partners",module,Magento_Marketplace
 "Partner search","Partner zoeken",module,Magento_Marketplace
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento beschikt over een bloeiend ecosysteem van technologiepartners om handelaars en merken de best mogelijke kantervaring te leveren. Ze worden erkend als expert in e-Commerce, zoeken, e-mail marketing, betalingen, btw, fraude, optimalisatie en analytics, vervulling, en meer. Bezoek de Magento Partner Directory om al onze vertrouwde partners te bekijken.",module,Magento_Marketplace
-"More Partners","Meer Partners",module,Magento_Marketplace
+"More Partners","Meer partners",module,Magento_Marketplace
 "Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","Extensies en thema’s zijn een essentieel onderdeel van het Magento ecosysteem. Bezoek de Magento marktplaats om de laatste nieuwigheden te bekijken die ontwikkelaars hebben gemaakt om je Magento winkel te verbeteren.",module,Magento_Marketplace
 "Visit Magento Marketplaces","Bezoek Magento Marektplaces",module,Magento_Marketplace
-"Read More","Meer Lezen",module,Magento_Marketplace
+"Read More","Meer lezen",module,Magento_Marketplace
 "Partner Page",Partnerpagina,module,Magento_Marketplace
 "No partners were found","Geen partners gevonden",module,Magento_Marketplace
 Synchronize,Synchroniseren,module,Magento_MediaStorage
@@ -6995,8 +6995,8 @@ Enabled,Ingeschakeld,module,Magento_OfflinePayments
 "New Order Status","Status nieuwe bestelling",module,Magento_OfflinePayments
 "Sort Order",Sorteervolgorde,module,Magento_OfflinePayments
 Title,Titel,module,Magento_OfflinePayments
-"Payment from Applicable Countries","Betaling van Geëigende Landen",module,Magento_OfflinePayments
-"Payment from Specific Countries","Betaling van Specifieke Landen",module,Magento_OfflinePayments
+"Payment from Applicable Countries","Betaling vanuit toegestane landen",module,Magento_OfflinePayments
+"Payment from Specific Countries","Betaling vanuit specifieke landen",module,Magento_OfflinePayments
 "Make Check Payable to","Maak overboeking naar:",module,Magento_OfflinePayments
 "Minimum Order Total","Minimale bestelwaarde",module,Magento_OfflinePayments
 "Maximum Order Total","Maximale bestelwaarde",module,Magento_OfflinePayments
@@ -7506,7 +7506,7 @@ Important:,Belangrijk:,module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Als je inlogt op je PayPal Advanced account, navigeer naar Service Settings - Hosted Checkout Pages - Set Up menu en stel de opties in hieronder omschreven.",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Om de PayPal Payflow Link te gebruiken moet je deze configureren op de PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Als je inlogt op je PayPal Payflow Link account, navigeer naar Service Settings - Hosted Checkout Pages - Set Up menu en stel de opties in hieronder omschreven.",module,Magento_Paypal
-"Credit Card Type","Kredietkaart type",module,Magento_Paypal
+"Credit Card Type","Creditcard type",module,Magento_Paypal
 "Credit Card Number",Creditcard-nummer,module,Magento_Paypal
 "Expiration Date",Expiratiedatum,module,Magento_Paypal
 "Card Verification Number",Verificatienummer,module,Magento_Paypal
@@ -12814,7 +12814,7 @@ Debug,Debug,module,Magento_Worldpay
 "Test Mode","Test Modus",module,Magento_Worldpay
 "Payment Action for Test","Betalingsactie voor test",module,Magento_Worldpay
 "Payment Action",Betaling,module,Magento_Worldpay
-"Payment From Applicable Countries","Betaling van Geëigende Landen",module,Magento_Worldpay
+"Payment From Applicable Countries","Betaling van toegestane landen",module,Magento_Worldpay
 "Payment From Specific Countries","Betaling uit bepaalde landen",module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for CVV","Zet bestellingstatus op verdenking van fraude voor CVV",module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for Postcode AVS","Zet bestellingstatus op verdenking van fraude voor postcode AVS",module,Magento_Worldpay
