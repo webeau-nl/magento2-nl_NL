@@ -6772,7 +6772,7 @@ Change,Verander,module,Magento_Multishipping
 "Product Name","Product Naam",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Afrekenen met meerdere adressen",module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Adres %1 <span>van %2</span>",module,Magento_Multishipping
-"Shipping To","Verenden naar",module,Magento_Multishipping
+"Shipping To","Verzenden naar",module,Magento_Multishipping
 "Shipping Method",Verzendmethode,module,Magento_Multishipping
 "Incl. Tax","Incl. BTW",module,Magento_Multishipping
 "Excl. Tax","Excl. BTW",module,Magento_Multishipping
