@@ -3704,7 +3704,7 @@ Customers,Klanten,module,Magento_Customer
 "Online Customers","Online klanten",module,Magento_Customer
 "Customers Now Online","Klanten nu online",module,Magento_Customer
 "Please define Wish List item ID.","Geef verlanglijstje item-ID.",module,Magento_Customer
-"Please load Wish List item.","Gelieve wens lijst item te laden.",module,Magento_Customer
+"Please load Wish List item.","Gelieve verlanglijst-item te laden.",module,Magento_Customer
 "Login successful.","Inloggen succesvol.",module,Magento_Customer
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" sectie bron wordt niet ondersteund",module,Magento_Customer
@@ -5541,7 +5541,7 @@ Customers,Klanten,module,Magento_GiftRegistry
 "%1 email(s) were sent.","%1 email(s) zijn verzonden.",module,Magento_GiftRegistry
 "We couldn't send '%1 of %2 emails.","We konden  '%1 van %2 e-mails niet verzenden .",module,Magento_GiftRegistry
 "You updated this gift registry.","Je hebt de verlanglijst bijgewerkt.",module,Magento_GiftRegistry
-"We can't update these gift registry items right now.","Je kunt deze producten van de verlanglijst updaten.",module,Magento_GiftRegistry
+"We can't update these gift registry items right now.","Je kunt deze producten van de verlanglijst momenteel niet updaten.",module,Magento_GiftRegistry
 "You deleted the gift registry type.","Je hebt het verlanglijst register type verwijderd.",module,Magento_GiftRegistry
 "We couldn't delete this gift registry type.","Wij kunnen dit verlanglijst register type niet verwijderen.",module,Magento_GiftRegistry
 %1,%1,module,Magento_GiftRegistry
@@ -5743,7 +5743,7 @@ Role,Rol,module,Magento_GiftRegistry
 "Email Template","E-mail sjabloon",module,Magento_GiftRegistry
 "Email Sender","Afzender E-mail",module,Magento_GiftRegistry
 "Gift Registry Sharing","verlanglijst delen",module,Magento_GiftRegistry
-"Maximum Sent Emails Threshold","Drempel maximaal aantal verzonden emails",module,Magento_GiftRegistry
+"Maximum Sent Emails Threshold","Drempel maximaal aantal verzonden e-mails",module,Magento_GiftRegistry
 "Gift Registry Update","verlanglijst updaten",module,Magento_GiftRegistry
 Select,Selecteer,module,Magento_GiftRegistry
 Date,Datum,module,Magento_GiftRegistry
@@ -6705,7 +6705,7 @@ Private,Privé,module,Magento_MultipleWishlist
 Product,Product,module,Magento_MultipleWishlist
 SKU,Art.nr.,module,Magento_MultipleWishlist
 Comment,Opmerking,module,Magento_MultipleWishlist
-"Wish List Quantity","Wensenlijst aantal",module,Magento_MultipleWishlist
+"Wish List Quantity","Verlanglijst aantal",module,Magento_MultipleWishlist
 "Store Quantity","Winkel aantal",module,Magento_MultipleWishlist
 "Surplus / Deficit","Overschot / tekort",module,Magento_MultipleWishlist
 "All Websites","Alle websites",module,Magento_MultipleWishlist
@@ -7978,7 +7978,7 @@ N/A,n.v.t.,module,Magento_Reminder
 "Emails Failed","E-mails niet gelukt",module,Magento_Reminder
 "Last Sent","Laatst verzonden",module,Magento_Reminder
 "General Information","Algemene informatie",module,Magento_Reminder
-"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Herrineringsemails kunnen een prijsregel op een winkelwagen toepassen met of zonder kortingscode.' 'Indien een winkelwagen prijsregel een automatisch gegenereerde kortingscode heeft, zal deze herinneringsregel een willekeurige kortingscode voor elke klant genereren.",module,Magento_Reminder
+"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Herrineringse-mails kunnen een prijsregel op een winkelwagen toepassen met of zonder kortingscode.' 'Indien een winkelwagen prijsregel een automatisch gegenereerde kortingscode heeft, zal deze herinneringsregel een willekeurige kortingscode voor elke klant genereren.",module,Magento_Reminder
 "Rule Name","Regel Naam",module,Magento_Reminder
 Description,Omschrijving,module,Magento_Reminder
 "Cart Price Rule","Winkelwagen prijs regels",module,Magento_Reminder
@@ -7990,7 +7990,7 @@ Inactive,Inactief,module,Magento_Reminder
 From,Van,module,Magento_Reminder
 To,Aan,module,Magento_Reminder
 "Repeat Schedule","Herhaal schema",module,Magento_Reminder
-"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Geef het aantal dagen in tot de email herinneringsregel opnieuw wordt doorgevoerd indien de voorwaarden nog steeds overeenkomen (Vb: Geef ""7, 14"" in om emails te sturen na 7 dagen en 14 dagen later).",module,Magento_Reminder
+"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Geef het aantal dagen in tot de e-mail herinneringsregel opnieuw wordt doorgevoerd indien de voorwaarden nog steeds overeenkomen (Vb: Geef ""7, 14"" in om e-mails te sturen na 7 dagen en 14 dagen later).",module,Magento_Reminder
 "Select Rule...","Selecteer regel...",module,Magento_Reminder
 "Email Templates",E-mailsjablonen,module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Alleen klanten die een account hebben voor een winkelaanzicht zullen e-mails ontvangen gerelateerd aan dit winkelaanzicht.",module,Magento_Reminder
@@ -8063,7 +8063,7 @@ found,gevonden,module,Magento_Reminder
 "Shopping cart %1 only virtual items","Winkelwagen %1 alleen virtuele artikelen",module,Magento_Reminder
 "Wish List",Verlanglijst,module,Magento_Reminder
 "Shopping Cart",Winkelwagen,module,Magento_Reminder
-"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","De wensenlijst is niet leeg en verlaten %1 %2 dagen en %3 van deze voorwaarden komen overeen met:",module,Magento_Reminder
+"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","De verlanglijst is niet leeg en verlaten %1 %2 dagen en %3 van deze voorwaarden komen overeen met:",module,Magento_Reminder
 "The root wish list condition should have a days value of 1 or greater.","De basis verlanglijst voorwaarde moet een waarde hebben van 1 dag of hoger.",module,Magento_Reminder
 "Product Attributes","Product Kenmerken",module,Magento_Reminder
 "Product %1","Product %1",module,Magento_Reminder
@@ -8073,7 +8073,7 @@ Sharing,Delen,module,Magento_Reminder
 "Wish List %1 shared","Verlanglijst %1 gedeeld",module,Magento_Reminder
 is,is,module,Magento_Reminder
 "is not","is niet",module,Magento_Reminder
-"The item was added to wish list %1, store view %2.","Het product is toegevoegd aan Wensenlijst %1, winkelaanzicht %2.",module,Magento_Reminder
+"The item was added to wish list %1, store view %2.","Het product is toegevoegd aan verlanglijst %1, winkelaanzicht %2.",module,Magento_Reminder
 "If an item is %1 in the wish list and %2 of these conditions match:","Als een item is %1 in de verlanglijst %2 van deze voorwaarden komen overeen:",module,Magento_Reminder
 "Condition type is unexpected","Type voorwaarde is niet verwacht",module,Magento_Reminder
 "Please specify a valid number of minute.","Geef een geldig aantal minuten op.",module,Magento_Reminder
@@ -8093,7 +8093,7 @@ text,tekst,module,Magento_Reminder
 "You can use this coupon up to %coupon_limit time(s).","Je kunt deze kortingsbon tot %coupon_limit keren gebruiken.",module,Magento_Reminder
 "Promo Section","Promotie sectie",module,Magento_Reminder
 "Automated Email Reminder Rules","Geautomatiseerde e-mail herinner-regels",module,Magento_Reminder
-"Enable Reminder Emails","Schakel herinnerings-emails in",module,Magento_Reminder
+"Enable Reminder Emails","Schakel herinneringse-mails in",module,Magento_Reminder
 Frequency,Frequentie,module,Magento_Reminder
 Interval,Interval,module,Magento_Reminder
 "Set this value equal or greater to your Magento cron job launch period.","Stel deze waarde in die groter of gelijk is aan je Magento cron taak lancering periode.",module,Magento_Reminder
@@ -8209,7 +8209,7 @@ ID,ID,module,Magento_Reports
 Carts,Winkelwagens,module,Magento_Reports
 Name,Naam,module,Magento_Reports
 "Wish Lists",Verlanglijst,module,Magento_Reports
-"Wish List Purchase","Wensenlijst aankoop",module,Magento_Reports
+"Wish List Purchase","Verlanglijst aankoop",module,Magento_Reports
 "Wish List vs. Regular Order","Verlanglijst vs normale bestelling",module,Magento_Reports
 "Times Deleted","Keer verwijderd",module,Magento_Reports
 "Index type is not valid","Indextype is niet geldig",module,Magento_Reports
@@ -8552,7 +8552,7 @@ Static,Statisch,module,Magento_Reward
 Dynamic,Dynamisch,module,Magento_Reward
 Each,Elke,module,Magento_Reward
 First,Eerste,module,Magento_Reward
-"All Websites","Alle Websites",module,Magento_Reward
+"All Websites","Alle websites",module,Magento_Reward
 """Minimum Reward Points Balance"" should be either a positive number or left empty.","""Minimum spaarpunten saldo"" moet leeg zijn of een positief nummer bevatten.",module,Magento_Reward
 """Cap Reward Points Balance"" should be either a positive number or left empty.","""Spaarpunten saldo limiet"" moet leeg zijn of een positief nummer bevatten.",module,Magento_Reward
 """Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""Spaarpunten saldo minimum"" moet lager zijn dan, of gelijk zijn aan Spaarpunten saldo limiet"""".""",module,Magento_Reward
@@ -9823,7 +9823,7 @@ Created,Aangemaakt,module,Magento_Sales
 "Item Status",Artikelstatus,module,Magento_Sales
 "Original Price","Oorspronkelijke prijs",module,Magento_Sales
 "Tax Percent",BTW-percentage,module,Magento_Sales
-"All Store Views","Alle Winkelaanzichten",module,Magento_Sales
+"All Store Views","Alle winkelaanzichten",module,Magento_Sales
 "PDF Credit Memos","PDF creditfacturen",module,Magento_Sales
 "Purchase Point",Verkooppunt,module,Magento_Sales
 "Print Invoices","Facturen printen",module,Magento_Sales
@@ -9863,7 +9863,7 @@ Archive,Archief,module,Magento_SalesArchive
 "Mass Add","Massaal toevoegen",module,Magento_SalesArchive
 Add,Toevoegen,module,Magento_SalesArchive
 "Sales Archive","Verkoop Archief",module,Magento_SalesArchive
-"All Store Views","Alle Winkelaanzichten",module,Magento_SalesArchive
+"All Store Views","Alle winkelaanzichten",module,Magento_SalesArchive
 "Purchased From","Gekocht via",module,Magento_SalesArchive
 "PDF Credit Memos","PDF creditfacturen",module,Magento_SalesArchive
 "Credit Memo",Creditfactuur,module,Magento_SalesArchive
@@ -10108,7 +10108,7 @@ Apply,Toepassen,module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Pas toe op Verzendkosten",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Opvolgende regels negeren",module,Magento_SalesRuleStaging
 Labels,Labels,module,Magento_SalesRuleStaging
-"Default Rule Label for All Store Views","Standaard label voor alle Winkelaanzichten",module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","Standaard label voor alle winkelaanzichten",module,Magento_SalesRuleStaging
 "Save as a New Update","Opslaan als nieuwe update",module,Magento_SalesRuleStaging
 "Move to Another Update","Verplaatsen naar een andere Update",module,Magento_SalesRuleStaging
 "Delete the Update","Verwijder de Update",module,Magento_SalesRuleStaging
@@ -10326,9 +10326,9 @@ Reports,Rapportages,module,Magento_Search
 "Your search query can't be longer than %1, so we shortened your query.","Uw zoekopdracht kan niet langer zijn dan %1, we hebben je zoekopdracht verkort.",module,Magento_Search
 "Synonym group with id %1 cannot be deleted. %2","Synoniem-groep met id %1 kan niet worden verwijderd. %2",module,Magento_Search
 "Merge conflict with existing synonym group(s): %1","Samenvoegen van conflict met bestaande synoniem-groep(en): %1",module,Magento_Search
-"All Websites","Alle Websites",module,Magento_Search
-"All Store Views","Alle Winkelaanzichten",module,Magento_Search
-"All Store Views","Alle Winkelaanzichten",module,Magento_Search
+"All Websites","Alle websites",module,Magento_Search
+"All Store Views","Alle winkelaanzichten",module,Magento_Search
+"All Store Views","Alle winkelaanzichten",module,Magento_Search
 Delete,Verwijder,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Weet je zeker dat synoniem-groep met id %1 wilt verwijderen?",module,Magento_Search
 View/Edit,Bekijken/bewerken,module,Magento_Search
@@ -10831,7 +10831,7 @@ Description,Omschrijving,module,Magento_Staging
 "The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","De winkelcode mag alleen letters (a-z), cijfers (0-9) of een underscore (_) bevatten. Het eerste teken moet een letter zijn.",module,Magento_Store
 "Store is inactive","Winkel is inactief",module,Magento_Store
 "Default store is inactive","Standaar winkel is inactief",module,Magento_Store
-"All Store Views","Alle Winkelaanzichten",module,Magento_Store
+"All Store Views","Alle winkelaanzichten",module,Magento_Store
 "-- Please Select --","-- Selecteer --",module,Magento_Store
 Admin,Beheerder,module,Magento_Store
 "Default website is not defined","Standaardwebsite is niet gedefinieerd",module,Magento_Store
@@ -10966,8 +10966,8 @@ Void,"Nietig verklaard",module,Magento_Support
 "Run Class","Klasse uitvoeren",module,Magento_Support
 "Run Method","Voer methode uit",module,Magento_Support
 "Group Code",Groepscode,module,Magento_Support
-"All Configurable Cron Jobs","Alle configureerbare Cron Jobs",module,Magento_Support
-"All Global Cron Jobs","Alle globale Cron Jobs",module,Magento_Support
+"All Configurable Cron Jobs","Alle configureerbare cron jobs",module,Magento_Support
+"All Global Cron Jobs","Alle globale cron jobs",module,Magento_Support
 "Cron Schedules List","Cron schema's lijst",module,Magento_Support
 "Schedule Id",Schema-Id,module,Magento_Support
 Status,Status,module,Magento_Support
@@ -12389,7 +12389,7 @@ Delete,Verwijder,module,Magento_VersionsCms
 "Please assign the current hierarchy to one or more destinations.","Je moet de huidige hiërarchie aan één of meerdere bestemmingen toekennen.",module,Magento_VersionsCms
 Root,Wortel,module,Magento_VersionsCms
 "No nodes are available","Er zijn geen knooppunten beschikbaar",module,Magento_VersionsCms
-"Single Hierarchy for All Store Views","Enkele hiërarchie voor alle Winkelaanzichten",module,Magento_VersionsCms
+"Single Hierarchy for All Store Views","Enkele hiërarchie voor alle winkelaanzichten",module,Magento_VersionsCms
 "Specific Hierarchy for Each Store View","Specifieke hiërarchie voor elk Winkelaanzicht",module,Magento_VersionsCms
 "CMS Hierarchy for","CMS Hiërarchie voor",module,Magento_VersionsCms
 "Anchor Custom Text","Zet eigen tekst vast",module,Magento_VersionsCms
@@ -12418,7 +12418,7 @@ Pages,Pagina's,module,Magento_VersionsCms
 Template,Sjabloon,module,Magento_VersionsCms
 "CMS Page Link Block Template","CMS pagina link bloksjabloon",module,Magento_VersionsCms
 "CMS Page Link Inline Template","CMS link inline sjabloon",module,Magento_VersionsCms
-"All Store Views","Alle Winkelaanzichten",module,Magento_VersionsCms
+"All Store Views","Alle winkelaanzichten",module,Magento_VersionsCms
 "Search All Products","Zoek in alle producten",module,Magento_VisualMerchandiser
 "Add Product by SKU","Product toevoegen op art.nr.",module,Magento_VisualMerchandiser
 Position,Positie,module,Magento_VisualMerchandiser
@@ -12552,7 +12552,7 @@ Message,Bericht,module,Magento_Webapi
 "Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.","Alleen van toepassing als de beperking modus is ingesteld op 'Website gesloten'. De landingspagina wordt weergegeven als HTML.",module,Magento_WebsiteRestriction
 "Add Tax","BTW toevoegen",module,Magento_Weee
 "Delete Tax","BTW Verwijderen",module,Magento_Weee
-"All Websites","Alle Websites",module,Magento_Weee
+"All Websites","Alle websites",module,Magento_Weee
 FPT,Verwijderingsbijdrage,module,Magento_Weee
 "You must set unique country-state combinations within the same fixed product tax","Je moet unieke land-staat combinaties instellen in dezelfde fixed product tax",module,Magento_Weee
 "Including FPT only","Inclusief Verwijderingsbijdrage",module,Magento_Weee
@@ -12609,8 +12609,8 @@ Categories,Categorieën,module,Magento_Widget
 "Non-Anchor Categories","Niet verankerde categorieën",module,Magento_Widget
 "All Product Types","Alle product types",module,Magento_Widget
 Products,Producten,module,Magento_Widget
-"Generic Pages","Generieke paginas",module,Magento_Widget
-"All Pages","Alle paginas",module,Magento_Widget
+"Generic Pages","Generieke pagina’s",module,Magento_Widget
+"All Pages","Alle pagina’s",module,Magento_Widget
 "Specified Page","Specifieke pagina",module,Magento_Widget
 "Add Layout Update","Voeg lay-out update toe",module,Magento_Widget
 "Remove Layout Update","Verwijder lay-out update",module,Magento_Widget
@@ -12697,7 +12697,7 @@ Comment,Opmerking,module,Magento_Wishlist
 "We can't update the Wish List right now.","Verlanglijst kan niet worden bijgewerkt.",module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 product(en) zijn toegevoegd aan je winkelwagen: %2.",module,Magento_Wishlist
 Comment:,Opmerking:,module,Magento_Wishlist
-"We cannot retrieve the Wish List.","We kunnen de wens lijst niet ophalen.",module,Magento_Wishlist
+"We cannot retrieve the Wish List.","We kunnen de verlanglijst niet ophalen.",module,Magento_Wishlist
 "%1's Wishlist","%1's verlanglijst",module,Magento_Wishlist
 "We can't specify a wish list item.","We kunnen het verlanglijst product niet nader specifiëren.",module,Magento_Wishlist
 "The product does not exist.","Het artikel bestaat niet",module,Magento_Wishlist
@@ -12711,7 +12711,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Are you sure you want to remove this item?","Weet je zeker dat je dit product wilt wissen?",module,Magento_Wishlist
 "Share Wish List","Verlanglijst delen",module,Magento_Wishlist
 "Add All to Cart","Alles toevoegen aan winkelwagen",module,Magento_Wishlist
-"Update Wish List","Wensenlijst updaten",module,Magento_Wishlist
+"Update Wish List","Verlanglijst bijwerken",module,Magento_Wishlist
 "Move to Wishlist","Verplaats naar verlanglijst",module,Magento_Wishlist
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_Wishlist
 "View Product","Product bekijken",module,Magento_Wishlist
