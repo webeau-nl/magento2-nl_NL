@@ -50,7 +50,7 @@ notice,melding,module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Ga naar <a href=""%1"">Cache Beheer</a> om de cache types te verversen.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We waren niet in staat om een of meer mediabestanden te synchroniseren. Gelieve het logboekbestand bekijken voor meer informatie.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Synchronisatie van media opslagplaatsen is voltooid.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Uw webserver is niet goed geconfigureerd. Hierdoor kan ongeoorloofde toegang tot gevoelige bestanden plaats vinden. Neem contact op met je serviceprovider.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Je webserver is niet goed geconfigureerd. Hierdoor kan ongeoorloofde toegang tot gevoelige bestanden plaats vinden. Neem contact op met je serviceprovider.",module,Magento_AdminNotification
 "System Messages:",Systeemberichten:,module,Magento_AdminNotification
 "Critical System Messages","Kritische Systeemberichten",module,Magento_AdminNotification
 "Major System Messages","Belangrijke Systeemberichten",module,Magento_AdminNotification
@@ -472,7 +472,7 @@ Email,E-mail,module,Magento_Backend
 "Password Confirmation","Wachtwoord bevestiging",module,Magento_Backend
 "Interface Locale",Interfacetaal,module,Magento_Backend
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_Backend
-"Your Password","Uw wachtwoord",module,Magento_Backend
+"Your Password","Je wachtwoord",module,Magento_Backend
 "Save Cache Settings","Cache-instellingen opslaan",module,Magento_Backend
 "Catalog Rewrites","Catalogus Rewrites",module,Magento_Backend
 Refresh,Vernieuwen,module,Magento_Backend
@@ -1097,7 +1097,7 @@ Authorize,Autoriseer,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Vul een geldige Creditcard Verificatie Nummer in",module,Magento_Braintree
 ending,einde,module,Magento_Braintree
 expires,verloopt,module,Magento_Braintree
-"Are you sure you want to delete this PayPal account","Weet u zeker dat u deze PayPal account wilt verwijderen?",module,Magento_Braintree
+"Are you sure you want to delete this PayPal account","Weet je zeker dat je dit PayPal-account wilt verwijderen?",module,Magento_Braintree
 "PayPal Account",PayPal-account,module,Magento_Braintree
 "PayPal Logo","PayPal Logo",module,Magento_Braintree
 Actions,acties,module,Magento_Braintree
@@ -1352,7 +1352,7 @@ To,Aan,module,Magento_Bundle
 "Go back to product details","Ga terug naar Productgegevens",module,Magento_Bundle
 "Customize and Add to Cart","Aanpassen en aan winkelwagen toevoegen",module,Magento_Bundle
 "* Required Fields","* Verplichte velden",module,Magento_Bundle
-"Your Customization","Uw aanpassing",module,Magento_Bundle
+"Your Customization","Je aanpassing",module,Magento_Bundle
 Availability,Beschikbaarheid,module,Magento_Bundle
 "In stock","Op voorraad",module,Magento_Bundle
 "Out of stock","Niet op voorraad",module,Magento_Bundle
@@ -2583,7 +2583,7 @@ Search,Zoek,module,Magento_CatalogSearch
 "Modify your search.","Pas je zoekopdracht aan.",module,Magento_CatalogSearch
 name,naam,module,Magento_CatalogSearch
 "Don't see what you're looking for?","Niet gevonden wat je zocht?",module,Magento_CatalogSearch
-"Your search returned no results.","Uw zoekopdracht heeft geen resultaten opgeleverd.",module,Magento_CatalogSearch
+"Your search returned no results.","Je zoekopdracht heeft geen resultaten opgeleverd.",module,Magento_CatalogSearch
 "Popular Search Terms","Populaire zoekwoorden",module,Magento_CatalogSearch
 "Catalog Search","Catalogus doorzoeken",module,Magento_CatalogSearch
 "Minimal Query Length","Minimale lengte zoekopdracht",module,Magento_CatalogSearch
@@ -2711,7 +2711,7 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "My Cart",Winkelwagen,module,Magento_Checkout
 "For delivery questions.","Voor vragen over de aflevering.",module,Magento_Checkout
 "Customer is already registered","Klant is al geregistreerd",module,Magento_Checkout
-"Your session has expired","Uw sessie is verlopen",module,Magento_Checkout
+"Your session has expired","Je sessie is verlopen",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Een bericht met verdere instructies zal worden verzonden naar je e-mailadres.",module,Magento_Checkout
 "You added %1 to your shopping cart.","Je hebt %1 aan de winkelwagen toegevoegd.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","We kunnen dit product nu niet aan je winkelwagen toevoegen.",module,Magento_Checkout
@@ -2793,8 +2793,8 @@ Loading...,"Bezig met laden...",module,Magento_Checkout
 "Proceed to Checkout","Ga door naar afrekenen",module,Magento_Checkout
 "Product Name",Productnaam,module,Magento_Checkout
 "Incl. Tax","Incl. BTW",module,Magento_Checkout
-"Your order number is: %1.","Uw bestelnummer is: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Uw bestelnummer is: <span>%1</span>.",module,Magento_Checkout
+"Your order number is: %1.","Je bestelnummer is: %1.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Je bestelnummer is: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","We sturen je een orderbevestiging met verdere details en informatie.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Herinnering mislukte betalingstransactie",module,Magento_Checkout
 "Payment Transaction Failed","Betalingstransactie mislukt",module,Magento_Checkout
@@ -2844,7 +2844,7 @@ Field,Veld,module,Magento_Checkout
 Example:,Voorbeeld:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Als je denkt dat het de juiste is, kun je dit bericht negeren.",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Weet je zeker dat je dit product wilt verwijderen uit de winkelwagen?",module,Magento_Checkout
-"New Address","Nieuw Adres",module,Magento_Checkout
+"New Address","Nieuw adres",module,Magento_Checkout
 "Review & Payments","Overzicht & betalen",module,Magento_Checkout
 "Select a new payment method","Selecteer een nieuwe betaalmethode",module,Magento_Checkout
 Shipping,Aflevering,module,Magento_Checkout
@@ -3646,7 +3646,7 @@ Download,Downloads,module,Magento_Customer
 "Please check your email for confirmation key.","Controleer je email voor de bevestigingscode.",module,Magento_Customer
 "This email does not require confirmation.","Deze e-mail hoeft niet bevestigt te worden",module,Magento_Customer
 "Wrong email.","Onjuist e-mailadres.",module,Magento_Customer
-"Your password reset link has expired.","Uw wachtwoord-reset-link is verlopen",module,Magento_Customer
+"Your password reset link has expired.","Je wachtwoord-reset-link is verlopen",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Je moet je account bevestigen. Controleer je e-mail voor de bevestigingslink of <a href=""%1""> Klik hier</a> voor een nieuwe link.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als je zeker weet dat is het je e-mailadres is, <a href=""%1"">kunt je een nieuw wachtwoord aanvragen</a>.",module,Magento_Customer
 "We can't save the customer.","We kunnen de klant niet opslaan.",module,Magento_Customer
@@ -3668,7 +3668,7 @@ Download,Downloads,module,Magento_Customer
 "A login and a password are required.","Gebruikersnaam en wachtwoord zijn verplicht.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Het nieuwe wachtwoord en de bevestiging van het nieuwe wachtwoord komen niet overeen.",module,Magento_Customer
 "Please enter a new password.","Voer een nieuw wachtwoord.",module,Magento_Customer
-"You updated your password.","Uw wachtwoord is bijgewerkt.",module,Magento_Customer
+"You updated your password.","Je wachtwoord is bijgewerkt.",module,Magento_Customer
 "Something went wrong while saving the new password.","Er ging iets mis bij het opslaan van het nieuwe wachtwoord.",module,Magento_Customer
 "You deleted the address.","Je hebt het adres verwijderd.",module,Magento_Customer
 "We can't delete the address right now.","We kunnen het adres op dit moment niet verwijderen.",module,Magento_Customer
@@ -3784,11 +3784,11 @@ label,label,module,Magento_Customer
 "PHP SOAP extension is required.","PHP SOAP extensie is nodig.",module,Magento_Customer
 "VAT Number is valid.","Het BTW nummer is geldig.",module,Magento_Customer
 "Please enter a valid VAT number.","Voer een geldig BTW nummer in.",module,Magento_Customer
-"Your VAT ID was successfully validated.","Uw BTW-nummer is met succes gevalideerd.",module,Magento_Customer
+"Your VAT ID was successfully validated.","Je BTW-nummer is met succes gevalideerd.",module,Magento_Customer
 "You will be charged tax.","Er zal BTW gerekend worden.",module,Magento_Customer
 "You will not be charged tax.","Er zal geen BTW gerekend worden.",module,Magento_Customer
 "The VAT ID entered (%1) is not a valid VAT ID.","Het ingevulde BTW-nummer (%1) is geen geldig BTW-nummer.",module,Magento_Customer
-"Your Tax ID cannot be validated.","Uw BTW-nummer kan niet gevalideerd worden.",module,Magento_Customer
+"Your Tax ID cannot be validated.","Je BTW-nummer kan niet gevalideerd worden.",module,Magento_Customer
 "If you believe this is an error, please contact us at %1","Als je denkt dat dit niet juist is, neem dan contact met ons op via %1",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue","Geen dergelijke entiteit met %fieldName = %fieldValue",module,Magento_Customer
 Male,Man,module,Magento_Customer
@@ -3906,7 +3906,7 @@ Name,Naam,module,Magento_Customer
 "Welcome to %store_name","Welkom bij %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Welkom op %store_name.",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Mijn account</a> pagina:",module,Magento_Customer
 Email:,E-mail:,module,Magento_Customer
 Password:,Wachtwoord:,module,Magento_Customer
 "Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account",module,Magento_Customer
@@ -3918,22 +3918,22 @@ Password:,Wachtwoord:,module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Meerdere adressen opslaan (om bijvoorbeeld bestellingen naar vrienden en familie te sturen)",module,Magento_Customer
 "Please confirm your %store_name account","Bevestig je %store_name account",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Bevestig je e-mailadres %customer_email om in te kunnen loggen (je kunt de link slechts één keer gebruiken):",module,Magento_Customer
-"Confirm Your Account","Uw account bevestigen",module,Magento_Customer
+"Confirm Your Account","Je account bevestigen",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Bedankt voor het bevestigen van je %store_name account.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Om in te loggen op onze website en een wachtwoord in te stellen, klik op deze <a href=""%create_password_url"">link</a>:",module,Magento_Customer
-"Your %store_name email has been changed","Uw %store_name e-mail is veranderd",module,Magento_Customer
+"Your %store_name email has been changed","Je %store_name e-mail is veranderd",module,Magento_Customer
 "Hello,","Hallo,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: e-mail.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Als je geen toestemming voor deze actie gegeven hebt, neem onmiddellijk contact met ons op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonish op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Dank u, <br>%store_name",module,Magento_Customer
-"Your %store_name email and password has been changed","Uw %store_name e-mail en wachtwoord is veranderd",module,Magento_Customer
+"Your %store_name email and password has been changed","Je %store_name e-mail en wachtwoord is veranderd",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: e-mail, wachtwoord.",module,Magento_Customer
-"Reset your %store_name password","Uw %store_name wachtwoord resetten",module,Magento_Customer
+"Reset your %store_name password","Je %store_name wachtwoord resetten",module,Magento_Customer
 "There was recently a request to change the password for your account.","Er was onlangs een aanvraag om het wachtwoord van je account te wijzigen.",module,Magento_Customer
 "If you requested this change, set a new password here:","Indien je deze wijziging hebt aangevraagd, kan je hier een nieuw wachtwoord instellen:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien je deze aanvraag niet hebt ingediend, kun je deze e-mail negeren en je wachtwoord zal ongewijzigd blijven.",module,Magento_Customer
-"Your %store_name password has been changed","Uw %store_name wachtwoord is veranderd",module,Magento_Customer
+"Your %store_name password has been changed","Je %store_name wachtwoord is veranderd",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: wachtwoord.",module,Magento_Customer
 "Checkout out as a new customer","Afrekenen als een nieuwe klant",module,Magento_Customer
 "Creating an account has many benefits:","Het aanmaken van een account heeft vele voordelen:",module,Magento_Customer
@@ -4108,7 +4108,7 @@ Reverted,Terugstellen,module,Magento_CustomerBalance
 "Refund Money to Store Credit","Stort geld terug naar Winkelgoed",module,Magento_CustomerBalance
 "Refund to Store Credit","Terugstorten naar Winkeltegoed",module,Magento_CustomerBalance
 "Use Store Credit (%1 available)","Gebruik winkeltegoed (%1 beschikbaar)",module,Magento_CustomerBalance
-"Your balance is:","Uw saldo is:",module,Magento_CustomerBalance
+"Your balance is:","Je saldo is:",module,Magento_CustomerBalance
 "Use Store Credit","Gebruik Winkeltegoed",module,Magento_CustomerBalance
 available,Beschikbaar,module,Magento_CustomerBalance
 Remove,Verwijder,module,Magento_CustomerBalance
@@ -4119,7 +4119,7 @@ Remove,Verwijder,module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Je winkelkrediet saldo is nu %balance.",module,Magento_CustomerBalance
 "Store credit",Winkeltegoed,module,Magento_CustomerBalance
 "Store credit available","Winkeltegoed beschikbaar",module,Magento_CustomerBalance
-"Your store credit was successfully applied","Uw winkelkrediet is succesvol toegepast",module,Magento_CustomerBalance
+"Your store credit was successfully applied","Je winkelkrediet is succesvol toegepast",module,Magento_CustomerBalance
 "Store Credit Options","Winkeltegoed Opties",module,Magento_CustomerBalance
 "Enable Store Credit Functionality","Schakel Winkeltegoed functionaliteit in",module,Magento_CustomerBalance
 "Show Store Credit History to Customers","Laat winkeltegoed geschiedenis aan klanten zien",module,Magento_CustomerBalance
@@ -4297,7 +4297,7 @@ Segments,Segmenten,module,Magento_CustomerSegment
 "Refresh Segment Data","Verversen Segment Data",module,Magento_CustomerSegment
 "Save and Continue Edit",Toepassen,module,Magento_CustomerSegment
 "Edit Segment '%1'","Segment '%1' bewerken",module,Magento_CustomerSegment
-"New Segment","Nieuw Segment",module,Magento_CustomerSegment
+"New Segment","Nieuw segment",module,Magento_CustomerSegment
 "Segment Information","Segment Informatie",module,Magento_CustomerSegment
 Conditions,Voorwaarden,module,Magento_CustomerSegment
 "* applicable to visitors and registered customers","* van toepassing op bezoekers en geregistreerde klanten",module,Magento_CustomerSegment
@@ -4634,7 +4634,7 @@ WARNING:,WAARSCHUWING:,module,Magento_Directory
 "Please correct the rates received","Corrigeer de ontvangen tarieven",module,Magento_Directory
 "Please select a region, state or province.","Selecteer regio, staat of provincie.",module,Magento_Directory
 Currency,Valuta,module,Magento_Directory
-"Your current currency is: %1.","Uw huidige valuta is: %1.",module,Magento_Directory
+"Your current currency is: %1.","Je huidige valuta is: %1.",module,Magento_Directory
 Continue,Doorgaan,module,Magento_Directory
 "Currency Update Warnings","Waarschuwingen valuta-update",module,Magento_Directory
 "Currency Setup",Valuta-instellingen,module,Magento_Directory
@@ -5627,7 +5627,7 @@ Owner,Eigenaar,module,Magento_GiftRegistry
 "Input Type",Invoertype,module,Magento_GiftRegistry
 "Attribute Group",Atributengroep,module,Magento_GiftRegistry
 "Is Required","Is Vereist",module,Magento_GiftRegistry
-"Is Searcheable","Is te Zoeken",module,Magento_GiftRegistry
+"Is Searcheable","Is te zoeken",module,Magento_GiftRegistry
 "We found an attribute with this static input type already in the gift registry type. Please select a different input type.","We vonden een attribuut dat reeds bestaat in het geschenk register type met een statisch invoer type. Selecteer een ander invoer type.",module,Magento_GiftRegistry
 "Show Region","Toon Regio",module,Magento_GiftRegistry
 "Date Format","Formaat datum",module,Magento_GiftRegistry
@@ -6805,7 +6805,7 @@ Options,Opties,module,Magento_Multishipping
 "Message has been rejected: %1","Bericht is geweigerd: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","MySQL Message Queue Opschonen",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Tijden zijn in minuten. Gebruik ""0"" om automatische goedkeuring over te slaan.",module,Magento_MysqlMq
-"Retry Messages In Progress After","Berichten Die In Behandeling Zijn Opnieuw Proberen Na",module,Magento_MysqlMq
+"Retry Messages In Progress After","Berichten die in behandeling zijn opnieuw proberen na",module,Magento_MysqlMq
 "Successful Messages Lifetime","Levensduur Van Succesvolle Berichten",module,Magento_MysqlMq
 "Failed Messages Lifetime","Onbestelbare berichten levensduur",module,Magento_MysqlMq
 "New Messages Lifetime","Levensduur Van Nieuwe Berichten",module,Magento_MysqlMq
@@ -6896,7 +6896,7 @@ Subscribers,Abonnees,module,Magento_Newsletter
 "Edit Template","Template bewerken",module,Magento_Newsletter
 "New Template","Nieuw sjabloon",module,Magento_Newsletter
 "Create Newsletter Template","Nieuwsbrief-sjabloon aanmaken",module,Magento_Newsletter
-"The newsletter template has been saved.","Het nieuwsbriefsjabloon werd opgeslaan.",module,Magento_Newsletter
+"The newsletter template has been saved.","Het nieuwsbriefsjabloon is opgeslaan.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Er ging iets fout bij het opslaan van dit sjabloon.",module,Magento_Newsletter
 "Newsletter Subscription",Nieuwsbriefabonnement,module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Er ging iets mis bij het opslaan van je abonnement.",module,Magento_Newsletter
@@ -8143,7 +8143,7 @@ Interval,Interval,module,Magento_Reports
 Total,Totaal,module,Magento_Reports
 Price,prijs,module,Magento_Reports
 Views,Weergaven,module,Magento_Reports
-"Refresh Statistics","Vernieuw Statistieken",module,Magento_Reports
+"Refresh Statistics","Vernieuw statistieken",module,Magento_Reports
 "Customers Reviews",Klanten-reviews,module,Magento_Reports
 "Reviews for %1","Reviews voor %s",module,Magento_Reports
 Customer,Klant,module,Magento_Reports
@@ -9694,22 +9694,22 @@ Search,Zoek,module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen hebt over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openingstijden zijn <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id",module,Magento_Sales
 "Billing Info",Factuuradres,module,Magento_Sales
 "Shipping Info",Verzendinformatie,module,Magento_Sales
 "Update to your %store_name credit memo","Update van je %store_name creditfactuur",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geüpdatet met volgende status <strong>%order_status</strong>.",module,Magento_Sales
 "Invoice for your %store_name order","Factuur voor je %store_name bestelling",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Je factuur #%invoice_id voor bestelling #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","Update van je %store_name factuur",module,Magento_Sales
-"Your %store_name order confirmation","Uw %store_name bestelbevestiging",module,Magento_Sales
+"Your %store_name order confirmation","Je %store_name bestelbevestiging",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Zodra we je pakket verzenden, sturen wij je een Track- en Tracenummer.",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Je bestelling <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Zodra je pakket verstuurd is sturen we een e-mail met een link om je bestelling te volgen.",module,Magento_Sales
 "Update to your %store_name order","Update van je %store_name bestelling",module,Magento_Sales
-"Your %store_name order has shipped","Uw %store_name bestelling is verzonden",module,Magento_Sales
+"Your %store_name order has shipped","Je %store_name bestelling is verzonden",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Hieronder kunt je je verzendbevestiging vinden.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Je verzending #%shipment_id voor bestelling #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update van je %store_name verzending",module,Magento_Sales
@@ -9731,7 +9731,7 @@ General,Algemeen,module,Magento_Sales
 "Allow Reorder","Opnieuw bestellen toestaan",module,Magento_Sales
 "Invoice and Packing Slip Design","Factuur- en pakbon-ontwerp",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logo voor PDF afdrukken (200x50)",module,Magento_Sales
-"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Uw standaard logo zal gebruikt worden in PDF en HTML documenten.<br />(jpeg, tiff, png) Indien je pdf afbeelding vervormd is, probeer een groter bestandsformaat van afbeelding te gebruiken.",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Je standaard-logo zal gebruikt worden in PDF en HTML documenten.<br />(jpeg, tiff, png) Indien je pdf afbeelding vervormd is, probeer een groter bestandsformaat van afbeelding te gebruiken.",module,Magento_Sales
 "Logo for HTML Print View","Logo voor HTML afdruk-preview",module,Magento_Sales
 "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo enkel voor HTML documenten. Indien leeg zal de standaard gebruikt worden.<br />(jpeg, gif, png)",module,Magento_Sales
 Address,Adres,module,Magento_Sales
@@ -10042,8 +10042,8 @@ Inactive,Inactief,module,Magento_SalesRule
 "Enter discount code","Voer kortingscode in",module,Magento_SalesRule
 "Apply Discount","Korting doorvoeren",module,Magento_SalesRule
 "Cancel coupon","Kortingscode annuleren",module,Magento_SalesRule
-"Your coupon was successfully removed.","Uw kortingscode is verwijderd.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Uw kortingscode is succesvol toegepast.",module,Magento_SalesRule
+"Your coupon was successfully removed.","Je kortingscode is verwijderd.",module,Magento_SalesRule
+"Your coupon was successfully applied.","Je kortingscode is succesvol toegepast.",module,Magento_SalesRule
 Promotion,Aanbieding,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatisch gegenereerde coupon codes.",module,Magento_SalesRule
 "Web Site",Website,module,Magento_SalesRule
@@ -10323,7 +10323,7 @@ Reports,Rapportages,module,Magento_Search
 "You saved the search term.","Je hebt de zoekterm opgeslagen.",module,Magento_Search
 "Something went wrong while saving the search query.","Er ging iets fout tijdens het opslaan van de zoekopdracht.",module,Magento_Search
 "You already have an identical search term query.","Je hebt reeds een identieke zoekopdracht.",module,Magento_Search
-"Your search query can't be longer than %1, so we shortened your query.","Uw zoekopdracht kan niet langer zijn dan %1, we hebben je zoekopdracht verkort.",module,Magento_Search
+"Your search query can't be longer than %1, so we shortened your query.","Je zoekopdracht kan niet langer zijn dan %1, we hebben je zoekopdracht verkort.",module,Magento_Search
 "Synonym group with id %1 cannot be deleted. %2","Synoniem-groep met id %1 kan niet worden verwijderd. %2",module,Magento_Search
 "Merge conflict with existing synonym group(s): %1","Samenvoegen van conflict met bestaande synoniem-groep(en): %1",module,Magento_Search
 "All Websites","Alle websites",module,Magento_Search
@@ -10360,9 +10360,9 @@ Website,Website,module,Magento_Search
 "All other open sessions for this account were terminated.","Alle andere open sessies voor dit account werden beëindigd.",module,Magento_Security
 "We couldn't logout because of an error.","We konden niet uitloggen als gevolg van een fout.",module,Magento_Security
 "Someone logged into this account from another device or browser. Your current session is terminated.","Iemand anders is met dit account ingelogd met een ander apparaat of in een andere browser. Je huidige sessie wordt beëindigd.",module,Magento_Security
-"Your current session is terminated by another user of this account.","Uw huidige sessie werd beëindigd door een andere gebruiker van dit account.",module,Magento_Security
-"Your account is temporarily disabled.","Uw account is tijdelijk uitgeschakeld.",module,Magento_Security
-"Your current session has been expired.","Uw huidige sessie is verlopen.",module,Magento_Security
+"Your current session is terminated by another user of this account.","Je huidige sessie werd beëindigd door een andere gebruiker van dit account.",module,Magento_Security
+"Your account is temporarily disabled.","Je account is tijdelijk uitgeschakeld.",module,Magento_Security
+"Your current session has been expired.","Je huidige sessie is verlopen.",module,Magento_Security
 "By IP and Email","Via IP en Email",module,Magento_Security
 "By IP","Via IP",module,Magento_Security
 "By Email","Per E-mail",module,Magento_Security
@@ -10378,7 +10378,7 @@ None,Geen,module,Magento_Security
 "Log out all other sessions","Alle andere sessies uitloggen",module,Magento_Security
 "This computer is using IP address %1.","Deze computer maakt gebruik van IP-adres %1.",module,Magento_Security
 "Admin Account Sharing","Beheerdersaccount delen",module,Magento_Security
-"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Indien ingesteld op Ja, kunt u vanaf meerdere computers dezelfde rekening inloggen. Standaardinstelling Nee verbetert de beveiliging.",module,Magento_Security
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Indien ingesteld op Ja, kun je vanaf meerdere computers met hetzelfde account inloggen. Standaardinstelling Nee verbetert de beveiliging.",module,Magento_Security
 "Password Reset Protection Type","Passwoord resetten beveiliging methode",module,Magento_Security
 "Max Number of Password Reset Requests","Maximaal aantal wachtwoord reset verzoeken",module,Magento_Security
 "Limit the number of password reset request per hour. Use 0 to disable.","Beperk aantal wachtwoord reset verzoeken per uur. Gebruik 0 om uit te schakelen.",module,Magento_Security
@@ -10608,7 +10608,7 @@ City,Plaats,module,Magento_Shipping
 "Apply custom Shipping Policy","Toepassen aangepaste verzendmethode",module,Magento_Shipping
 "Shipping Policy","Verzend beleid",module,Magento_Shipping
 "Shipping Methods",Verzendmethodes,module,Magento_Shipping
-"Track your order","Uw bestelling volgen",module,Magento_Shipping
+"Track your order","Je bestelling volgen",module,Magento_Shipping
 "Track All Shipments","Traceer alle bestellingen",module,Magento_Shipping
 OPEN,OPEN,module,Magento_Signifyd
 PROCESSING,"In behandeling",module,Magento_Signifyd
@@ -10837,8 +10837,8 @@ Admin,Beheerder,module,Magento_Store
 "Default website is not defined","Standaardwebsite is niet gedefinieerd",module,Magento_Store
 "More than one default website is defined","Meer dan een standaardwebsite is gedefinieerd",module,Magento_Store
 "no such entity exception","geen dergelijke entiteitsuitzondering",module,Magento_Store
-"Your Language:","Uw taal:",module,Magento_Store
-"Your Language","Uw taal",module,Magento_Store
+"Your Language:","Je taal:",module,Magento_Store
+"Your Language","Je taal",module,Magento_Store
 Language,Taal,module,Magento_Store
 "Select Store","Selecteer winkel",module,Magento_Store
 Configuration,Configuratie,module,Magento_Store
@@ -11416,7 +11416,7 @@ Rate,Ratio,module,Magento_Tax
 "Order Total Excl. Tax","Totaal (excl. BTW)",module,Magento_Tax
 "Order Total Incl. Tax","Totaal (incl. BTW)",module,Magento_Tax
 "Order Total",Totaal,module,Magento_Tax
-"Your credit card will be charged for","Uw creditcard zal in rekening gebracht worden voor",module,Magento_Tax
+"Your credit card will be charged for","Je creditcard zal in rekening gebracht worden voor",module,Magento_Tax
 "An error occurred while loading tax rates.","Er is een fout opgetreden tijdens het laden de BTW-percentages.",module,Magento_Tax
 Code,Code,module,Magento_TaxImportExport
 Country,Land,module,Magento_TaxImportExport
@@ -11565,7 +11565,7 @@ Hour,Uur,module,Magento_Theme
 Minute,Minuut,module,Magento_Theme
 "%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Welkom op %store_name.",module,Magento_Theme
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het afrekenen of op de <a href=""%customer_url"">Uw Account</a> pagina:",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het afrekenen of op de <a href=""%customer_url"">Mijn account</a> pagina:",module,Magento_Theme
 Email:,E-mail:,module,Magento_Theme
 Password:,Wachtwoord:,module,Magento_Theme
 "Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account",module,Magento_Theme
@@ -11673,7 +11673,7 @@ Off,Uit,module,Magento_Ui
 "New View","Nieuwe weergave",module,Magento_Ui
 "Default View",Standaardweergave,module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } uit ${ $.total } zichtbaar",module,Magento_Ui
-"You have successfully saved your edits.","Uw bewerkingen zijn opgeslagen.",module,Magento_Ui
+"You have successfully saved your edits.","Je bewerkingen zijn opgeslagen.",module,Magento_Ui
 "There are {placeholder} messages requires your attention.","Er zijn {placeholder} berichten die je aandacht vereisen.",module,Magento_Ui
 from,van,module,Magento_Ui
 to,naar,module,Magento_Ui
@@ -11690,7 +11690,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Letters, numbers, spaces or underscores only please","Enkel letters, cijfers, spaties of liggende streepjes toegelaten",module,Magento_Ui
 "Letters only please","Enkel letters toegelaten",module,Magento_Ui
 "No white space please","Geen spaties toegelaten",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Uw postcode moet in de volgende reeks liggen: 902xx-xxxx tot 905-xx-xxxx",module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Je postcode moet in de volgende reeks liggen: 902xx-xxxx tot 905-xx-xxxx",module,Magento_Ui
 "A positive or negative non-decimal number please","Enkel een positief of negatief niet-decimaal nummer toegelaten",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","Het opgegeven voertuigidentificatienummer (VIN) is ongeldig.",module,Magento_Ui
 "Please enter a correct date","Voer een correcte datum in",module,Magento_Ui
@@ -12003,7 +12003,7 @@ Inactive,Inactief,module,Magento_User
 "Role Info","Rol info",module,Magento_User
 "Role Name",Rolnaam,module,Magento_User
 "Current User Identity Verification","Huidige gebruiker verificatie",module,Magento_User
-"Your Password","Uw wachtwoord",module,Magento_User
+"Your Password","Je wachtwoord",module,Magento_User
 "Add New User","Nieuwe gebruiker toevoegen",module,Magento_User
 Users,Gebruikers,module,Magento_User
 "Save User","Gebruiker opslaan",module,Magento_User
@@ -12028,12 +12028,12 @@ Role,Rol,module,Magento_User
 "User Role","Rol van gebruiker",module,Magento_User
 "Please correct the password reset token.","Corrigeer de sleutel van het opnieuw in te stellen wachtwoord.",module,Magento_User
 "Please specify the correct account and try again.","Geef de juiste account op en probeer opnieuw.",module,Magento_User
-"Your password reset link has expired.","Uw wachtwoord-reset-link is verlopen",module,Magento_User
+"Your password reset link has expired.","Je wachtwoord-reset-link is verlopen",module,Magento_User
 "We're unable to send the password reset email.","We kunnen de wachtwoord reset e-mail niet verzenden.",module,Magento_User
 "We'll email you a link to reset your password.","We sturen je een link om je wachtwoord opnieuw in te stellen.",module,Magento_User
 "Please correct this email address:","Corrigeer het e-mailadres:",module,Magento_User
 "Please enter an email address.","Voer een e-mailadres in.",module,Magento_User
-"You updated your password.","Uw wachtwoord is bijgewerkt.",module,Magento_User
+"You updated your password.","Je wachtwoord is bijgewerkt.",module,Magento_User
 "Locked Users","Vergrendelde gebruikers",module,Magento_User
 "Unlocked %1 user(s).","%1 gebruiker(s) ontgrendeld.",module,Magento_User
 System,Systeem,module,Magento_User
@@ -12064,18 +12064,18 @@ password,wachtwoord,module,Magento_User
 username,gebruikersnaam,module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Inloggegevens zijn onjuist of je account is tijdelijk uitgeschakeld.",module,Magento_User
 "You need more permissions to access this.","Je hebt meer bevoegdheden nodig om toegang te krijgen.",module,Magento_User
-"Your account is temporarily disabled.","Uw account is tijdelijk uitgeschakeld.",module,Magento_User
+"Your account is temporarily disabled.","Je account is tijdelijk uitgeschakeld.",module,Magento_User
 "User Name is a required field.","Gebruikersnaam is verplicht.",module,Magento_User
 "First Name is a required field.","Voornaam is verplicht.",module,Magento_User
 "Last Name is a required field.","Achternaam is een verplicht veld.",module,Magento_User
 "Please enter a valid email.","Vul een geldig e-mailadres in",module,Magento_User
 "Password is required field.","Wachtwoord is verplicht veld.",module,Magento_User
 "Your password must be at least %1 characters.","Wachtwoord moet ten minste %1 tekens bevatten.",module,Magento_User
-"Your password must include both numeric and alphabetic characters.","Uw wachtwoord moet zowel numeriek als alfanumerieke tekens bevatten.",module,Magento_User
+"Your password must include both numeric and alphabetic characters.","Je wachtwoord moet zowel numeriek als alfanumerieke tekens bevatten.",module,Magento_User
 "Your password confirmation must match your password.","Je wachtwoord bevestiging moet overeenkomen met je wachtwoord.",module,Magento_User
 "It's time to change your password.","Het is tijd om je wachtwoord te wijzigen.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","Het is tijd om je <a href=""%1"">wachtwoord te wijzigen</a>.",module,Magento_User
-"Your password has expired; please contact your administrator.","Uw wachtwoord is verlopen, neem contact op met de beheerder.",module,Magento_User
+"Your password has expired; please contact your administrator.","Je wachtwoord is verlopen, neem contact op met de beheerder.",module,Magento_User
 "Password Help","Wachtwoord Hulp",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Voer je e-mailadres in. Je zult een link ontvangen om je wachtwoord te opnieuw in te stellen.",module,Magento_User
 "Email address",E-mailadres,module,Magento_User
@@ -12673,7 +12673,7 @@ Conditions,Voorwaarden,module,Magento_Widget
 "Please enter an email address.","Voer een e-mailadres in.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","De verlanglijst kan niet meer dan %1 gedeeld worden.",module,Magento_Wishlist
 "Please enter a valid email address.","Vul een geldig e-mailadres in",module,Magento_Wishlist
-"Your wish list has been shared.","Uw verlanglijst is gedeeld.",module,Magento_Wishlist
+"Your wish list has been shared.","Je verlanglijst is gedeeld.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","We kunnen momenteel het product niet van je verlanglijst verwijderen.",module,Magento_Wishlist
 "Can't save description %1","Kan omschrijving %1 niet bewaren",module,Magento_Wishlist
 "Can't update wish list","Verlanglijst kan niet worden bijgewerkt",module,Magento_Wishlist
@@ -12782,7 +12782,7 @@ Matched,Overeengekomen,module,Magento_Worldpay
 "Not matched","Niet gevonden",module,Magento_Worldpay
 "Partially matched","Gedeeltelijk overeengekomen",module,Magento_Worldpay
 "No such order id.","Geen dergelijke order-id.",module,Magento_Worldpay
-"Your purchase process has been cancelled.","Uw aankoopproces is geannuleerd.",module,Magento_Worldpay
+"Your purchase process has been cancelled.","Je aankoopproces is geannuleerd.",module,Magento_Worldpay
 "Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens.",module,Magento_Worldpay
 "Gateway response is not valid.","Gateway antwoord is niet geldig.",module,Magento_Worldpay
 "Wrong response type","Verkeerd antwoord type",module,Magento_Worldpay
@@ -12822,7 +12822,7 @@ Debug,Debug,module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for Postcode AVS","Zet bestellingstatus op verdenking van fraude voor postcode AVS",module,Magento_Worldpay
 "Sort Order",Sorteervolgorde,module,Magento_Worldpay
 "Payment was canceled.","Betaling is geannuleerd.",module,Magento_Worldpay
-"Your payment has been successfully processed by our shop system.","Uw betaling is succesvol verwerkt door ons winkel-systeem.",module,Magento_Worldpay
+"Your payment has been successfully processed by our shop system.","Je betaling is succesvol verwerkt door ons winkel-systeem.",module,Magento_Worldpay
 Summary,Samenvatting,theme,frontend/Magento/blank
 "Account Dashboard",Accountoverzicht,theme,frontend/Magento/blank
 "Account Information",Accountgegevens,theme,frontend/Magento/blank
@@ -12840,7 +12840,7 @@ Remove,Verwijder,theme,frontend/Magento/luma
 "Welcome to %store_name","Welkom bij %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Welkom op %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Mijn account</a> pagina:",theme,frontend/Magento/luma
 Email:,E-mail:,theme,frontend/Magento/luma
 Password:,Wachtwoord:,theme,frontend/Magento/luma
 "Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account",theme,frontend/Magento/luma
@@ -12864,25 +12864,25 @@ Footer,Footer,theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op je account</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen hebt over je bestelling kunt je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Billing Info",Factuuradres,theme,frontend/Magento/luma
 "Shipping Info",Verzendadres,theme,frontend/Magento/luma
 "Payment Method",Betaalmethode,theme,frontend/Magento/luma
 "Shipping Method",Verzendmethode,theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update van je %store_name creditfactuur",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Factuur voor je %store_name bestelling",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Je factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update van je %store_name factuur",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Uw %store_name bestelbevestiging",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Je %store_name bestelbevestiging",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Zodra we je pakket verzenden sturen wij je een Track- en Tracenummer.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Je bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update van je %store_name bestelling",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Uw %store_name bestelling is verzonden",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Je %store_name bestelling is verzonden",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Je vindt je verzendbevestiging hieronder.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Uw verzending #%shipment_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Je verzending #%shipment_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update van je %store_name verzending",theme,frontend/Magento/luma
 "Account Dashboard",Accountoverzicht,theme,frontend/Magento/luma
 "Address Book",Adresboek,theme,frontend/Magento/luma
