@@ -1052,7 +1052,7 @@ riskDataId,riskDataId,module,Magento_Braintree
 riskDataDecision,riskDataDecision,module,Magento_Braintree
 paymentId,paymentId,module,Magento_Braintree
 payerEmail,payerEmail,module,Magento_Braintree
-sale,verkoop,module,Magento_Braintree
+sale,sale,module,Magento_Braintree
 credit,krediet,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
 authorizing,machtigen,module,Magento_Braintree
@@ -1202,7 +1202,7 @@ Unrecognized,"Niet herkend",module,Magento_BraintreeTwo
 "Settlement declined","Regeling afgewezen",module,Magento_BraintreeTwo
 "Settlement pending","Afwikkeling in afwachting",module,Magento_BraintreeTwo
 "Settlement confirmed","Regeling bevestigd",module,Magento_BraintreeTwo
-Sale,Uitverkoop,module,Magento_BraintreeTwo
+Sale,Sale,module,Magento_BraintreeTwo
 Credit,Tegoed,module,Magento_BraintreeTwo
 "Credit Card Type","Creditcard type",module,Magento_BraintreeTwo
 "Credit Card Number",Creditcard-nummer,module,Magento_BraintreeTwo
@@ -7258,7 +7258,7 @@ Static,Statisch,module,Magento_Paypal
 Shortcut,Sneltoets,module,Magento_Paypal
 "Acceptance Mark Image","Acceptatie-indicatie afbeelding",module,Magento_Paypal
 Authorization,Autorisatie,module,Magento_Paypal
-Sale,Verkoop,module,Magento_Paypal
+Sale,Sale,module,Magento_Paypal
 Yes,Ja,module,Magento_Paypal
 No,Nee,module,Magento_Paypal
 "For Virtual Quotes Only","For Virtual Quotes Only",module,Magento_Paypal
