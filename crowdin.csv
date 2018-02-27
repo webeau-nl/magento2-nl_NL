@@ -2783,7 +2783,6 @@ Subtotal,Subtotaal,module,Magento_Checkout
 "Edit item parameters","Wijzig product-parameters",module,Magento_Checkout
 Edit,Bewerken,module,Magento_Checkout
 "Remove item","Product verwijderen",module,Magento_Checkout
-Shipping,Verzendkosten,module,Magento_Checkout
 "You have no items in your shopping cart.","Je hebt geen producten in je winkelwagen.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1"">hier</a> om verder te gaan met winkelen.",module,Magento_Checkout
 "Estimate Tax","Schat BTW",module,Magento_Checkout
@@ -11244,6 +11243,7 @@ Rule,Regel,module,Magento_TargetRule
 Start,Start,module,Magento_TargetRule
 End,Einde,module,Magento_TargetRule
 "Applies To","geldt voor",module,Magento_TargetRule
+Shipping,Verzendkosten,module,Magento_Tax
 "Tax Rate Information",BTW-tariefgegevens,module,Magento_Tax
 "Tax Identifier",BTW-identifier,module,Magento_Tax
 "Zip/Post is Range",Postcodereeks,module,Magento_Tax
