@@ -3890,6 +3890,7 @@ Save,Opslaan,module,Magento_Customer
 "If you have an account, sign in with your email address.","Als je een account hebt, log hier in met je e-mailadres.",module,Magento_Customer
 Password,Wachtwoord,module,Magento_Customer
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Customer
+"Forgot Your Password","Wachtwoord vergeten",module,Magento_Customer
 "Subscription option",Abonnementoptie,module,Magento_Customer
 "General Subscription","Algemene inschrijving",module,Magento_Customer
 "Sign Up for Newsletter","Aanmelden voor de nieuwsbrief",module,Magento_Customer
