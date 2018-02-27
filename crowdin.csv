@@ -2783,7 +2783,8 @@ Subtotal,Subtotaal,module,Magento_Checkout
 "Edit item parameters","Wijzig product-parameters",module,Magento_Checkout
 Edit,Bewerken,module,Magento_Checkout
 "Remove item","Product verwijderen",module,Magento_Checkout
-"You have no items in your shopping cart.","Je hebt geen product(en) in je winkelwagen.",module,Magento_Checkout
+Shipping,Verzendkosten,module,Magento_Checkout
+"You have no items in your shopping cart.","Je hebt geen producten in je winkelwagen.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1"">hier</a> om verder te gaan met winkelen.",module,Magento_Checkout
 "Estimate Tax","Schat BTW",module,Magento_Checkout
 "Estimate Shipping and Tax","Bekijk verzendkosten en BTW",module,Magento_Checkout
