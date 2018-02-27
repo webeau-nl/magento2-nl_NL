@@ -2825,7 +2825,7 @@ Login,Inloggen,module,Magento_Checkout
 "See Details","Bekijk details",module,Magento_Checkout
 "Options Details","Optie Details",module,Magento_Checkout
 Remove,Verwijder,module,Magento_Checkout
-"Cart Subtotal","Winkelwagen subtotaal",module,Magento_Checkout
+"Cart Subtotal","Subtotaal",module,Magento_Checkout
 "Payment Information",Betaalgegevens,module,Magento_Checkout
 "No Payment method available.","Geen betaalmethode beschikbaar.",module,Magento_Checkout
 "You can track your order status by creating an account.","Door het aanmaken van een account, kunt je de status van je bestelling bijhouden.",module,Magento_Checkout
@@ -2880,6 +2880,10 @@ Payment,Betaling,module,Magento_Checkout
 "Not yet calculated","Nog niet berekend",module,Magento_Checkout
 "We received your order!","Wij hebben je bestelling ontvangen!",module,Magento_Checkout
 "Thank you for your purchase!","Bedankt voor je bestelling!",module,Magento_Checkout
+"Go to Checkout","Ga naar afrekenen",module,Magento_Checkout
+"View and edit cart","Bekijk en bewerk winkelwagen",module,Magento_Checkout
+"Item in Cart","product in winkelwagen",module,Magento_Checkout
+"Items in Cart","producten in winkelwagen",module,Magento_Checkout
 "Terms and Conditions","Algemene Voorwaarden",module,Magento_CheckoutAgreements
 "Add New Condition","Nieuwe voorwaarde toevoegen",module,Magento_CheckoutAgreements
 "Save Condition","Algemene Voorwaarden opslaan",module,Magento_CheckoutAgreements
@@ -6584,8 +6588,8 @@ Fax,Fax,module,Magento_MultipleLocationInventory
 Wishlist,Verlanglijst,module,Magento_MultipleWishlist
 "Customer's Wish List Report","Rapportage verlanglijst klant",module,Magento_MultipleWishlist
 "My Wish Lists",Verlanglijst,module,Magento_MultipleWishlist
-"1 item in wish list","%1 artikel in de verlanglijst",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 artikelen in de verlanglijst",module,Magento_MultipleWishlist
+"1 item in wish list","%1 artikel op de verlanglijst",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 artikelen op de verlanglijst",module,Magento_MultipleWishlist
 "Wish List Search","Verlanglijstje zoeken",module,Magento_MultipleWishlist
 "Select Search Type","Kies zoektype",module,Magento_MultipleWishlist
 Reports,Rapportages,module,Magento_MultipleWishlist
@@ -8074,7 +8078,7 @@ Sharing,Delen,module,Magento_Reminder
 is,is,module,Magento_Reminder
 "is not","is niet",module,Magento_Reminder
 "The item was added to wish list %1, store view %2.","Het product is toegevoegd aan verlanglijst %1, winkelaanzicht %2.",module,Magento_Reminder
-"If an item is %1 in the wish list and %2 of these conditions match:","Als een item is %1 in de verlanglijst %2 van deze voorwaarden komen overeen:",module,Magento_Reminder
+"If an item is %1 in the wish list and %2 of these conditions match:","Als een item is %1 op de verlanglijst %2 van deze voorwaarden komen overeen:",module,Magento_Reminder
 "Condition type is unexpected","Type voorwaarde is niet verwacht",module,Magento_Reminder
 "Please specify a valid number of minute.","Geef een geldig aantal minuten op.",module,Magento_Reminder
 "Unable to save Cron expression","Niet mogelijk om cron expression op te slaan",module,Magento_Reminder
