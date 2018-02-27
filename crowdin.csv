@@ -9367,6 +9367,9 @@ Guest,Bezoeker,module,Magento_Sales
 Pending,"In afwachting",module,Magento_Sales
 Refunded,Teruggestort,module,Magento_Sales
 Canceled,Geannuleerd,module,Magento_Sales
+Processing,"Wordt verwerkt",module,Magento_Sales
+Complete,Afgerond,module,Magento_Sales
+"On hold","In de wacht",module,Magento_Sales
 "Unknown State","Onbekende staat",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","Ongeldig aantal gevonden om terug te betalen voor product ""%1"".",module,Magento_Sales
 "The creditmemo contains product item that is not part of the original order.","The creditmemo contains product item that is not part of the original order.",module,Magento_Sales
