@@ -2795,7 +2795,7 @@ Loading...,"Bezig met laden...",module,Magento_Checkout
 "Incl. Tax","Incl. BTW",module,Magento_Checkout
 "Your order number is: %1.","Je bestelnummer is: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Je bestelnummer is: <span>%1</span>.",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.","We sturen je een orderbevestiging met verdere details en informatie.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Je ontvangt een orderbevestiging met verdere details en informatie. We gaan je order verwerken.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Herinnering mislukte betalingstransactie",module,Magento_Checkout
 "Payment Transaction Failed","Betalingstransactie mislukt",module,Magento_Checkout
 Reason,Activiteit,module,Magento_Checkout
@@ -8251,7 +8251,7 @@ Coupons,Kortingsbonnen,module,Magento_Reports
 "Shopping Cart",Winkelwagen,module,Magento_Reports
 "Abandoned Carts","Achtergelaten winkelwagens",module,Magento_Reports
 "Customer Shopping Carts","Winkelwagens van klant",module,Magento_Reports
-"Products in Carts","Producten in winkelwagen",module,Magento_Reports
+"Products in Carts","Producten in winkelwagens",module,Magento_Reports
 Statistics,Statistieken,module,Magento_Reports
 "No report code is specified.","Geen rapportage code opgegeven.",module,Magento_Reports
 "You refreshed lifetime statistics.","Je vernieuwde levensduur statistieken.",module,Magento_Reports
