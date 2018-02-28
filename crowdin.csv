@@ -8883,8 +8883,8 @@ ID,ID,module,Magento_Rma
 "Notify Customer by Email","Bericht klant per email",module,Magento_Rma
 "Visible on Storefront","Zichtbaar in winkelaanzicht",module,Magento_Rma
 "Customer Service",Klantenservice,module,Magento_Rma
-Notified,Genotificeerd,module,Magento_Rma
-"Not Notified","Niet ge-e-maild",module,Magento_Rma
+Notified,"geïnformeerd",module,Magento_Rma
+"Not Notified","niet geïnformeerd",module,Magento_Rma
 "Return Address",Retouradres,module,Magento_Rma
 "Order Shipping Address","Verzendadres bestelling",module,Magento_Rma
 "Delete Line","Verwijder regel",module,Magento_Rma
@@ -9540,8 +9540,8 @@ View,Bekijk,module,Magento_Sales
 "Notify Customer by Email","Bericht klant per email",module,Magento_Sales
 "Visible on Storefront","Zichtbaar in Winkeletalage",module,Magento_Sales
 Customer,Klant,module,Magento_Sales
-Notified,Genotificeerd,module,Magento_Sales
-"Not Notified","Niet ge-e-maild",module,Magento_Sales
+Notified,"geïnformeerd",module,Magento_Sales
+"Not Notified","niet geïnformeerd",module,Magento_Sales
 "No Payment Methods","Geen betaalmethodes",module,Magento_Sales
 "Order Comments",Bestellingsnotities,module,Magento_Sales
 "Apply Coupon Code","Pas kortingscode toe",module,Magento_Sales
@@ -9647,7 +9647,7 @@ Comment,Opmerking,module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 tarief:",module,Magento_Sales
 "Customer Name","Naam klant",module,Magento_Sales
 "Customer Group",Klantengroep,module,Magento_Sales
-"Notes for this Order","Notities voor deze Order",module,Magento_Sales
+"Notes for this Order","Notities voor deze bestelling",module,Magento_Sales
 "Comment added","Opmerking toegevoegd",module,Magento_Sales
 "Transaction Data",Transactiedatum,module,Magento_Sales
 "Transaction ID",Transactie-ID,module,Magento_Sales
