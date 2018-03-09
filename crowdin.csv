@@ -458,7 +458,7 @@ Shipping,Aflevering,module,Magento_Backend
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
 "All Files","Alle bestanden",module,Magento_Backend
 "Reset to Default","Standaard herstellen",module,Magento_Backend
-"All Store Views","Alle Winkelaanzichten",module,Magento_Backend
+"All Store Views","Alle winkelaanzichten",module,Magento_Backend
 "What is this?","Wat is dit?",module,Magento_Backend
 "Save Account","Account opslaan",module,Magento_Backend
 "My Account","Mijn account",module,Magento_Backend
@@ -664,7 +664,7 @@ password,wachtwoord,module,Magento_Backend
 "Top Search Terms","Top zoektermen",module,Magento_Backend
 "There are no search keywords.","Er zijn geen zoekwoorden gevonden.",module,Magento_Backend
 "View Statistics For:","Bekijk statistieken voor:",module,Magento_Backend
-"All Websites","Alle Websites",module,Magento_Backend
+"All Websites","Alle websites",module,Magento_Backend
 "Reload Data","Gegevens opnieuw laden",module,Magento_Backend
 "Browse Files...","Blader door bestanden...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
@@ -832,7 +832,7 @@ Security,Beveiliging,module,Magento_Backend
 "Enable Charts","Activeer grafieken",module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options",URL-opties,module,Magento_Backend
-"Add Store Code to Urls","Winkelcode aan URL's toevoegen",module,Magento_Backend
+"Add Store Code to Urls","Winkelcode aan URL’s toevoegen",module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Waarschuwing!</strong> Indien je een winkelcode in URL’s gebruikt kan in sommige gevallen het systeem problemen ondervinden indien winkel codes voorkomen in diensten van derden (bv. Paypal enz.).",module,Magento_Backend
 "Auto-redirect to Base URL","Auto-doorverwijzing naar de Basis URL",module,Magento_Backend
 "Search Engine Optimization","Zoekmachine-optimalisatie (SEO)",module,Magento_Backend
@@ -844,7 +844,7 @@ Web,Web,module,Magento_Backend
 "Base URL for Static View Files","Basis-URL voor statische bestanden",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Kan leeg zij of starten met {{unsecure_base_url}} aanduiding.",module,Magento_Backend
 "Base URL for User Media Files","Basis url voor media bestanden gebruiker",module,Magento_Backend
-"Base URLs (Secure)","Base URL's (veilig)",module,Magento_Backend
+"Base URLs (Secure)","Base URL’s (veilig)",module,Magento_Backend
 "Secure Base URL","Beveiligde Basis Url",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Geef URL of {{base_url}} of {{unsecure_base_url}} verwijzing op.",module,Magento_Backend
 "Secure Base Link URL","Veilige basis Link URL",module,Magento_Backend
@@ -879,7 +879,7 @@ Tags,tags,module,Magento_Backend
 Pagination,Paginering,module,Magento_Backend
 "How many links to display at once.","Geef aan hoeveel links tegelijkertijd getoond mogen worden.",module,Magento_Backend
 "Pagination Frame","Paginering frame",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Als de huidige positie van het frame niet de uiterste pagina's bevat, zal de render verwijzen naar de huidige positie plus/min deze waarde.",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Als de huidige positie van het frame niet de uiterste pagina’s bevat, zal de render verwijzen naar de huidige positie plus/min deze waarde.",module,Magento_Backend
 "Pagination Frame Skip","Paginering frame aantal overslaan",module,Magento_Backend
 "Anchor Text for Previous","Tekst voor 'Vorige'",module,Magento_Backend
 "Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternatieve tekst voor vorige link in pagineringsmenu. Wanneer je deze leeg laat, wordt de standaard pijl getoond.",module,Magento_Backend
@@ -1551,7 +1551,7 @@ Import,Import,module,Magento_Catalog
 "Delete Row","Rij verwijderen",module,Magento_Catalog
 "Tier Pricing",Staffelprijzen,module,Magento_Catalog
 "Default Price",Standaard-prijs,module,Magento_Catalog
-"All Websites","Alle Websites",module,Magento_Catalog
+"All Websites","Alle websites",module,Magento_Catalog
 "ALL GROUPS","ALLE GROEPEN",module,Magento_Catalog
 "Add Price","Prijs toevoegen",module,Magento_Catalog
 "Default Values",standaardwaarden,module,Magento_Catalog
@@ -2079,8 +2079,8 @@ Comma-separated.,"gescheiden door een komma",module,Magento_Catalog
 "Use Flat Catalog Product","Gebruik platte catalogus producten",module,Magento_Catalog
 "Product Listing Sort by","Productlijst sorteren op",module,Magento_Catalog
 "Allow All Products per Page","Alle producten per pagina toestaan",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Toon 'Alle Producten' of 'X producten per pagina' in de dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Dynamische URL's voor producten en categorieën toestaan",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Toon 'Alle producten' of 'X producten per pagina' in de dropdown",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Dynamische URL’s voor producten en categorieën toestaan",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Bv. {{media url=""pad/naar/afbeelding.jpg""}} {{skin url=""pad/naar/afbeelding.jpg""}}. Dynamisch parsen van heeft invloed op catalogus-performance.",module,Magento_Catalog
 "Product Image Placeholders","Placeholder voor productafbeelding",module,Magento_Catalog
 "Search Engine Optimization","Zoekmachine-optimalisatie (SEO)",module,Magento_Catalog
@@ -2205,7 +2205,7 @@ Values,Waarden,module,Magento_Catalog
 "Add this attribute to the list of column options in the product grid.","Dit attribuut toe aan de lijst van kolom-opties in de product-grid toevoegen.",module,Magento_Catalog
 "Add this attribute to the list of filter options in the product grid.","Dit attribuut toe aan de lijst met filteropties in het product-grid toevoegen.",module,Magento_Catalog
 System,Systeem,module,Magento_Catalog
-"All Store Views","Alle Winkelaanzichten",module,Magento_Catalog
+"All Store Views","Alle winkelaanzichten",module,Magento_Catalog
 "Delete selected items?","Verwijder geselecteerde items?",module,Magento_Catalog
 "Delete items","Items verwijderen",module,Magento_Catalog
 "Change status","Verander status",module,Magento_Catalog
@@ -2406,7 +2406,7 @@ Website,Website,module,Magento_CatalogPermissions
 "Customer Group",Klantengroep,module,Magento_CatalogPermissions
 Action,Actie,module,Magento_CatalogPermissions
 "-- Please Select --","-- Selecteer --",module,Magento_CatalogPermissions
-"All Websites","Alle Websites",module,Magento_CatalogPermissions
+"All Websites","Alle websites",module,Magento_CatalogPermissions
 "All Customer Groups","Alle klantengroepen",module,Magento_CatalogPermissions
 Allow,Toestaan,module,Magento_CatalogPermissions
 Deny,Weigeren,module,Magento_CatalogPermissions
@@ -3018,7 +3018,7 @@ Edit,Bewerken,module,Magento_Cms
 Delete,Verwijder,module,Magento_Cms
 "Delete %1","Verwijder %1",module,Magento_Cms
 "Are you sure you want to delete a %1 record?","Weet je zeker dat je een %1 rij wilt verwijderen?",module,Magento_Cms
-"All Store Views","Alle Winkelaanzichten",module,Magento_Cms
+"All Store Views","Alle winkelaanzichten",module,Magento_Cms
 View,Bekijk,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","Geen bestanden gevonden",module,Magento_Cms
@@ -3479,7 +3479,7 @@ Monthly,Maandelijks,module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Ongeldige callback: Not_Existed_Class::execute kan worden aangeroepen",module,Magento_Cron
 "Test exception","Text exception",module,Magento_Cron
 "Cron (Scheduled Tasks)","Cron (Geplande taken)",module,Magento_Cron
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL's te genereren tijdens cron, zorg er voor dat Web > Veilige en onbeveiligde Base URL's expliciet zijn ingesteld. Alle tijden zijn in minuten.",module,Magento_Cron
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL’s te genereren tijdens cron, zorg er voor dat Web > Veilige en onbeveiligde Base URL’s expliciet zijn ingesteld. Alle tijden zijn in minuten.",module,Magento_Cron
 "Cron configuration options for group:","Cron configuratie-opties voor groep:",module,Magento_Cron
 "Generate Schedules Every","Maak planningen elke",module,Magento_Cron
 "Schedule Ahead for","Planning vooruit maken voor",module,Magento_Cron
@@ -3839,7 +3839,7 @@ Store,Winkel,module,Magento_Customer
 "Store View",Winkelaanzicht,module,Magento_Customer
 "Lifetime Sales","Verkooptotaal vanaf eerste bestelling",module,Magento_Customer
 "Average Sale","Gemiddeld bedrag",module,Magento_Customer
-"All Store Views","Alle Winkelaanzichten",module,Magento_Customer
+"All Store Views","Alle winkelaanzichten",module,Magento_Customer
 Change,Verander,module,Magento_Customer
 "Manage Addresses","Beheer adressen",module,Magento_Customer
 "Default Shipping Address","Standaard verzendadres",module,Magento_Customer
@@ -3954,7 +3954,7 @@ Medium,Gemiddeld,module,Magento_Customer
 Strong,Sterk,module,Magento_Customer
 "Very Strong","Zeer Sterk",module,Magento_Customer
 "Guest checkout is disabled.","Gast-kassa is uitgeschakeld.",module,Magento_Customer
-"All Customers","Alle Klanten",module,Magento_Customer
+"All Customers","Alle klanten",module,Magento_Customer
 "Now Online","Nu online",module,Magento_Customer
 "Customers Section","Klanten sectie",module,Magento_Customer
 "Customer Configuration",Klant-configuratie,module,Magento_Customer
@@ -4181,7 +4181,7 @@ Yes,Ja,module,Magento_CustomerCustomAttributes
 "-- Please Select --","-- Selecteer --",module,Magento_CustomerCustomAttributes
 "Based On","Gebaseerd Op",module,Magento_CustomerCustomAttributes
 "Form Label","formulier label",module,Magento_CustomerCustomAttributes
-"All Themes","Alle Thema's",module,Magento_CustomerCustomAttributes
+"All Themes","Alle thema’s",module,Magento_CustomerCustomAttributes
 "For Theme","voor thema",module,Magento_CustomerCustomAttributes
 "Store View",Winkelaanzicht,module,Magento_CustomerCustomAttributes
 "Form Code","formulier code",module,Magento_CustomerCustomAttributes
@@ -4438,7 +4438,7 @@ Tax,Belasting,module,Magento_CustomerSegment
 "Enable Customer Segment Functionality","Activeer Klantsegment Functionaliteit",module,Magento_CustomerSegment
 "Refresh Data","Ververs Gegevens",module,Magento_CustomerSegment
 "Manage Segments","Beheer Segmenten",module,Magento_CustomerSegment
-"All Websites","Alle Websites",module,Magento_CustomerSegment
+"All Websites","Alle websites",module,Magento_CustomerSegment
 CSV,CSV,module,Magento_CustomerSegment
 "Excel XML","Excel XML",module,Magento_CustomerSegment
 Name,Naam,module,Magento_CustomerSegment
@@ -4533,7 +4533,7 @@ Debug,Debug,module,Magento_Cybersource
 "Workflow type","Type werkstroom",module,Magento_Developer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
-"Allowed IPs (comma separated)","Toegestane IP's (door komma's gescheiden)",module,Magento_Developer
+"Allowed IPs (comma separated)","Toegestane IP’s (komma-gescheiden)",module,Magento_Developer
 "Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen toegankelijk zijn.",module,Magento_Developer
 "Log to File","Log naar bestand",module,Magento_Developer
 "Not available in production mode.","Niet beschikbaar in productie mode.",module,Magento_Developer
@@ -5189,7 +5189,7 @@ Virtual,Virtuele,module,Magento_GiftCard
 Physical,Fysiek,module,Magento_GiftCard
 Combined,Gecombineerd,module,Magento_GiftCard
 "Add Amount","Bedrag toevoegen",module,Magento_GiftCard
-"All Websites","Alle Websites",module,Magento_GiftCard
+"All Websites","Alle websites",module,Magento_GiftCard
 "Gift Card Type","Cadeau kaarttype",module,Magento_GiftCard
 "Gift Card Sender","Cadeau kaart afzender",module,Magento_GiftCard
 "Gift Card Recipient","Geadresseerde van cadeau-kaart",module,Magento_GiftCard
@@ -5207,9 +5207,9 @@ N/A,n.v.t.,module,Magento_GiftCard
 "Please specify all the required information.","Geef alle vereiste informatie op.",module,Magento_GiftCard
 "Gift Card max amount is %1","Maximum bedrag voor de cadeaubon is %1",module,Magento_GiftCard
 "Gift Card min amount is %1","Minimale bedrag voor de cadeaubon is %1",module,Magento_GiftCard
-"Please specify a recipient name.","Geef de geadresseerde's naam op.",module,Magento_GiftCard
+"Please specify a recipient name.","Geef de geadresseerde’s naam op.",module,Magento_GiftCard
 "Please specify a sender name.","Geef de naam van de afzender op.",module,Magento_GiftCard
-"Please specify a recipient email.","Geef de geadresseerde's e-mailadres op.",module,Magento_GiftCard
+"Please specify a recipient email.","Geef de geadresseerde’s e-mailadres op.",module,Magento_GiftCard
 "Please specify a sender email.","Geef een afzender e-mailadres op.",module,Magento_GiftCard
 Ordered,Besteld,module,Magento_GiftCard
 Invoiced,Gefactureerd,module,Magento_GiftCard
@@ -5223,7 +5223,7 @@ To,Aan,module,Magento_GiftCard
 "Allow Message","Bericht toestaan",module,Magento_GiftCard
 "[STORE VIEW]",[WINKELAANZICHT],module,Magento_GiftCard
 "Email Template","E-mail template",module,Magento_GiftCard
-"All Websites [%1]","Alle Websites [%1]",module,Magento_GiftCard
+"All Websites [%1]","Alle websites [%1]",module,Magento_GiftCard
 "%1 [%2]","%1 %2",module,Magento_GiftCard
 Availability:,Beschikbaarheid:,module,Magento_GiftCard
 "Out of stock","Niet op voorraad",module,Magento_GiftCard
@@ -10976,7 +10976,7 @@ Void,"Nietig verklaard",module,Magento_Support
 "Group Code",Groepscode,module,Magento_Support
 "All Configurable Cron Jobs","Alle configureerbare cron jobs",module,Magento_Support
 "All Global Cron Jobs","Alle globale cron jobs",module,Magento_Support
-"Cron Schedules List","Cron schema's lijst",module,Magento_Support
+"Cron Schedules List","Cron schema’s lijst",module,Magento_Support
 "Schedule Id",Schema-Id,module,Magento_Support
 Status,Status,module,Magento_Support
 "Created At","Aangemaakt Op",module,Magento_Support
@@ -12560,7 +12560,7 @@ Message,Bericht,module,Magento_Webapi
 "HTTP Response","HTTP antwoord",module,Magento_WebsiteRestriction
 "Applicable only if restriction mode is set to ""Website Closed"". The landing page is rendered as raw HTML.","Alleen van toepassing als de beperking modus is ingesteld op 'Website gesloten'. De landingspagina wordt weergegeven als HTML.",module,Magento_WebsiteRestriction
 "Add Tax","BTW toevoegen",module,Magento_Weee
-"Delete Tax","BTW Verwijderen",module,Magento_Weee
+"Delete Tax","BTW verwijderen",module,Magento_Weee
 "All Websites","Alle websites",module,Magento_Weee
 FPT,Verwijderingsbijdrage,module,Magento_Weee
 "You must set unique country-state combinations within the same fixed product tax","Je moet unieke land-staat combinaties instellen in dezelfde fixed product tax",module,Magento_Weee
