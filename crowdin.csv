@@ -4386,9 +4386,9 @@ subscribed,geabonneerd,module,Magento_CustomerSegment
 "Order Address %1","Besteladres %1",module,Magento_CustomerSegment
 "Address Type",Adrestype,module,Magento_CustomerSegment
 "Order Address %1 a %2 Address","Besteladres %1 a %2 Adres",module,Magento_CustomerSegment
-"Order Status","Bestelling Status",module,Magento_CustomerSegment
+"Order Status","Bestelstatus",module,Magento_CustomerSegment
 Any,Elke,module,Magento_CustomerSegment
-"Order Status %1 %2:","Bestelling status %1 %2:",module,Magento_CustomerSegment
+"Order Status %1 %2:","Bestelstatus %1 %2:",module,Magento_CustomerSegment
 "Product Attributes",Productkenmerken,module,Magento_CustomerSegment
 "Product %1","Product %1",module,Magento_CustomerSegment
 "Date Ranges","Datum Reeksen",module,Magento_CustomerSegment
@@ -6461,7 +6461,7 @@ Reports,Rapportages,module,Magento_Logging
 "Newsletter Templates","Nieuwsbrief sjablonen",module,Magento_Logging
 "Newsletter Subscribers",Nieuwsbriefabonnees,module,Magento_Logging
 "Sales Orders","Verkoop Bestellingen",module,Magento_Logging
-"Sales Order Status","Verkoop Bestellings Status",module,Magento_Logging
+"Sales Order Status","Verkoop Bestelstatus",module,Magento_Logging
 "Sales Invoices",Verkoopfacturen,module,Magento_Logging
 "Sales Shipments","Verkoop Zendingen",module,Magento_Logging
 "Sales Credit Memos","Creditfacturen bij verkopen",module,Magento_Logging
@@ -7527,7 +7527,7 @@ Updated:,Bijgewerkt:,module,Magento_Paypal
 "Order #",Ordernr.,module,Magento_Paypal
 Date,Datum,module,Magento_Paypal
 "Ship To","Verzenden aan",module,Magento_Paypal
-"Order Status","Bestelling Status",module,Magento_Paypal
+"Order Status","Bestelstatus",module,Magento_Paypal
 "View Order","Bestelling bekijken",module,Magento_Paypal
 "Back to Billing Agreements","Terug naar incasso-overeenkomsten",module,Magento_Paypal
 "Payment Method",Betaalmethode,module,Magento_Paypal
@@ -9150,16 +9150,16 @@ Capture,"Registreer betaling",module,Magento_Sales
 "Create New Status","Nieuwe status aanmaken",module,Magento_Sales
 "Assign Status to State","Wijs status toe aan staat",module,Magento_Sales
 "Save Status Assignment","Status toewijzing opslaan",module,Magento_Sales
-"Assign Order Status to State","Wijs bestelling-status toe aan staat",module,Magento_Sales
+"Assign Order Status to State","Wijs bestelstatus toe aan staat",module,Magento_Sales
 "Assignment Information",Toewijzing-informatie,module,Magento_Sales
-"Order Status","Bestelling Status",module,Magento_Sales
+"Order Status","Bestelstatus",module,Magento_Sales
 "Order State",Bestelling-staat,module,Magento_Sales
-"Use Order Status As Default","Gebruik bestelling-status als standaard",module,Magento_Sales
+"Use Order Status As Default","Gebruik bestelstatus als standaard",module,Magento_Sales
 "Visible On Storefront","Zichtbaar in winkeletalage",module,Magento_Sales
-"Edit Order Status","Wijzig bestelling-status",module,Magento_Sales
+"Edit Order Status","Wijzig bestelstatus",module,Magento_Sales
 "Save Status","Status opslaan",module,Magento_Sales
 "New Order Status","Status nieuwe bestelling",module,Magento_Sales
-"Order Status Information",Bestelling-statusinformatie,module,Magento_Sales
+"Order Status Information",Bestelstatus-informatie,module,Magento_Sales
 "Status Code",Statuscode,module,Magento_Sales
 "Status Label",Statuslabel,module,Magento_Sales
 "Store View Specific Labels","Winkelaanzicht Specifieke Labels",module,Magento_Sales
@@ -9306,13 +9306,13 @@ Sales,Verkopen,module,Magento_Sales
 "Transaction has been voided/declined.","Transactie is ongeldig/geweigerd.",module,Magento_Sales
 "There is no update for the transaction.","Er is geen update voor de transactie.",module,Magento_Sales
 "We can't update the payment right now.","We kunnen de betaling nu niet bijwerken.",module,Magento_Sales
-"You assigned the order status.","Je hebt een bestelling-status toegewezen",module,Magento_Sales
+"You assigned the order status.","Je hebt een bestelstatus toegewezen",module,Magento_Sales
 "Something went wrong while assigning the order status.","Er ging iets mis tijdens het toewijzen van de serviceorderstatus.",module,Magento_Sales
 "We can't find this order status.","We kunnen de status van de bestelling niet vinden.",module,Magento_Sales
-"Create New Order Status","Maak een nieuwe bestelling-status",module,Magento_Sales
+"Create New Order Status","Maak een nieuwe bestelstatus",module,Magento_Sales
 "We found another order status with the same order status code.","Andere orderstatus van bestelling met dezelfde orderstatuscode.",module,Magento_Sales
 "You saved the order status.","Bestellingstatus opgeslagen.",module,Magento_Sales
-"We can't add the order status right now.","Kan de bestelling status nu niet toevoegen.",module,Magento_Sales
+"We can't add the order status right now.","Kan de bestelstatus nu niet toevoegen.",module,Magento_Sales
 "You have unassigned the order status.","Je hebt de status van de bestelling ingetrokken.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Er ging iets mis tijdens het intrekken van de bestelling.",module,Magento_Sales
 "Can't unhold order.","Kan bestelling niet vrijgeven.",module,Magento_Sales
@@ -9512,7 +9512,7 @@ State/Province,Provincie,module,Magento_Sales
 "Could not cancel creditmemo","Creditfactuur kan niet geannuleerd worden",module,Magento_Sales
 "We cannot register an existing credit memo.","Kan een bestaande creditfactuur niet inboeken.",module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","We vonden een ongeldig aantal om te factureren voor product ""%1"".",module,Magento_Sales
-"The Order State ""%1"" must not be set manually.","De bestellingsstatus ""%1"" mag niet handmatig ingesteld worden.",module,Magento_Sales
+"The Order State ""%1"" must not be set manually.","De bestelstatus ""%1"" mag niet handmatig ingesteld worden.",module,Magento_Sales
 """Shipment Document Validation Error(s):\n"" .","""Verzending Document validatie fout(en): \n"".",module,Magento_Sales
 "Could not save a shipment, see error log for details","Opslaan van zending was niet mogelijk, bekijk foutlog voor meerinformatie",module,Magento_Sales
 "VAT Request Identifier","BTW-nummer identifier",module,Magento_Sales
@@ -9881,7 +9881,7 @@ Order,Bestelling,module,Magento_SalesArchive
 "Bill-to Name",Factuurnaam,module,Magento_SalesArchive
 Status,Status,module,Magento_SalesArchive
 Refunded,Teruggestort,module,Magento_SalesArchive
-"Order Status","Bestelling Status",module,Magento_SalesArchive
+"Order Status","Bestelstatus",module,Magento_SalesArchive
 "Billing Address",Factuuradres,module,Magento_SalesArchive
 "Shipping Address",Bezorgadres,module,Magento_SalesArchive
 "Customer Name","Naam klant",module,Magento_SalesArchive
@@ -12857,7 +12857,7 @@ Password:,Wachtwoord:,theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Wanneer je inlogt op je account, kun je volgende zaken:",theme,frontend/Magento/luma
 "Quick Checkout","Snelle betaling",theme,frontend/Magento/luma
 "Proceed through checkout faster","Sneller betalen",theme,frontend/Magento/luma
-"Order Status","Bestelling Status",theme,frontend/Magento/luma
+"Order Status","Bestelstatus",theme,frontend/Magento/luma
 "Check the status of orders","Orderstatus controleren",theme,frontend/Magento/luma
 "Manage Addresses","Beheer adressen",theme,frontend/Magento/luma
 "Store alternative addresses","Alternatieve adressen opslaan",theme,frontend/Magento/luma
