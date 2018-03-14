@@ -10479,7 +10479,7 @@ Shipments,Verzendingen,module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","Track-en-trace nummer kan niet worden geladen.",module,Magento_Shipping
 "We can't save the shipment right now.","Verzending kan nu niet worden opgeslagen.",module,Magento_Shipping
 """Shipment Document Validation Error(s):\n"" .","""Verzending Document validatie fout(en): \n"".",module,Magento_Shipping
-"The shipment has been created.","De verzending werd aangemaakt.",module,Magento_Shipping
+"The shipment has been created.","De verzending is aangemaakt.",module,Magento_Shipping
 "Cannot save shipment.","Kan deze zending niet opslaan",module,Magento_Shipping
 "The order no longer exists.","De order bestaat niet langer.",module,Magento_Shipping
 "Cannot do shipment for the order separately from invoice.","Kan geen verzendopdracht aanmaken zonder factuur",module,Magento_Shipping
@@ -10821,11 +10821,11 @@ Description,Omschrijving,module,Magento_Staging
 "Invalid store parameter.","Ongeldige winkel parameter.",module,Magento_Store
 "Current store is not active.","Huidige winkel is niet actief.",module,Magento_Store
 "Requested store is inactive","Opgevraagde winkel is niet actief",module,Magento_Store
-"Requested store is not found","Opgevraagde winkel werd niet gevonden",module,Magento_Store
+"Requested store is not found","Opgevraagde winkel kon niet worden gevonden",module,Magento_Store
 "Environment emulation nesting is not allowed.","Emulation nesting omgeving is niet toegestaan.",module,Magento_Store
 %1,%1,module,Magento_Store
 "Website was not found","Website is niet gevonden",module,Magento_Store
-"Group was not found","Groep werd niet gevonden",module,Magento_Store
+"Group was not found","Groep is niet gevonden",module,Magento_Store
 "Store was not found","Winkel is niet gevonden",module,Magento_Store
 "Class for type ""%1"" was not declared","Klasse voor type ""%1"" is niet gedefinieerd",module,Magento_Store
 "%1 should implement %2","%1 moet %2 implementeren",module,Magento_Store
@@ -10895,7 +10895,7 @@ Support,Ondersteuning,module,Magento_Support
 "After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Nadat je je selectie heeft gemaakt, klik op de ""Aanmaken"" knop. Oefen dan even geduld uit tijdens de systeem verslag generatie. Dit kan enkele minuten duren. Je zult een melding ontvangen zodra deze stap is voltooid.",module,Magento_Support
 "Create System Report","Systeem rapport maken",module,Magento_Support
 "Unable to find a system report to delete.","Kan geen systeemverslag vinden om te verwijderen.",module,Magento_Support
-"The system report has been deleted.","Het systeemverslag werd verwijderd.",module,Magento_Support
+"The system report has been deleted.","Het systeemverslag is verwijderd.",module,Magento_Support
 "An error occurred while deleting the system report. Please review log and try again.","Er is een fout opgetreden tijdens het verwijderen van het systeemverslag. Controleer het fouten logboek en probeer opnieuw.",module,Magento_Support
 "Requested system report no longer exists.","Het opgevraagde systeemverslag bestaat niet meer.",module,Magento_Support
 "Unable to read system report data to display.","Kan het systeemverslag niet lezen en dus ook niet weergeven.",module,Magento_Support
@@ -12292,7 +12292,7 @@ Name,Naam,module,Magento_Variable
 "No token found.","Geen token gevonden.",module,Magento_Vault
 "Wrong request.","Verkeerd verzoek.",module,Magento_Vault
 "Deletion failure. Please try again.","Verwijderen mislukt. Probeer het opnieuw.",module,Magento_Vault
-"Stored Payment Method was successfully removed","Opgeslagen betalingsmethode werd met succes verwijderd",module,Magento_Vault
+"Stored Payment Method was successfully removed","Opgeslagen betalingsmethode is verwijderd",module,Magento_Vault
 "Stored Payment Methods","Opgeslagen betalingsmethoden",module,Magento_Vault
 "No available payment tokens for specified order payment.","Geen beschikbare betaaltokens voor opgegeven volgorde betaling.",module,Magento_Vault
 "Card Number",Kaartnummer,module,Magento_Vault
@@ -12525,7 +12525,7 @@ Stock,Voorraad,module,Magento_VisualMerchandiser
 "Request does not match any route.","Verzoek komt niet overeen met een route.",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Niet toegestane parameters: %1. Gebruik alleen %2 en %3.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Opgevraagde service is niet beschikbaar: ""%1""",module,Magento_Webapi
-"Operation ""%1"" not found.","Operatie ""%1"" werd niet gevonden.",module,Magento_Webapi
+"Operation ""%1"" not found.","Operatie ""%1"" is niet gevonden.",module,Magento_Webapi
 "SOAP extension is not loaded.","SOAP extensie is niet geladen.",module,Magento_Webapi
 "Invalid XML","Ongeldige XML",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","Ongeldige XML: illegaal DOCTYPE gedetecteerd",module,Magento_Webapi
@@ -12674,7 +12674,7 @@ Conditions,Voorwaarden,module,Magento_Widget
 "We can't load the Wish List item right now.","We kunnen momenteel het verlanglijst product niet laden.",module,Magento_Wishlist
 "We can't configure the product right now.","We kunnen het product momenteel niet configureren.",module,Magento_Wishlist
 "The requested cart item doesn't exist.","Het opgevraagde winkelwagen product bestaat niet.",module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 werd verplaatst naar je verlanglijst.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 is verplaatst naar je verlanglijst.",module,Magento_Wishlist
 "We can't move the item to the wish list.","We kunnen het product niet verplaatsen naar het verlanglijstje.",module,Magento_Wishlist
 "We can't delete the item from Wish List right now because of an error: %1.","We kunnen het product niet verwijderen van de verlanglijst omwille van een fout: %1.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","We kunnen het product momenteel niet van de verlanglijst verwijderen.",module,Magento_Wishlist
@@ -12799,7 +12799,7 @@ Matched,Overeengekomen,module,Magento_Worldpay
 "Amount doesn't match.","Bedrag komt niet overeen.",module,Magento_Worldpay
 "Not supported response.","Antwoord wordt niet ondersteund.",module,Magento_Worldpay
 "Gateway processing error.","Gateway verwerkingsfout.",module,Magento_Worldpay
-"Transaction was not placed.","Transactie werd niet geplaatst.",module,Magento_Worldpay
+"Transaction was not placed.","Transactie is niet geplaatst.",module,Magento_Worldpay
 None,Geen,module,Magento_Worldpay
 Authorize,Autoriseer,module,Magento_Worldpay
 "Authorize and Capture","Authoriseer en Capture",module,Magento_Worldpay
@@ -12879,7 +12879,7 @@ Footer,Footer,theme,frontend/Magento/luma
 "Payment Method",Betaalmethode,theme,frontend/Magento/luma
 "Shipping Method",Verzendmethode,theme,frontend/Magento/luma
 "Update to your %store_name credit memo","Update van je %store_name creditfactuur",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id is geüpdatet met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Invoice for your %store_name order","Factuur voor je %store_name bestelling",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Je factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update van je %store_name factuur",theme,frontend/Magento/luma
