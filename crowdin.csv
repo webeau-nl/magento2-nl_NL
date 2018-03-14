@@ -2980,7 +2980,7 @@ Blocks,Blokken,module,Magento_Cms
 "This page no longer exists.","Deze pagina bestaat niet langer meer",module,Magento_Cms
 "Edit Page","Pagina Bewerken",module,Magento_Cms
 "New Page","Nieuwe pagina",module,Magento_Cms
-Pages,Pagina's,module,Magento_Cms
+Pages,Pagina’s,module,Magento_Cms
 "Something went wrong while saving the page.","Er ging iets mis bij het opslaan van de pagina.",module,Magento_Cms
 "A total of %1 record(s) have been disabled.","Een totaal van %1 document(en) zijn uitgeschakeld.",module,Magento_Cms
 "A total of %1 record(s) have been enabled.","In totaal van %1 records(s) zijn ingeschakeld.",module,Magento_Cms
@@ -3657,7 +3657,7 @@ Download,Downloads,module,Magento_Customer
 "Please make sure your passwords match.","Zorg dat de wachtwoorden overeenkomen.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Als je een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om je verzendadres in te voeren voor een juiste BTW-berekening.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Als je een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om je factuuradres in te voeren voor een juiste BTW-berekening.",module,Magento_Customer
-"Account Information","Account Gegevens",module,Magento_Customer
+"Account Information","Account gegevens",module,Magento_Customer
 "You saved the account information.","Je hebt de accountgegevens opgeslagen.",module,Magento_Customer
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Wachtwoord-bevestiging komt niet overeen met ingegeven wachtwoord.",module,Magento_Customer
@@ -3894,7 +3894,7 @@ Password,Wachtwoord,module,Magento_Customer
 "Subscription option",Abonnementoptie,module,Magento_Customer
 "General Subscription","Algemene inschrijving",module,Magento_Customer
 "Sign Up for Newsletter","Aanmelden voor de nieuwsbrief",module,Magento_Customer
-"Address Information","Adres Gegevens",module,Magento_Customer
+"Address Information","Adresgegevens",module,Magento_Customer
 "Sign-in Information",Inloggegevens,module,Magento_Customer
 "Confirm Password","Bevestig wachtwoord",module,Magento_Customer
 "Create an Account","Account aanmaken",module,Magento_Customer
@@ -4265,7 +4265,7 @@ Email,Email,module,Magento_CustomerCustomAttributes
 "Confirm New Password","Bevestig nieuw wachtwoord",module,Magento_CustomerCustomAttributes
 "Personal Information","Persoonlijke informatie",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Inschrijven op de nieuwsbrief",module,Magento_CustomerCustomAttributes
-"Address Information","Adres Gegevens",module,Magento_CustomerCustomAttributes
+"Address Information","Adresgegevens",module,Magento_CustomerCustomAttributes
 "Sign-in Information",Inloggegevens,module,Magento_CustomerCustomAttributes
 Password,Wachtwoord,module,Magento_CustomerCustomAttributes
 "Confirm Password","Bevestig wachtwoord",module,Magento_CustomerCustomAttributes
@@ -4436,7 +4436,7 @@ Tax,Belasting,module,Magento_CustomerSegment
 "Use in Customer Segment","In Klanten Segment Gebruiken",module,Magento_CustomerSegment
 "Please choose a condition to add.","Kies een voorwaarde om toe te voegen.",module,Magento_CustomerSegment
 "Enable Customer Segment Functionality","Activeer Klantsegment Functionaliteit",module,Magento_CustomerSegment
-"Refresh Data","Ververs Gegevens",module,Magento_CustomerSegment
+"Refresh Data","Ververs gegevens",module,Magento_CustomerSegment
 "Manage Segments","Beheer Segmenten",module,Magento_CustomerSegment
 "All Websites","Alle websites",module,Magento_CustomerSegment
 CSV,CSV,module,Magento_CustomerSegment
@@ -8870,7 +8870,7 @@ Message,Bericht,module,Magento_Rma
 "All Items","Alle producten",module,Magento_Rma
 "Individual Items","Individuele producten",module,Magento_Rma
 "Account &amp; Shipping Information","Account- &amp; verzendinformatie",module,Magento_Rma
-"Address Information","Adres Gegevens",module,Magento_Rma
+"Address Information","Adresgegevens",module,Magento_Rma
 "RMA Totals","RMA totalen",module,Magento_Rma
 "Request Details","Vraag details aan",module,Magento_Rma
 ID,ID,module,Magento_Rma
@@ -9548,7 +9548,7 @@ Notified,"geïnformeerd",module,Magento_Sales
 Apply,Toepassen,module,Magento_Sales
 "Remove Coupon Code","Verwijder kortingscode",module,Magento_Sales
 Remove,Verwijder,module,Magento_Sales
-"Address Information","Adres Gegevens",module,Magento_Sales
+"Address Information","Adresgegevens",module,Magento_Sales
 "Payment &amp; Shipping Information","Betaling- &amp; Verzending-informatie",module,Magento_Sales
 "Order Total",Totaal,module,Magento_Sales
 "Order Currency:","Valuta van bestelling",module,Magento_Sales
@@ -12416,7 +12416,7 @@ Previous,Vorige,module,Magento_VersionsCms
 Next,Volgende,module,Magento_VersionsCms
 "Delete Revision and Version","Verwijder revisie en versie",module,Magento_VersionsCms
 "Publish Revision","Publiceer revisie",module,Magento_VersionsCms
-Pages,Pagina's,module,Magento_VersionsCms
+Pages,Pagina’s,module,Magento_VersionsCms
 "CMS Page Hierarchy","CMS pagina hiërarchie",module,Magento_VersionsCms
 "Enable Hierarchy Functionality","Stel hiërarchie functionaliteit in werking",module,Magento_VersionsCms
 "Enable Hierarchy Metadata","Stel hiërarchie metadata in werking",module,Magento_VersionsCms
