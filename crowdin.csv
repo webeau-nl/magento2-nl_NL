@@ -1087,7 +1087,7 @@ Country,Land,module,Magento_Braintree
 Authorize,Autoriseer,module,Magento_Braintree
 "Authorize and Capture","Authoriseer en Capture",module,Magento_Braintree
 "--Please Select--","-- Selecteer --",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_Braintree
 "Credit Card Type",Creditcard-maatschappij,module,Magento_Braintree
 "Credit Card Number",Creditcard-nummer,module,Magento_Braintree
 "Please, enter valid Credit Card Number","Vul een geldig creditcard-nummer in",module,Magento_Braintree
@@ -1181,7 +1181,7 @@ Country,Land,module,Magento_BraintreeTwo
 Authorize,Autoriseer,module,Magento_BraintreeTwo
 "Authorize and Capture","Autoriseren en vastleggen",module,Magento_BraintreeTwo
 "--Please Select--",--Selecteer--,module,Magento_BraintreeTwo
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_BraintreeTwo
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_BraintreeTwo
 "Paypal account",PayPal-account,module,Magento_BraintreeTwo
 "Coinbase account","Coinbase account",module,Magento_BraintreeTwo
 "Europe bank account","Europese bankrekening",module,Magento_BraintreeTwo
@@ -2730,7 +2730,7 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "Guest checkout is disabled.","Gast kassa is uitgeschakeld.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
 "Page not found.","Pagina niet gevonden.",module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 breidt \Magento\Checkout\CustomerData\ItemInterface niet uit",module,Magento_Checkout
 "Payment Method",Betaalmethode,module,Magento_Checkout
@@ -2884,13 +2884,13 @@ Payment,Betaling,module,Magento_Checkout
 "View and edit cart","Bekijk en bewerk winkelwagen",module,Magento_Checkout
 "Item in Cart","product in winkelwagen",module,Magento_Checkout
 "Items in Cart","producten in winkelwagen",module,Magento_Checkout
-"Terms and Conditions","Algemene Voorwaarden",module,Magento_CheckoutAgreements
+"Terms and Conditions","Algemene voorwaarden",module,Magento_CheckoutAgreements
 "Add New Condition","Nieuwe voorwaarde toevoegen",module,Magento_CheckoutAgreements
-"Save Condition","Algemene Voorwaarden opslaan",module,Magento_CheckoutAgreements
+"Save Condition","Algemene voorwaarden opslaan",module,Magento_CheckoutAgreements
 "Delete Condition","Voorwaarde verwijderen",module,Magento_CheckoutAgreements
-"Edit Terms and Conditions","Algemene Voorwaarden bewerken",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Algemene voorwaarden bewerken",module,Magento_CheckoutAgreements
 "New Terms and Conditions","Nieuwe voorwaarden",module,Magento_CheckoutAgreements
-"Terms and Conditions Information","Informatie over Algemene Voorwaarden",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Informatie over Algemene voorwaarden",module,Magento_CheckoutAgreements
 "Condition Name","Naam van voorwaarde",module,Magento_CheckoutAgreements
 Status,Status,module,Magento_CheckoutAgreements
 Enabled,Ingeschakeld,module,Magento_CheckoutAgreements
@@ -2908,23 +2908,23 @@ ID,ID,module,Magento_CheckoutAgreements
 Condition,conditie,module,Magento_CheckoutAgreements
 Sales,Verkopen,module,Magento_CheckoutAgreements
 "Checkout Conditions",Betalingsvoorwaarden,module,Magento_CheckoutAgreements
-"Checkout Terms and Conditions","Algemene Voorwaarden Afrekenen",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Algemene voorwaarden Afrekenen",module,Magento_CheckoutAgreements
 "This condition no longer exists.","Deze conditie bestaat niet langer meer",module,Magento_CheckoutAgreements
-"You deleted the condition.","De Algemene Voorwaarden zijn verwijderd.",module,Magento_CheckoutAgreements
-"Something went wrong  while deleting this condition.","Er ging iets fout tijdens het verwijderen van deze Algemene Voorwaarden.",module,Magento_CheckoutAgreements
+"You deleted the condition.","De algemene voorwaarden zijn verwijderd.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Er ging iets fout tijdens het verwijderen van deze algemene voorwaarden.",module,Magento_CheckoutAgreements
 "Edit Condition","Wijzig conditie",module,Magento_CheckoutAgreements
-"New Condition","Nieuwe Algemene Voorwaarden",module,Magento_CheckoutAgreements
-"You saved the condition.","Algemene Voorwaarden opgeslagen.",module,Magento_CheckoutAgreements
-"Something went wrong while saving this condition.","Er ging iets fout bij het opslaan van deze Algemene Voorwaarden.",module,Magento_CheckoutAgreements
+"New Condition","Nieuwe algemene voorwaarden",module,Magento_CheckoutAgreements
+"You saved the condition.","De algemene voorwaarden zijn opgeslagen.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Er ging iets fout bij het opslaan van deze algemene voorwaarden.",module,Magento_CheckoutAgreements
 Automatically,Automatisch,module,Magento_CheckoutAgreements
 Manually,Handmatig,module,Magento_CheckoutAgreements
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_CheckoutAgreements
 "Unable to save checkout agreement %1","Betalingsovereenkomst %1 opslaan is niet mogelijk",module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","Betalingsovereenkomst %1 verwijderen is niet mogelijk",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","Betalingsovereenkomst met het opgegeven kenmerk %1 niet gevonden.",module,Magento_CheckoutAgreements
 Close,Sluiten,module,Magento_CheckoutAgreements
 "Terms & Conditions","Algemene voorwaarden",module,Magento_CheckoutAgreements
-"Enable Terms and Conditions","Algemene Voorwaarden activeren",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Algemene voorwaarden activeren",module,Magento_CheckoutAgreements
 "Preview mode doesn't allow submitting the order.","In voorvertoning modus kan de bestelling niet opgeslagen worden.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Voorvertoning quota levensduur (minuten)",module,Magento_CheckoutStaging
 "Static Blocks","Statische blokken",module,Magento_Cms
@@ -3733,7 +3733,7 @@ Customers,Klanten,module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 Global,Systeem,module,Magento_Customer
 "Per Website","Per website",module,Magento_Customer
-"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We kunnen geen klanten accounts wereldwijd verspreiden indien de accounts identieke email adressen bevatten op meerdere websites.",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We kunnen geen klantaccounts wereldwijd verspreiden indien de accounts identieke e-mailadressen bevatten op meerdere websites.",module,Magento_Customer
 "Billing Address",Factuuradres,module,Magento_Customer
 "Shipping Address",Bezorgadres,module,Magento_Customer
 "-- Please Select --","-- Selecteer --",module,Magento_Customer
@@ -3946,7 +3946,7 @@ Password:,Wachtwoord:,module,Magento_Customer
 "Track order history","Bekijk bestelgeschiedenis",module,Magento_Customer
 "Check out faster","Reken sneller af",module,Magento_Customer
 "Checkout using your account","Reken af met je account",module,Magento_Customer
-"Email Address","E-mail adres",module,Magento_Customer
+"Email Address","E-mailadres",module,Magento_Customer
 "Are you sure you want to do this?","Weet je zeker dat je dit wilt doen?",module,Magento_Customer
 "Are you sure you want to delete this address?","Weet je zeker dat je het adres wilt verwijderen?",module,Magento_Customer
 Weak,Zwak,module,Magento_Customer
@@ -4137,7 +4137,7 @@ Remove,Verwijder,module,Magento_CustomerBalance
 "Save Attribute","Attribuut opslaan",module,Magento_CustomerCustomAttributes
 "Delete Attribute","Verwijder attribuut",module,Magento_CustomerCustomAttributes
 "Edit Customer Address Attribute ""%1""","Bewerken van klantadres kenmerk ""%1""",module,Magento_CustomerCustomAttributes
-"New Customer Address Attribute","Nieuwe klant adres attribuut",module,Magento_CustomerCustomAttributes
+"New Customer Address Attribute","Nieuwe klant-adres attribuut",module,Magento_CustomerCustomAttributes
 "Input Type",Invoertype,module,Magento_CustomerCustomAttributes
 "Lines Count","Aantal Regels",module,Magento_CustomerCustomAttributes
 "Valid range 2-20","Geldige marge 2-20",module,Magento_CustomerCustomAttributes
@@ -4198,15 +4198,15 @@ Label,label,module,Magento_CustomerCustomAttributes
 Theme,Thema,module,Magento_CustomerCustomAttributes
 System,systeem,module,Magento_CustomerCustomAttributes
 Customer,Klant,module,Magento_CustomerCustomAttributes
-"Manage Customer Address Attributes","Beheer klant adresgegevens",module,Magento_CustomerCustomAttributes
+"Manage Customer Address Attributes","Beheer attributen voor adresgegevens klant",module,Magento_CustomerCustomAttributes
 "You cannot delete this attribute.","Je kunt dit attribuut niet verwijderen",module,Magento_CustomerCustomAttributes
-"You deleted the customer address attribute.","Je hebt het klanten adres attribuut verwijderd.",module,Magento_CustomerCustomAttributes
-"We can't delete the customer address attribute right now.","Het lukt niet om het klanten adres attribuut momenteel te verwijderen.",module,Magento_CustomerCustomAttributes
+"You deleted the customer address attribute.","Je hebt het klantenadres attribuut verwijderd.",module,Magento_CustomerCustomAttributes
+"We can't delete the customer address attribute right now.","Het lukt niet om het klantadres attribuut momenteel te verwijderen.",module,Magento_CustomerCustomAttributes
 "This attribute no longer exists.","Dit attribuut bestaat niet meer.",module,Magento_CustomerCustomAttributes
 "You cannot edit this attribute.","Je kunt dit attribuut niet bewerken",module,Magento_CustomerCustomAttributes
 "Edit Customer Address Attribute","Bewerk klant adres attribuut",module,Magento_CustomerCustomAttributes
-"You saved the customer address attribute.","Je hebt het klanten adres attribuut opgeslagen.",module,Magento_CustomerCustomAttributes
-"We can't save the customer address attribute right now.","Het lukt niet om het klanten adres attribuut momenteel te bewaren.",module,Magento_CustomerCustomAttributes
+"You saved the customer address attribute.","Je hebt het klantadres attribuut opgeslagen.",module,Magento_CustomerCustomAttributes
+"We can't save the customer address attribute right now.","Het lukt niet om het klantadres attribuut momenteel te bewaren.",module,Magento_CustomerCustomAttributes
 "An attribute with this code already exists.","Er bestaat al een attribuut met deze code.",module,Magento_CustomerCustomAttributes
 "Manage Customer Attributes","Beheer klantgegevens",module,Magento_CustomerCustomAttributes
 "You deleted the customer attribute.","Je hebt het klanten attribuut verwijderd.",module,Magento_CustomerCustomAttributes
@@ -4217,7 +4217,7 @@ Customer,Klant,module,Magento_CustomerCustomAttributes
 "This system form type cannot be deleted.","Dit systeem form type kan niet verwijderd worden.",module,Magento_CustomerCustomAttributes
 "The form type has been deleted.","Het form type werd verwijderd.",module,Magento_CustomerCustomAttributes
 "We can't delete the form type right now.","We kunnen momenteel het form type niet verwijderen.",module,Magento_CustomerCustomAttributes
-"Customer Address Registration","Klant adres registratie",module,Magento_CustomerCustomAttributes
+"Customer Address Registration","Klantadres registratie",module,Magento_CustomerCustomAttributes
 "Customer Account Address","Klant account adres",module,Magento_CustomerCustomAttributes
 "Customer Registration","Klant registratie",module,Magento_CustomerCustomAttributes
 "Customer Account Edit","Klant account wijzigen",module,Magento_CustomerCustomAttributes
@@ -4285,8 +4285,8 @@ Back,Terug,module,Magento_CustomerCustomAttributes
 "Please enter a valid email.","Vul een geldige e-mailadres in.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Zorg ervoor dat kenmerk ""%s"" niet leeg is.",module,Magento_CustomerImportExport
 "We can't find a customer who matches this email and website code.","Wij kunnen geen klant vinden die overeenkomt met dit e-mailadres en website code",module,Magento_CustomerImportExport
-"Customer address id column is not specified","Klanten adres id kolom is niet gespecifieerd",module,Magento_CustomerImportExport
-"We can't find that customer address.","We vinden het adres van de klant niet.",module,Magento_CustomerImportExport
+"Customer address id column is not specified","Klantadres id kolom is niet gespecifieerd",module,Magento_CustomerImportExport
+"We can't find that customer address.","Het adres van de klant kon niet worden gevonden.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Voer een geldige regio in.",module,Magento_CustomerImportExport
 "We found another row with this email, website and address ID combination.","Er bestaat reeds een record met deze email, website en adres ID combinatie.",module,Magento_CustomerImportExport
 "This email is found more than once in the import file.","Dit E-mailadres is meerdere malen gevonden in het importbestand.",module,Magento_CustomerImportExport
@@ -4463,7 +4463,7 @@ Decision,Besluit,module,Magento_Cybersource
 "Excessive address change. The customer changed the billing address two or more times in the last six months","Buitensporige adreswijziging. De klant veranderd het factuuradres twee of meer keer in de afgelopen zes maanden",module,Magento_Cybersource
 "Card BIN or authorization risk. Risk factors a e related to credit card BIN and/or card authorization checks","BIN kaart autorisatie risico. De risicofactoren hebben betrekking op een creditcard BIN en/of kaart vergunning controle",module,Magento_Cybersource
 "High number of account numbers. The customer used more than six credit cards numbers in the last six months","Hoge aantal rekeningnummers. De klant heeft gebruikt meer dan zes creditcards nummers in de afgelopen zes maanden",module,Magento_Cybersource
-"Email address impact. The customer uses a free email provider, or the email address is risky","E-mail adres effect. De klant gebruikt een gratis e-mail provider, of het e-mailadres is riskant",module,Magento_Cybersource
+"Email address impact. The customer uses a free email provider, or the email address is risky","E-mailadres effect. De klant gebruikt een gratis e-mail provider, of het e-mailadres is riskant",module,Magento_Cybersource
 "Positive list. The customer is on your positive list. Decision Manager Developer Guide Using the Simple Order AP  January 201 10 Appendix  Information and Reply Code","Positieve lijst. De klant is op je positieve lijst. Decision Manager Developer Guide Using the Simple Order AP January 201 10 Appendix Information and Reply Code",module,Magento_Cybersource
 "Negative list. The account number, street add ess, email address, or IP address for this order appears on your negative list","Negatieve lijst. Het klantnummer, adres, e-mailadres of IP-adres voor deze bestelling staat op je negatieve lijst",module,Magento_Cybersource
 "Geolocation inconsistencies. The customer’s email domain, phone number, billing address, shipping address, or IP address is suspicious","Geolocatie inconsistenties. Het domein van de klant's e-mailadres, telefoonnummer, factuuradres, verzendadres of IP-adres van de klant is verdacht",module,Magento_Cybersource
@@ -4532,7 +4532,7 @@ Debug,Debug,module,Magento_Cybersource
 "Frontend Development Workflow","Frontend Development workflow",module,Magento_Developer
 "Workflow type","Type werkstroom",module,Magento_Developer
 "Not available in production mode","Niet beschikbaar in productie mode",module,Magento_Developer
-"Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
+"Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP-adres",module,Magento_Developer
 "Allowed IPs (comma separated)","Toegestane IP’s (komma-gescheiden)",module,Magento_Developer
 "Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen toegankelijk zijn.",module,Magento_Developer
 "Log to File","Log naar bestand",module,Magento_Developer
@@ -5593,7 +5593,7 @@ label,label,module,Magento_GiftRegistry
 "You need to enter sender data.","Afzender gegevens zijn verplicht.",module,Magento_GiftRegistry
 "Please add invitees.","Voeg aub genodigden toe.",module,Magento_GiftRegistry
 "You cannot send emails to more than %1 recipients at once","Je kunt geen e-mails naar meer dan %1 geadresseerden tegelijk verzenden",module,Magento_GiftRegistry
-"Please enter a valid invitee email address.","Voer een geldig email adres van de genodigde in.",module,Magento_GiftRegistry
+"Please enter a valid invitee email address.","Voer een geldig e-mailadres van de genodigde in.",module,Magento_GiftRegistry
 "Please enter an invitee name.","Voer een naam in voor de genodigde.",module,Magento_GiftRegistry
 "You shared the gift registry for %1 emails.","Je deelde het geschenken register voor %1 emails.",module,Magento_GiftRegistry
 "We couldn't share the registry.","We konden het register niet delen.",module,Magento_GiftRegistry
@@ -5650,7 +5650,7 @@ Country,Land,module,Magento_GiftRegistry
 Fax,Fax,module,Magento_GiftRegistry
 "Add All To Gift Registry","Voeg toe aan geschenkregister",module,Magento_GiftRegistry
 "Ship to registrant's address","Verzenden naar het adres van de registreerder",module,Magento_GiftRegistry
-"Use the gift registry shipping address","Gebruik het verzend adres van geschenk register",module,Magento_GiftRegistry
+"Use the gift registry shipping address","Gebruik het verzendadres van geschenk register",module,Magento_GiftRegistry
 "Added On","Toegevoegd op",module,Magento_GiftRegistry
 Qty,Aantal,module,Magento_GiftRegistry
 "Qty Fulfilled","Aantal Geleverd",module,Magento_GiftRegistry
@@ -6218,7 +6218,7 @@ Customers,Klanten,module,Magento_Invitation
 "Order Conversion Rate","bestellings wisselkoersen",module,Magento_Invitation
 "We can't find this invitation.","Uitnodiging niet gevonden.",module,Magento_Invitation
 "Please select invitations.","Selecteer uitnodigingen.",module,Magento_Invitation
-"We discarded %1 of %2 invitations.","We hebben  %1 van %2 uitnodigingen verwijderd.",module,Magento_Invitation
+"We discarded %1 of %2 invitations.","We hebben %1 van %2 uitnodigingen verwijderd.",module,Magento_Invitation
 "We skipped %1 of the selected invitations.","We hebben %1 van de geselecteerde uitnodigingen overgeslagen.",module,Magento_Invitation
 "Something went wrong while sending invitations.","Er ging iets mis tijdens het verzenden van uitnodigingen.",module,Magento_Invitation
 "No invitations have been resent.","Er zijn geen uitnodigingen opnieuw verzonden.",module,Magento_Invitation
@@ -6269,7 +6269,7 @@ Reports,Rapportages,module,Magento_Invitation
 "This invitation is addressed to a current customer: ""%1"".","Deze uitnodiging is gericht aan een huidige klant: ""%1"".",module,Magento_Invitation
 "This invitation is not valid.","Deze uitnodiging is niet geldig.",module,Magento_Invitation
 "Please correct the invitation email.","Corrigeer de uitnodigingsemail.",module,Magento_Invitation
-"Invitation for same email address","Uitnodiging voor hetzelfde email adres",module,Magento_Invitation
+"Invitation for same email address","Uitnodiging voor hetzelfde e-mailadres",module,Magento_Invitation
 "Not Sent","Niet verzonden",module,Magento_Invitation
 Sent,Verstuurd,module,Magento_Invitation
 Accepted,Geaccepteerd,module,Magento_Invitation
@@ -6293,8 +6293,8 @@ Link,link,module,Magento_Invitation
 "Inviter Information","informatie over uitnodiger",module,Magento_Invitation
 Admin,Beheerder,module,Magento_Invitation
 "* Required Fields","* Verplichte velden",module,Magento_Invitation
-"Invite your friends by entering their email addresses","Vrienden uitnodigen door het invoeren van hun email adressen",module,Magento_Invitation
-"Maximum %1 email addresses allowed.","Maximum %1 email adressen toegestaan.",module,Magento_Invitation
+"Invite your friends by entering their email addresses","Vrienden uitnodigen door het invoeren van hun e-mailadressen",module,Magento_Invitation
+"Maximum %1 email addresses allowed.","Maximum %1 e-mailadressen toegestaan.",module,Magento_Invitation
 Add,Toevoegen,module,Magento_Invitation
 "Back to Invitations","Terug naar uitnodigingen",module,Magento_Invitation
 Remove,Verwijder,module,Magento_Invitation
@@ -6465,7 +6465,7 @@ Reports,Rapportages,module,Magento_Logging
 "Sales Invoices",Verkoopfacturen,module,Magento_Logging
 "Sales Shipments","Verkoop Zendingen",module,Magento_Logging
 "Sales Credit Memos","Creditfacturen bij verkopen",module,Magento_Logging
-"Checkout Terms and Conditions","Algemene Voorwaarden Afrekenen",module,Magento_Logging
+"Checkout Terms and Conditions","Algemene voorwaarden Afrekenen",module,Magento_Logging
 "Admin Permission Roles","Beheerder Rollen Bevoegdheden",module,Magento_Logging
 "Admin Permission Users","Beheerder Gebruikers Bevoegdheiden",module,Magento_Logging
 "Manage Websites","Beheer Websites",module,Magento_Logging
@@ -6731,7 +6731,7 @@ Total,Totaal,module,Magento_Multishipping
 "Create Shipping Address","Afleveradres aanmaken",module,Magento_Multishipping
 "Data saving problem","Probleem bij het opslaan van gegevens",module,Magento_Multishipping
 "We cannot open the overview page.","We kunnen de overzichtspagina niet openen.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_Multishipping
 "Order place error","Fout bij plaatsen van bestelling",module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","Maximaal aantal voor verzenden naar verschillende adressen is %1",module,Magento_Multishipping
 "Please check shipping address information.","Controleer het verzendadres.",module,Magento_Multishipping
@@ -7222,7 +7222,7 @@ Sales,Verkopen,module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout en de bestelling zijn geannuleerd.",module,Magento_Paypal
 "Express Checkout has been canceled.","Express Checkout is geannuleerd",module,Magento_Paypal
 "Unable to cancel Express Checkout","Niet mogelijk om Express Checkout te annuleren",module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.","Accepteer onze Algemene Voorwaarden voordat je de bestelling plaatst.",module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.","Accepteer onze algemene voorwaarden voordat je de bestelling plaatst.",module,Magento_Paypal
 "We can't place the order.","We kunnen de bestelling niet plaatsen.",module,Magento_Paypal
 "We can't process Express Checkout approval.","We kunnen de Express betalingskeuring niet verwerken.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","Kan de Express Checkout review niet initialiseren.",module,Magento_Paypal
@@ -7317,7 +7317,7 @@ Never,Nooit,module,Magento_Paypal
 "Merchant Protection Eligibility","Merchant Protection Eligibility",module,Magento_Paypal
 "Triggered Fraud Filters","Triggered Fraud Filters",module,Magento_Paypal
 "Last Correlation ID","Last Correlation ID",module,Magento_Paypal
-"Address Verification System Response","Antworod adresverificatie systeem",module,Magento_Paypal
+"Address Verification System Response","Antwoord adresverificatie systeem",module,Magento_Paypal
 "CVV2 Check Result by PayPal","CVV2 Check Result by PayPal",module,Magento_Paypal
 "AVS Street Match","AVS Street Match",module,Magento_Paypal
 "AVS zip","AVS zip",module,Magento_Paypal
@@ -8809,7 +8809,7 @@ Price,Prijs,module,Magento_Rma
 "Tracking Information","Track en Trace informatie",module,Magento_Rma
 "Page not found","Pagina niet gevonden",module,Magento_Rma
 "Please check this order for errors.","Controleer deze bestelling op fouten.",module,Magento_Rma
-"Contact Email Address","contact email adres",module,Magento_Rma
+"Contact Email Address","Contact e-mailadres",module,Magento_Rma
 "Text Field",Tekstveld,module,Magento_Rma
 "Text Area",Tekstgedeelte,module,Magento_Rma
 Dropdown,Dropdown,module,Magento_Rma
@@ -8877,7 +8877,7 @@ ID,ID,module,Magento_Rma
 #,#,module,Magento_Rma
 "Order ID","Bestelling ID",module,Magento_Rma
 "Customer Name","Naam klant",module,Magento_Rma
-"Email Address","E-mail adres",module,Magento_Rma
+"Email Address","E-mailadres",module,Magento_Rma
 "RMA History","RMA geschiedenis",module,Magento_Rma
 "Comment Text","Tekst opmerking",module,Magento_Rma
 "Notify Customer by Email","Bericht klant per email",module,Magento_Rma
@@ -9056,7 +9056,7 @@ Invoices,Facturen,module,Magento_Sales
 Shipping,Verzending,module,Magento_Sales
 Billing,Facturatie,module,Magento_Sales
 "Edit Order %1 %2 Address","Wijzig bestelling %1 %2 adres",module,Magento_Sales
-"Order Address Information","Bestelling adres-informatie",module,Magento_Sales
+"Order Address Information","Bestelling adresinformatie",module,Magento_Sales
 "Please correct the parent block for this block.","Corrigeer het bovenliggend blok van dit blok.",module,Magento_Sales
 "Submit Comment","Opmerking opslaan",module,Magento_Sales
 "Submit Order","Bestelling inboeken",module,Magento_Sales
@@ -10402,7 +10402,7 @@ None,Geen,module,Magento_Security
 "Invalid Sender Email","Ongeldig Afzender E-mailadres",module,Magento_SendFriend
 "Please enter a message.","Vul een bericht in.",module,Magento_SendFriend
 "Please specify at least one recipient.","Geef ten minste één geadresseerde op.",module,Magento_SendFriend
-"Please enter a correct recipient email address.","Voer een juist email adres van de geadresseerde in.",module,Magento_SendFriend
+"Please enter a correct recipient email address.","Voer een juist e-mailadres van de geadresseerde in.",module,Magento_SendFriend
 "No more than %1 emails can be sent at a time.","Er kunnen niet meer dan %1 emails worden verzonden per keer.",module,Magento_SendFriend
 "Please define a correct product instance.","Definieer een juiste product instantie.",module,Magento_SendFriend
 "Invalid Sender Information","Ongeldige informatie afzender",module,Magento_SendFriend
@@ -10422,7 +10422,7 @@ Email,Email,module,Magento_SendFriend
 Sender,Afzender,module,Magento_SendFriend
 Message,Bericht,module,Magento_SendFriend
 Invitee,genodigde,module,Magento_SendFriend
-"Maximum %1 email addresses allowed.","Maximum %1 email adressen toegestaan.",module,Magento_SendFriend
+"Maximum %1 email addresses allowed.","Maximum %1 e-mailadressen toegestaan.",module,Magento_SendFriend
 "Add Invitee","Genodigde toevoegen",module,Magento_SendFriend
 "Send Email","Verstuur e-mail",module,Magento_SendFriend
 Back,Terug,module,Magento_SendFriend
