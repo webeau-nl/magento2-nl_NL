@@ -9994,6 +9994,7 @@ Discount,Korting,module,Magento_SalesRule
 "Coupon with the same code","Coupons met de zelfde code",module,Magento_SalesRule
 "No Coupon","Geen kortingscode",module,Magento_SalesRule
 "Specific Coupon","Specifieke kortingscode",module,Magento_SalesRule
+"NOT LOGGED IN","NIET INGELOGD",module,Magento_SalesRule
 Auto,Automatisch,module,Magento_SalesRule
 "Can't acquire coupon.","Kan coupon niet ophalen.",module,Magento_SalesRule
 "Update the Product","Het product bijwerken",module,Magento_SalesRule
