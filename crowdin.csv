@@ -7894,8 +7894,8 @@ Delete,Verwijder,module,Magento_ProductVideo
 "Unable to save address. Please check input data.","Kan het adres niet opslaan. Controleer de ingevoerde gegevens.",module,Magento_Quote
 "Cart %1 doesn't contain products","Winkelwagen %1 bevat geen producten",module,Magento_Quote
 "Could not apply coupon code","Kortingscode kan niet worden toegepast",module,Magento_Quote
-"Coupon code is not valid","Couponcode is niet geldig",module,Magento_Quote
-"Could not delete coupon code","couponcode kan niet verwijderd worden",module,Magento_Quote
+"Coupon code is not valid","Kortingscode is niet geldig",module,Magento_Quote
+"Could not delete coupon code","Kortingscode kan niet verwijderd worden",module,Magento_Quote
 "Cannot assign customer to the given cart. You don't have permission for this operation.","Kan klant niet aan de opgegeven winkelwagen koppelen. Je hebt geen bevoegdheid om dit uit te voeren.",module,Magento_Quote
 "Shipping address is not set","Verzendadres is niet ingesteld",module,Magento_Quote
 "The requested Payment Method is not available.","De gevraagde betaalmethode is niet beschikbaar",module,Magento_Quote
@@ -8047,7 +8047,7 @@ quantity,aantal,module,Magento_Reminder
 "Item %1 %2 %3:","Artikel %1 %2 %3:",module,Magento_Reminder
 "Unknown attribute specified","Onbekend kenmerk gespecificeerd",module,Magento_Reminder
 "Items Subselection","Subselectie van items",module,Magento_Reminder
-"Coupon Code","Tegoedbon code",module,Magento_Reminder
+"Coupon Code","Kortingscode",module,Magento_Reminder
 "Shopping cart %1 a coupon applied","Winkelwagen %1 een coupon ingediend",module,Magento_Reminder
 has,"heeft (in andere context: bevat)",module,Magento_Reminder
 "does not have","bevat geen",module,Magento_Reminder
@@ -8092,7 +8092,7 @@ text,tekst,module,Magento_Reminder
 "%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","Haast je om nog te profiteren van onze %promotion_name aanbieding!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Haast je om nog te profiteren van deze aanbieding!",module,Magento_Reminder
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Als je wilt profiteren van deze aanbieding, moet je inloggen op <a href=""%account_url"">%store_name</a> en de couponcode ""%coupon_code"" invoeren bij de winkelwagen.",module,Magento_Reminder
+"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Als je wilt profiteren van deze aanbieding, moet je inloggen op <a href=""%account_url"">%store_name</a> en de kortingscode ""%coupon_code"" invoeren bij de winkelwagen.",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","Om te profiteren van de promotie moet je je aanmelden op <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
 "This coupon can be used only up to %coupon_limit time(s) by you or other customers.","Deze kortingsbon kan maximaal %coupon_limit keren gebruikt worden door jou of andere klanten.",module,Magento_Reminder
 "You can use this coupon up to %coupon_limit time(s).","Je kunt deze kortingsbon tot %coupon_limit keren gebruiken.",module,Magento_Reminder
@@ -9248,7 +9248,7 @@ Sales,Verkopen,module,Magento_Sales
 "You canceled the order.","Je hebt de bestelling geannuleerd.",module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" kortingscode is niet toegepast. Pas geen korting toe is ingeschakeld voor de geselecteerde product(en)",module,Magento_Sales
 """%1"" coupon code is not valid.","""%1"" kortingscode is niet geldig.",module,Magento_Sales
-"The coupon code has been accepted.","De couponcode is geaccepteerd",module,Magento_Sales
+"The coupon code has been accepted.","De kortingscode is geaccepteerd",module,Magento_Sales
 "Quote item id is not received.","Quote item id is niet ontvangen.",module,Magento_Sales
 "Quote item is not loaded.","Quote item id niet geladen.",module,Magento_Sales
 "New Order","Nieuwe bestelling",module,Magento_Sales
@@ -9937,7 +9937,7 @@ Actions,Acties,module,Magento_SalesRule
 "Apply To","Pas Toe Op",module,Magento_SalesRule
 Conditions,Voorwaarden,module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Pas de regel alleen toe als aan de volgende voorwaarden wordt voldaan (laat leeg voor alle producten).",module,Magento_SalesRule
-"Manage Coupon Codes","Beheer coupon codes",module,Magento_SalesRule
+"Manage Coupon Codes","Beheer kortingscodes",module,Magento_SalesRule
 "Coupon Qty","Coupon aantal",module,Magento_SalesRule
 "Code Length","Lengte code",module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","Behalve voorvoegsel, achtervoegsel en tussenvoegsels.",module,Magento_SalesRule
@@ -9947,7 +9947,7 @@ Conditions,Voorwaarden,module,Magento_SalesRule
 "Dash Every X Characters","Streepje elke x karakters",module,Magento_SalesRule
 "If empty no separation.","Laat leeg voor geen streepjes",module,Magento_SalesRule
 Generate,Genereren,module,Magento_SalesRule
-"Coupon Code","Tegoedbon code",module,Magento_SalesRule
+"Coupon Code","Kortingscode",module,Magento_SalesRule
 Created,Aangemaakt,module,Magento_SalesRule
 Uses,Gebruikt,module,Magento_SalesRule
 No,Nee,module,Magento_SalesRule
@@ -10053,7 +10053,7 @@ Inactive,Inactief,module,Magento_SalesRule
 "Your coupon was successfully removed.","Je kortingscode is verwijderd.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Je kortingscode is succesvol toegepast.",module,Magento_SalesRule
 Promotion,Aanbieding,module,Magento_SalesRule
-"Auto Generated Specific Coupon Codes","Automatisch gegenereerde coupon codes.",module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes","Automatisch gegenereerde kortingsccodes.",module,Magento_SalesRule
 "Web Site",Website,module,Magento_SalesRule
 Priority,Prioriteit,module,Magento_SalesRule
 "Cart Price Rule","Winkelwagen prijsregels",module,Magento_SalesRule
@@ -10088,7 +10088,7 @@ sales_rule,sales_rule,module,Magento_SalesRuleStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Er bestaat al een toekomstige update in deze tijdsperiode. Selecteer een andere periode om een toekomstige update toe te voegen.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Regel,module,Magento_SalesRuleStaging
-"Coupon Code","Tegoedbon code",module,Magento_SalesRuleStaging
+"Coupon Code","Kortingscode",module,Magento_SalesRuleStaging
 Priority,Prioriteit,module,Magento_SalesRuleStaging
 Status,Status,module,Magento_SalesRuleStaging
 Active,Actief,module,Magento_SalesRuleStaging
