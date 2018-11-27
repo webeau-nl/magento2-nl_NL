@@ -1347,7 +1347,7 @@ Canceled,Geannuleerd,module,Magento_Bundle
 "As low as",Vanaf,module,Magento_Bundle
 "Regular Price","Normale prijs",module,Magento_Bundle
 From,Van,module,Magento_Bundle
-To,Aan,module,Magento_Bundle
+To,Tot,module,Magento_Bundle
 "Buy %1 with %2 discount each","%1 kopen met %2 korting elk",module,Magento_Bundle
 "Go back to product details","Ga terug naar Productgegevens",module,Magento_Bundle
 "Customize and Add to Cart","Aanpassen en aan winkelwagen toevoegen",module,Magento_Bundle
@@ -1870,7 +1870,7 @@ Select...,Selecteer...,module,Magento_Catalog
 "Active From","Actief vanaf",module,Magento_Catalog
 "Active To","Actief tot",module,Magento_Catalog
 "Cost","Kostprijs",module,Magento_Catalog
-To,Aan,module,Magento_Catalog
+To,Tot,module,Magento_Catalog
 Done,Klaar,module,Magento_Catalog
 "Add Selected","Geselecteerde toevoegen",module,Magento_Catalog
 "Select Attribute","Selecteer Attribuut",module,Magento_Catalog
@@ -2495,7 +2495,7 @@ Description,Beschrijving,module,Magento_CatalogRule
 Websites,Websites,module,Magento_CatalogRule
 "Customer Groups",Klantengroepen,module,Magento_CatalogRule
 From,Van,module,Magento_CatalogRule
-To,Aan,module,Magento_CatalogRule
+To,Tot,module,Magento_CatalogRule
 Priority,Prioriteit,module,Magento_CatalogRule
 Actions,acties,module,Magento_CatalogRule
 Apply,Toepassen,module,Magento_CatalogRule
@@ -3071,7 +3071,7 @@ Design,Ontwerp,module,Magento_Cms
 "Layout Update XML","Lay-out update XML",module,Magento_Cms
 "Custom Design Update","Aangepaste ontwerp Update",module,Magento_Cms
 From,Van,module,Magento_Cms
-To,Aan,module,Magento_Cms
+To,Tot,module,Magento_Cms
 "New Theme","Nieuw thema",module,Magento_Cms
 "-- Please Select --","-- Selecteer --",module,Magento_Cms
 "New Layout","Nieuwe lay-out",module,Magento_Cms
@@ -4327,7 +4327,7 @@ Website,Website,module,Magento_CustomerSegment
 "Customer Segments Report","Klantsegmenten Rapport",module,Magento_CustomerSegment
 Back,Terug,module,Magento_CustomerSegment
 From,Van,module,Magento_CustomerSegment
-To,Aan,module,Magento_CustomerSegment
+To,Tot,module,Magento_CustomerSegment
 "Please request the correct customer segment.","Vraag de juiste klantensegment.",module,Magento_CustomerSegment
 "You deleted the segment.","Je hebt het segment verwijderd.",module,Magento_CustomerSegment
 "Unable to delete the segment.","Verwijderen segment niet mogelijk",module,Magento_CustomerSegment
@@ -5215,7 +5215,7 @@ Ordered,Besteld,module,Magento_GiftCard
 Invoiced,Gefactureerd,module,Magento_GiftCard
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Een aantal cadeaubon rekeningen werden niet aangemaakt. Je kan <a href=""%1"">hier</a> manueel cadeaubon rekeningen aanmaken.",module,Magento_GiftCard
 Amount,Aantal,module,Magento_GiftCard
-To,Aan,module,Magento_GiftCard
+To,Tot,module,Magento_GiftCard
 "Treat Balance as Store Credit","Is het saldo gelijk aan de winkel saldo",module,Magento_GiftCard
 [GLOBAL],[GLOBAAL],module,Magento_GiftCard
 "Use Config Settings","Gebruik configuratiewaarden",module,Magento_GiftCard
@@ -5429,7 +5429,7 @@ End,Einde,module,Magento_GiftCardAccount
 "Test label","Test Label",module,Magento_GiftMessage
 "Use Config Settings","Gebruik configuratiewaarden",module,Magento_GiftMessage
 From,Van,module,Magento_GiftMessage
-To,Aan,module,Magento_GiftMessage
+To,Tot,module,Magento_GiftMessage
 Message,Bericht,module,Magento_GiftMessage
 Cancel,Annuleer,module,Magento_GiftMessage
 OK,OK,module,Magento_GiftMessage
@@ -5527,7 +5527,7 @@ State/Province,Staat/provincie,module,Magento_GiftRegistry
 "Share '%1' Gift Registry","Deel '%1' mijn verlanglijst",module,Magento_GiftRegistry
 "-- Please select --","-- Selecteer --",module,Magento_GiftRegistry
 From,Van,module,Magento_GiftRegistry
-To,Aan,module,Magento_GiftRegistry
+To,To,module,Magento_GiftRegistry
 "Gift Registry Search","verlanglijst zoekfunctie",module,Magento_GiftRegistry
 "Select Search Type","Kies zoektype",module,Magento_GiftRegistry
 Registrant,Registreerder,module,Magento_GiftRegistry
@@ -5930,7 +5930,7 @@ Export,Export,module,Magento_ImportExport
 "Export File Format","Export bestandsformaat",module,Magento_ImportExport
 "Fields Enclosure","Fields Enclosure",module,Magento_ImportExport
 From,Van,module,Magento_ImportExport
-To,Aan,module,Magento_ImportExport
+To,Tot,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","Wij kunnen een attribuut zonder attribuut opties niet filteren.",module,Magento_ImportExport
 "Fixed Price: From","Vaste prijs: vanaf",module,Magento_ImportExport
 Exclude,"Sluit uit",module,Magento_ImportExport
@@ -7993,7 +7993,7 @@ Status,Status,module,Magento_Reminder
 Active,Actief,module,Magento_Reminder
 Inactive,Inactief,module,Magento_Reminder
 From,Van,module,Magento_Reminder
-To,Aan,module,Magento_Reminder
+To,Tot,module,Magento_Reminder
 "Repeat Schedule","Herhaal schema",module,Magento_Reminder
 "Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Geef het aantal dagen in tot de e-mail herinneringsregel opnieuw wordt doorgevoerd indien de voorwaarden nog steeds overeenkomen (Vb: Geef ""7, 14"" in om e-mails te sturen na 7 dagen en 14 dagen later).",module,Magento_Reminder
 "Select Rule...","Selecteer regel...",module,Magento_Reminder
@@ -8123,7 +8123,7 @@ Month,Maand,module,Magento_Reports
 Year,Jaar,module,Magento_Reports
 Period,Periode,module,Magento_Reports
 From,Van,module,Magento_Reports
-To,Aan,module,Magento_Reports
+To,Tot,module,Magento_Reports
 Yes,Ja,module,Magento_Reports
 No,Nee,module,Magento_Reports
 "Empty Rows","Lege regels",module,Magento_Reports
@@ -9070,7 +9070,7 @@ Coupons,Kortingsbonnen,module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
 "Account Information",Accountgegevens,module,Magento_Sales
 From,Van,module,Magento_Sales
-To,Aan,module,Magento_Sales
+To,Tot,module,Magento_Sales
 Message,Bericht,module,Magento_Sales
 "Edit Order #%1","Order #%1 bewerken",module,Magento_Sales
 "Create New Order for %1 in %2","Nieuwe bestelling aanmaken voor %1 in %2",module,Magento_Sales
@@ -10071,7 +10071,7 @@ Coupon,Tegoedbon,module,Magento_SalesRule
 "Uses per Customer","Aantal per klant beschikbaar",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Gebruikslimiet wordt alleen voor ingelogde klanten afgedwongen.",module,Magento_SalesRule
 From,Van,module,Magento_SalesRule
-To,Aan,module,Magento_SalesRule
+To,Tot,module,Magento_SalesRule
 "Public In RSS Feed","Publiceren in RSS-feed",module,Magento_SalesRule
 Apply,Toepassen,module,Magento_SalesRule
 "Discount Amount",Korting,module,Magento_SalesRule
@@ -11169,7 +11169,7 @@ Active,Actief,module,Magento_TargetRule
 Inactive,Inactief,module,Magento_TargetRule
 "Apply To","Pas Toe Op",module,Magento_TargetRule
 From,Van,module,Magento_TargetRule
-To,Aan,module,Magento_TargetRule
+To,Tot,module,Magento_TargetRule
 "Result Limit","Grens van het resultaat",module,Magento_TargetRule
 "Maximum number of products this rule can apply to (up to 20).","Maximaal aantal producten waarvoor deze regel kan gelden (maximaal 20).",module,Magento_TargetRule
 "Product Rule Information","Productregel informatie",module,Magento_TargetRule
