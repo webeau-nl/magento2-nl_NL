@@ -2446,7 +2446,7 @@ Promotions,Aanbiedingen,module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","Wij kunnen de regel niet verwijderen. Controleer het logboek en probeer het opnieuw.",module,Magento_CatalogRule
 "We can't find a rule to delete.","We kunnen geen regel om te verwijderen vinden.",module,Magento_CatalogRule
 "This rule no longer exists.","Deze regel bestaat niet langer.",module,Magento_CatalogRule
-"New Catalog Price Rule","Nieuwe catalogus prijs regel",module,Magento_CatalogRule
+"New Catalog Price Rule","Nieuwe catalogus prijsregel",module,Magento_CatalogRule
 "Edit Rule","Bewerk regel",module,Magento_CatalogRule
 "New Rule","Nieuwe regel",module,Magento_CatalogRule
 Catalog,Catalogus,module,Magento_CatalogRule
@@ -2518,7 +2518,7 @@ Edit,Bewerken,module,Magento_CatalogRuleStaging
 Name,Naam,module,Magento_CatalogRuleStaging
 Description,Omschrijving,module,Magento_CatalogRuleStaging
 "Update Information","Informatie bijwerken",module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Update","Verwijder Catalogus Prijs Regels uit Update",module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Update","Verwijder Catalogus Prijsregels uit Update",module,Magento_CatalogRuleStaging
 "Schedule Update","Plan Update",module,Magento_CatalogRuleStaging
 "Update Name","Update naam",module,Magento_CatalogRuleStaging
 "Start Date",Begindatum,module,Magento_CatalogRuleStaging
@@ -2548,8 +2548,8 @@ No,Nee,module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 "Start Time",Begintijd,module,Magento_CatalogRuleStaging
 "End Time",Eindtijd,module,Magento_CatalogRuleStaging
-"Catalog Price Rules","Catalogusprijs Regels",module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Campaign","Verwijder Catalogus Prijs Regel uit Campagne",module,Magento_CatalogRuleStaging
+"Catalog Price Rules","Catalogus prijsregels",module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Campaign","Verwijder Catalogus Prijsregel uit Campagne",module,Magento_CatalogRuleStaging
 Home,Home,module,Magento_CatalogSearch
 "Go to Home Page","Ga naar homepagina",module,Magento_CatalogSearch
 "Catalog Advanced Search","Catalogus geavanceerd zoeken",module,Magento_CatalogSearch
@@ -6454,8 +6454,8 @@ Customers,Klanten,module,Magento_Logging
 "Customer Groups",Klantengroepen,module,Magento_Logging
 Reports,Rapportages,module,Magento_Logging
 "System Configuration",Systeemconfiguratie,module,Magento_Logging
-"Catalog Price Rules","Catalogusprijs Regels",module,Magento_Logging
-"Cart Price Rules","Winkelwagen prijs regels",module,Magento_Logging
+"Catalog Price Rules","Catalogus prijsregels",module,Magento_Logging
+"Cart Price Rules","Winkelwagen prijsregels",module,Magento_Logging
 "Admin My Account","Beheerder Mijn Account",module,Magento_Logging
 "Newsletter Queue","Nieuwsbrief wachtrij",module,Magento_Logging
 "Newsletter Templates","Nieuwsbrief sjablonen",module,Magento_Logging
@@ -7986,7 +7986,7 @@ N/A,n.v.t.,module,Magento_Reminder
 "Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Herrineringse-mails kunnen een prijsregel op een winkelwagen toepassen met of zonder kortingscode.' 'Indien een winkelwagen prijsregel een automatisch gegenereerde kortingscode heeft, zal deze herinneringsregel een willekeurige kortingscode voor elke klant genereren.",module,Magento_Reminder
 "Rule Name","Regel Naam",module,Magento_Reminder
 Description,Omschrijving,module,Magento_Reminder
-"Cart Price Rule","Winkelwagen prijs regels",module,Magento_Reminder
+"Cart Price Rule","Winkelwagen prijsregels",module,Magento_Reminder
 "Promotion rule this reminder will advertise.","Promotie regel die deze herinnering zal adverteren",module,Magento_Reminder
 "Assigned to Website","Toegewezen aan de Website",module,Magento_Reminder
 Status,Status,module,Magento_Reminder
@@ -8161,7 +8161,7 @@ Created,Aangemaakt,module,Magento_Reports
 "Coupons Usage Report","Coupons gebruik-rapport",module,Magento_Reports
 Subtotal,Subtotaal,module,Magento_Reports
 "Coupon Code","Tegoedbon code",module,Magento_Reports
-"Price Rule","Prijs regel",module,Magento_Reports
+"Price Rule","Prijsregel",module,Magento_Reports
 Uses,Gebruikt,module,Magento_Reports
 "Sales Subtotal","Verkoop subtotaal",module,Magento_Reports
 "Sales Discount",Kortingen,module,Magento_Reports
@@ -8712,7 +8712,7 @@ View,Bekijk,module,Magento_Rma
 "New Return Item Attribute","Nieuw retourartikel attribuut",module,Magento_Rma
 "Input Type",Invoertype,module,Magento_Rma
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Dit wordt intern gebruikt. Zorg ervoor dat je geen spaties of meer dan %1 symbolen gebruikt.",module,Magento_Rma
-"Lines Count","Aantal Regels",module,Magento_Rma
+"Lines Count","Aantal regels",module,Magento_Rma
 "Valid range 2-20","Geldige marge 2-20",module,Magento_Rma
 "Input Validation","Invoer validatie",module,Magento_Rma
 None,Geen,module,Magento_Rma
@@ -9208,7 +9208,7 @@ Transactions,Transacties,module,Magento_Sales
 Any,Elke,module,Magento_Sales
 Specified,Gespecificeerd,module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Is van toepassing op een van de opgegeven bestelstatussen behalve geannuleerde bestellingen",module,Magento_Sales
-"Cart Price Rule","Winkelwagen prijs regels",module,Magento_Sales
+"Cart Price Rule","Winkelwagen prijsregels",module,Magento_Sales
 Yes,Ja,module,Magento_Sales
 No,Nee,module,Magento_Sales
 "Show Actual Values","Toon actuele waardes",module,Magento_Sales
@@ -9925,7 +9925,7 @@ Shipment,Verzending,module,Magento_SalesArchive
 "Go to Archive","Ga naar het archief",module,Magento_SalesArchive
 "The ""%1"" product is not part of the current creditmemo.","Het product ""%1"" is geen onderdeel van de huidige creditmemo.",module,Magento_SalesInventory
 "The return to stock argument contains product item that is not part of the original order.","De terugkeer naar voorraad argument bevat product-item dat geen deel uitmaakt van de oorspronkelijke order.",module,Magento_SalesInventory
-"Cart Price Rules","Winkelwagen prijs regels",module,Magento_SalesRule
+"Cart Price Rules","Winkelwagen prijsregels",module,Magento_SalesRule
 "Add New Rule","Voeg nieuwe regel toe",module,Magento_SalesRule
 Delete,Verwijder,module,Magento_SalesRule
 "Are you sure you want to delete this?","Weet je zeker dat je dit wilt verwijderen?",module,Magento_SalesRule
@@ -10056,7 +10056,7 @@ Promotion,Aanbieding,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatisch gegenereerde coupon codes.",module,Magento_SalesRule
 "Web Site",Website,module,Magento_SalesRule
 Priority,Prioriteit,module,Magento_SalesRule
-"Cart Price Rule","Winkelwagen prijs regels",module,Magento_SalesRule
+"Cart Price Rule","Winkelwagen prijsregels",module,Magento_SalesRule
 Back,Terug,module,Magento_SalesRule
 "Currently Active","Momenteel actief",module,Magento_SalesRule
 "Rule Information","Regel Informatie",module,Magento_SalesRule
@@ -10128,7 +10128,7 @@ Labels,Labels,module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
 "Start Time","Begin Tijd",module,Magento_SalesRuleStaging
 "End Time",Eindtijd,module,Magento_SalesRuleStaging
-"Cart Price Rules","Winkelwagen prijs regels",module,Magento_SalesRuleStaging
+"Cart Price Rules","Winkelwagen prijsregels",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Entiteit reeks profiel niet toegevoegd aan het actieve meta profiel",module,Magento_SalesSequence
 "Not enough arguments","Niet genoeg argumenten",module,Magento_SalesSequence
 "File not found","Bestand niet gevonden",module,Magento_SampleData
@@ -11180,7 +11180,7 @@ To,Aan,module,Magento_TargetRule
 "New Related Products Rule","Nieuwe regel van verwante producten",module,Magento_TargetRule
 "Related Products Rules","Verwante producten regel",module,Magento_TargetRule
 "You saved the rule.","Je hebt de regel opgeslagen.",module,Magento_TargetRule
-"We can't save the product rule right now.","We kunnen de product regel momenteel niet opslaan.",module,Magento_TargetRule
+"We can't save the product rule right now.","We kunnen de productregel momenteel niet opslaan.",module,Magento_TargetRule
 "Please specify a correct rule.","Geef een juiste regel op.",module,Magento_TargetRule
 "Invalid product list type","Ongeldig type productlijst",module,Magento_TargetRule
 "Invalid rotation mode type","Ongeldige rotatiemodus soort",module,Magento_TargetRule
@@ -11303,7 +11303,7 @@ Tax,BTW,module,Magento_Tax
 "Edit Tax Rate","Bewerk BTW-tarief",module,Magento_Tax
 "You saved the tax rate.","Je hebt het BTW-percentage opgeslagen.",module,Magento_Tax
 "Tax Rules","Fiscale regels",module,Magento_Tax
-"The tax rule has been deleted.","De BTW regel is verwijderd",module,Magento_Tax
+"The tax rule has been deleted.","De BTW-regel is verwijderd",module,Magento_Tax
 "This rule no longer exists.","Deze regel bestaat niet langer.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Er ging iets mis bij het verwijderen van deze BTW-regel.",module,Magento_Tax
 "New Tax Rule","Nieuwe fiscale regel",module,Magento_Tax
