@@ -1398,9 +1398,9 @@ Always,Altijd,module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","Dit account is vergrendeld. Probeer het op een ander moment opnieuw of neem contact op met %1.",module,Magento_Captcha
 "Please enter the letters from the image","Voer de letters van de afbeelding in",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Let op</strong>: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
-"Reload captcha","CAPTCHA herladen",module,Magento_Captcha
-"Please type the letters below","Typ de letters hieronder",module,Magento_Captcha
-"Attention: Captcha is case sensitive.","Opgelet: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
+"Reload captcha","Vernieuwen",module,Magento_Captcha
+"Please type the letters and numbers below","Typ de onderstaande karakters",module,Magento_Captcha
+"Attention: Captcha is case sensitive.","Let op: Captcha is hoofdletter gevoelig.",module,Magento_Captcha
 CAPTCHA,CAPTCHA,module,Magento_Captcha
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin",module,Magento_Captcha
 Font,Lettertype,module,Magento_Captcha
