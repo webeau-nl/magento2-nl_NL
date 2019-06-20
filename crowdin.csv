@@ -868,7 +868,7 @@ Web,Web,module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Stelt bezoekers instaat om ingelogd te blijven, zelfs bij het switchen van winkels.",module,Magento_Backend
 "Cache Type","Cache Soort",module,Magento_Backend
 Description,Omschrijving,module,Magento_Backend
-Tags,tags,module,Magento_Backend
+Tags,Tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Pagina niet gevonden.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
 "Default Theme","Standaard thema",module,Magento_Backend
@@ -1472,7 +1472,7 @@ Scope,Bereik,module,Magento_Catalog
 "Comparable on Storefront","Vergelijkbaar in Winkeletalage",module,Magento_Catalog
 "Use for Promo Rule Conditions","Gebruik voor promotieregels",module,Magento_Catalog
 "Enable WYSIWYG","WYSIWYG activeren",module,Magento_Catalog
-"Allow HTML Tags on Storefront","Sta HTML tags toe in Winkeletalage",module,Magento_Catalog
+"Allow HTML Tags on Storefront","Sta HTML-tags toe in Winkeletalage",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Zichtbaar op Cataloguspagina's in Winkeletalage",module,Magento_Catalog
 "Used in Product Listing","Te gebruiken in categorieën",module,Magento_Catalog
 "Depends on design theme.","Afhankelijk van design template.",module,Magento_Catalog
@@ -3533,7 +3533,7 @@ Alphanumeric,Alfanumeriek,module,Magento_CustomAttributeManagement
 "Alpha Only","Allen Letters",module,Magento_CustomAttributeManagement
 URL,URL,module,Magento_CustomAttributeManagement
 Email,Email,module,Magento_CustomAttributeManagement
-"Strip HTML Tags","Strip HTML Tags",module,Magento_CustomAttributeManagement
+"Strip HTML Tags","Strip HTML-tags",module,Magento_CustomAttributeManagement
 "Escape HTML Entities","Escape HTML Eenheden",module,Magento_CustomAttributeManagement
 "Normalize Date","Normaliseer Datum",module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Attribuutcode is ongeldig. Gebruik alleen letters (a-z), cijfers (0-9) of underscores (_) in dit veld. Eerste teken moet een letter zijn.",module,Magento_CustomAttributeManagement
@@ -11714,7 +11714,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please enter a valid IP v4 address.","Voer een geldig IP v4 adres in.",module,Magento_Ui
 "Please enter a valid IP v6 address.","Voer een geldig IP v6 adres in.",module,Magento_Ui
 "Invalid format.","Ongeldig formaat.",module,Magento_Ui
-"HTML tags are not allowed.","HTML-codes zijn niet toegestaan.",module,Magento_Ui
+"HTML tags are not allowed.","HTML-tags zijn niet toegestaan.",module,Magento_Ui
 "Please select an option.","Kies een optie.",module,Magento_Ui
 "Empty Value.","Lege waarde.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Gebruik alleen letters (a-z of A-Z), cijfers (0-9) of spaties in dit veld.",module,Magento_Ui
