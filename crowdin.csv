@@ -557,7 +557,7 @@ To,Tot,module,Magento_Backend
 "[ deleted ]","[ verwijderd ]",module,Magento_Backend
 "Select All","Alles selecteren",module,Magento_Backend
 [deleted],[verwijderd],module,Magento_Backend
-"We couldn't find any records.","Geen record(s) gevonden.",module,Magento_Backend
+"We couldn't find any records.","Geen items gevonden.",module,Magento_Backend
 "Add New","Voeg nieuwe toe",module,Magento_Backend
 "Invalid export type supplied for grid export block","Ongeldig export type opgegeven voor export rasterblok",module,Magento_Backend
 Export,Export,module,Magento_Backend
@@ -700,12 +700,12 @@ Minute,Minuut,module,Magento_Backend
 Catalog,Catalogus,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript/CSS Cache",module,Magento_Backend
-"No records found.","Geen records gevonden.",module,Magento_Backend
+"No records found.","Geen items gevonden.",module,Magento_Backend
 Images,Afbeeldingen,module,Magento_Backend
 "Big Image","Grote afbeelding",module,Magento_Backend
 Thumbnail,Thumbnail,module,Magento_Backend
 "Additional Settings","Aanvullende instellingen",module,Magento_Backend
-"records found","records gevonden",module,Magento_Backend
+"records found","items gevonden",module,Magento_Backend
 selected,geselecteerd,module,Magento_Backend
 "per page","per pagina",module,Magento_Backend
 "Previous page","Vorige pagina",module,Magento_Backend
@@ -1006,7 +1006,7 @@ Position,Positie,module,Magento_Banner
 "This banner no longer exists.","Deze banner bestaat niet meer.",module,Magento_Banner
 "Edit Banner","banner aanpassen",module,Magento_Banner
 "Please select a banner(s).","Selecteer een banner.",module,Magento_Banner
-"You deleted %1 record(s).","Je hebt %1 record(s) verwijderd.",module,Magento_Banner
+"You deleted %1 record(s).","Je hebt %1 item(s) verwijderd.",module,Magento_Banner
 "Something went wrong while mass-deleting banners. Please review the action log and try again.","Er ging iets mis tijdens het massa-verwijderen van banners. Controleer het action logboek en probeer opnieuw.",module,Magento_Banner
 "You saved the banner.","Je hebt de banner opgeslagen.",module,Magento_Banner
 "We cannot save the banner.","We konden de banner niet opslaan.",module,Magento_Banner
@@ -1152,7 +1152,7 @@ Debug,Debug,module,Magento_Braintree
 Name,Naam,module,Magento_Braintree
 Phone,Telefoonnummer,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 records worden weergegeven in de tabel. Je kunt de volledige versie van het rapport als .csv bestand downloaden.",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 items worden weergegeven in de tabel. Je kunt de volledige versie van het rapport als .csv bestand downloaden.",module,Magento_Braintree
 Select...,Selecteer...,module,Magento_Braintree
 Status,Status,module,Magento_Braintree
 "Transaction Type",Transactietype,module,Magento_Braintree
@@ -1255,7 +1255,7 @@ Debug,Debug,module,Magento_BraintreeTwo
 "Threshold Amount","Drempel bedrag",module,Magento_BraintreeTwo
 "Verify for Applicable Countries","Controleer op toepasselijke landen",module,Magento_BraintreeTwo
 "Verify for Specific Countries","Controleer op bepaalde landen",module,Magento_BraintreeTwo
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 records worden weergegeven in de tabel. Je kunt de volledige versie van het rapport als .csv bestand.",module,Magento_BraintreeTwo
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 items worden weergegeven in de tabel. Je kunt de volledige versie van het rapport als .csv bestand.",module,Magento_BraintreeTwo
 Select...,Selecteer...,module,Magento_BraintreeTwo
 Status,Status,module,Magento_BraintreeTwo
 "Transaction Type",Transactietype,module,Magento_BraintreeTwo
@@ -1608,7 +1608,7 @@ Categories,Categorieën,module,Magento_Catalog
 "Something went wrong while saving the category.","Er ging iets mis bij het opslaan van de categorie.",module,Magento_Catalog
 "Please select products for attributes update.","Selecteer producten voor attributen-update.",module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Zorg ervoor dat je de art.nr. waarden definieert voor alle verwerkte producten.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","%1 records zijn bijgewerkt.",module,Magento_Catalog
+"A total of %1 record(s) were updated.","%1 item(s) zijn bijgewerkt.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Er ging iets fout tijdens het bijwerken van van het productattribuut.",module,Magento_Catalog
 "Unable to add attribute","Niet mogelijk om attribuut toe te voegen",module,Magento_Catalog
 "Please, specify attributes","Geef attributen op",module,Magento_Catalog
@@ -1635,8 +1635,8 @@ Catalog,Catalogus,module,Magento_Catalog
 Products,Producten,module,Magento_Catalog
 "A group with the same name already exists.","Een groep met dezelfde naam bestaat reeks",module,Magento_Catalog
 "Something went wrong while saving this group.","Er ging iets fout bij het opslaan van deze groep.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","%1 record(s) bijgewerkt.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","%1 item(s) verwijderd.",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","%1 item(s) bijgewerkt.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Er ging iets fout tijdens het bijwerken van de product status.",module,Magento_Catalog
 "Unable to save product","Het is niet mogelijk om het product op te slaan",module,Magento_Catalog
 "You saved the product.","Je hebt het product opgeslagen.",module,Magento_Catalog
@@ -2972,7 +2972,7 @@ CMS,CMS,module,Magento_Cms
 "New Block","Nieuw blok",module,Magento_Cms
 Blocks,Blokken,module,Magento_Cms
 "Please correct the data sent.","Corrigeer de gegevens die zijn verzonden.",module,Magento_Cms
-"A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Cms
+"A total of %1 record(s) have been deleted.","%1 item(s) verwijderd.",module,Magento_Cms
 "You saved the block.","Het blok is opgeslagen.",module,Magento_Cms
 "Something went wrong while saving the block.","Er ging iets mis bij het opslaan van het blok.",module,Magento_Cms
 "The page has been deleted.","De pagina is verwijderd",module,Magento_Cms
@@ -2983,7 +2983,7 @@ Blocks,Blokken,module,Magento_Cms
 Pages,Pagina’s,module,Magento_Cms
 "Something went wrong while saving the page.","Er ging iets mis bij het opslaan van de pagina.",module,Magento_Cms
 "A total of %1 record(s) have been disabled.","Een totaal van %1 document(en) zijn uitgeschakeld.",module,Magento_Cms
-"A total of %1 record(s) have been enabled.","In totaal van %1 records(s) zijn ingeschakeld.",module,Magento_Cms
+"A total of %1 record(s) have been enabled.","In totaal van %1 item(s) zijn ingeschakeld.",module,Magento_Cms
 "Page Title",Paginatitel,module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","Om de wijzigingen toe te passen dien je het verborgen benodigde veld ""%1"" in te vullen",module,Magento_Cms
 "You saved the page.","Pagina opgeslagen.",module,Magento_Cms
@@ -3697,8 +3697,8 @@ Customers,Klanten,module,Magento_Customer
 "Something went wrong while editing the customer.","Er ging iets mis tijdens het bewerken van de klant.",module,Magento_Customer
 "Manage Customers","Klanten beheren",module,Magento_Customer
 "Please correct the data sent.","Corrigeer de gegevens die zijn verzonden.",module,Magento_Customer
-"A total of %1 record(s) were updated.","%1 records zijn bijgewerkt.",module,Magento_Customer
-"A total of %1 record(s) were deleted.","Een totaal van %1 veld(en) werden verwijderd.",module,Magento_Customer
+"A total of %1 record(s) were updated.","%1 item(s) zijn bijgewerkt.",module,Magento_Customer
+"A total of %1 record(s) were deleted.","Een totaal van %1 item(s) zijn verwijderd.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","De klant ontvangt een e-mail met een link om het wachtwoord opnieuw instellen.",module,Magento_Customer
 "Something went wrong while resetting customer password.","Er ging iets mis tijdens het opnieuw instellen van het wachtwoord van de klant.",module,Magento_Customer
 "You saved the customer.","Je hebt de klant opgeslagen.",module,Magento_Customer
@@ -4288,7 +4288,7 @@ Back,Terug,module,Magento_CustomerCustomAttributes
 "Customer address id column is not specified","Klantadres id kolom is niet gespecifieerd",module,Magento_CustomerImportExport
 "We can't find that customer address.","Het adres van de klant kon niet worden gevonden.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Voer een geldige regio in.",module,Magento_CustomerImportExport
-"We found another row with this email, website and address ID combination.","Er bestaat reeds een record met deze email, website en adres ID combinatie.",module,Magento_CustomerImportExport
+"We found another row with this email, website and address ID combination.","Er bestaat reeds een rij met deze email, website en adres ID combinatie.",module,Magento_CustomerImportExport
 "This email is found more than once in the import file.","Dit E-mailadres is meerdere malen gevonden in het importbestand.",module,Magento_CustomerImportExport
 "Orphan rows that will be skipped due default row errors","Gekoppelde rijen zullen worden overgeslagen vanwege standaard rij fouten",module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","Ongeldige waarde in Winkel kolom (winkel bestaat niet?)",module,Magento_CustomerImportExport
@@ -5778,7 +5778,7 @@ Image,Afbeelding,module,Magento_GiftWrapping
 [WEBSITE],[WEBSITE],module,Magento_GiftWrapping
 "[STORE VIEW]",[WINKELAANZICHT],module,Magento_GiftWrapping
 "Please request the correct gift wrapping.","Vraag de juiste geschenk verpakking.",module,Magento_GiftWrapping
-"You updated a total of %1 records.","Je hebt een totaal van %1 records bijgewerkt.",module,Magento_GiftWrapping
+"You updated a total of %1 records.","Je hebt een totaal van %1 items bijgewerkt.",module,Magento_GiftWrapping
 "Something went wrong while updating the wrapping(s) status.","Er ging iets mis tijdens het bijwerken van de status van wrapping(s).",module,Magento_GiftWrapping
 "You deleted the gift wrapping.","Je hebt de geschenkverpakking verwijderd.",module,Magento_GiftWrapping
 %1,%1,module,Magento_GiftWrapping
@@ -6192,7 +6192,7 @@ OAuth,OAuth,module,Magento_Integration
 "Integration configuration file","Integratie configuratie bestand",module,Magento_Integration
 "Integrations API Configuration","Integratie API configuratie",module,Magento_Integration
 "Integrations API configuration file","Integraties API configuratiebestand",module,Magento_Integration
-"We couldn't find any records.","Geen record(s) gevonden.",module,Magento_Integration
+"We couldn't find any records.","Geen items gevonden.",module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,uitnodigingen,module,Magento_Invitation
 "Add Invitations","Voeg uitnodigingen toe",module,Magento_Invitation
@@ -6617,7 +6617,7 @@ Customers,Klanten,module,Magento_MultipleWishlist
 "We can't move the wish list item.","We kunnen het verlanglijst artikel niet verplaatsen.",module,Magento_MultipleWishlist
 "%1 items cannot be moved: %2.","%1 artikelen kunnen niet verplaatst worden: %2.",module,Magento_MultipleWishlist
 "We can't move %1 items.","We kunnen geen %1 artikelen verplaatsen.",module,Magento_MultipleWishlist
-"%1 items were moved to %2: %3.","%1 artikelen werden verplaatst naar %2: %3.",module,Magento_MultipleWishlist
+"%1 items were moved to %2: %3.","%1 artikelen zijn verplaatst naar %2: %3.",module,Magento_MultipleWishlist
 "%1 for ""%2""","%1 voor ""%2""",module,Magento_MultipleWishlist
 "We can't add the item to shopping cart.","We kunnen het product niet toevoegen aan de winkelwagen.",module,Magento_MultipleWishlist
 "We can't add the following product(s) to shopping cart: %1.","Wij kunnen de volgende producten niet toevoegen aan de winkelwagen: %1.",module,Magento_MultipleWishlist
@@ -6894,8 +6894,8 @@ Action,Actie,module,Magento_Newsletter
 Newsletter,Nieuwsbrief,module,Magento_Newsletter
 Subscribers,Abonnees,module,Magento_Newsletter
 "Please select one or more subscribers.","Selecteer een of meerdere abonnees.",module,Magento_Newsletter
-"Total of %1 record(s) were deleted.","Totaal van %1 record(s) werden verwijderd.",module,Magento_Newsletter
-"A total of %1 record(s) were updated.","%1 records zijn bijgewerkt.",module,Magento_Newsletter
+"Total of %1 record(s) were deleted.","Totaal van %1 item(s) zijn verwijderd.",module,Magento_Newsletter
+"A total of %1 record(s) were updated.","%1 item(s) zijn bijgewerkt.",module,Magento_Newsletter
 "The newsletter template has been deleted.","Het nieuwsbriefsjabloon werd verwijderd.",module,Magento_Newsletter
 "We can't delete this template right now.","We kunnen dit sjablaan momenteel niet vinden.",module,Magento_Newsletter
 "Edit Template","Template bewerken",module,Magento_Newsletter
@@ -8412,9 +8412,9 @@ Reviews,Reviews,module,Magento_Review
 "Edit Review","Bewerk review",module,Magento_Review
 "We can't retrieve the product ID.","We kunnen het product-ID niet ophalen.",module,Magento_Review
 "Please select review(s).","Selecteer review(en).",module,Magento_Review
-"A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Review
-"Something went wrong while deleting these records.","Er ging iets mis tijdens het verwijderen van deze records.",module,Magento_Review
-"A total of %1 record(s) have been updated.","%1 record(s) bijgewerkt.",module,Magento_Review
+"A total of %1 record(s) have been deleted.","%1 item(s) verwijderd.",module,Magento_Review
+"Something went wrong while deleting these records.","Er ging iets mis tijdens het verwijderen van deze items.",module,Magento_Review
+"A total of %1 record(s) have been updated.","%1 item(s) bijgewerkt.",module,Magento_Review
 "Something went wrong while updating these review(s).","Er ging iets mis tijdens het bijwerken van deze review(en).",module,Magento_Review
 "You saved the review.","Je hebt de review opgeslagen.",module,Magento_Review
 "Something went wrong while saving this review.","Er ging iets mis bij het opslaan van deze review.",module,Magento_Review
@@ -8587,7 +8587,7 @@ None,Geen,module,Magento_Reward
 "Minimum Balance in order to redeem: %1.","Het minimale saldo om te kunnen inwisselen is: %1.",module,Magento_Reward
 "You need a higher balance to use your rewards points.","Je moet een hoger saldo hebben om je beloningen punten te gebruiken.",module,Magento_Reward
 "Each earned reward points award expires in %1 days.","Gespaarde spaarpunten verlopen over %1 dagen.",module,Magento_Reward
-"Refer to reward points history to see when a specific record expires.","Verwijs naar spaarpunten geschiedenis om te kijken wanneer een bepaalde record verloopt.",module,Magento_Reward
+"Refer to reward points history to see when a specific record expires.","Verwijs naar spaarpunten geschiedenis om te kijken wanneer een bepaald item verloopt.",module,Magento_Reward
 "Email Notification Settings","E-mail notificatie instellingen",module,Magento_Reward
 "Save Subscription Settings","Notificatie-instellingen Opslaan",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Spaarpunten balans bijgewerkt op %store_name",module,Magento_Reward
@@ -10198,7 +10198,7 @@ Password,Wachtwoord,module,Magento_ScheduledImportExport
 "No valid data sent","Geen geldige gegevens verzonden",module,Magento_ScheduledImportExport
 "You deleted the history files.","Je hebt de geschiedenisbestanden verwijderd.",module,Magento_ScheduledImportExport
 "We can't delete the history files right now.","We kunnen momenteel geen geschiedenisbestanden verwijderen.",module,Magento_ScheduledImportExport
-"A total of %1 record(s) have been updated.","%1 record(s) bijgewerkt.",module,Magento_ScheduledImportExport
+"A total of %1 record(s) have been updated.","%1 item(s) bijgewerkt.",module,Magento_ScheduledImportExport
 "We cannot change status for all items.","We kunnen de status niet wijzigen voor alle producten.",module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Je verwijderde een totaal van %1 rij(en).",module,Magento_ScheduledImportExport
 "We can't delete all the items right now.","We kunnen momenteel niet alle producten verwijderen.",module,Magento_ScheduledImportExport
@@ -10326,7 +10326,7 @@ Marketing,Marketing,module,Magento_Search
 "This search no longer exists.","Deze zoekopdracht bestaat niet meer",module,Magento_Search
 "Edit Search","Zoekactie wijzigen",module,Magento_Search
 "Please select searches.","Selecteer zoekopdrachten.",module,Magento_Search
-"Total of %1 record(s) were deleted.","Totaal van %1 record(s) werden verwijderd.",module,Magento_Search
+"Total of %1 record(s) were deleted.","Totaal van %1 item(s) zijn verwijderd.",module,Magento_Search
 Reports,Rapportages,module,Magento_Search
 "Search Terms Report","Zoek termen verslag",module,Magento_Search
 "You saved the search term.","Je hebt de zoekterm opgeslagen.",module,Magento_Search
@@ -10880,7 +10880,7 @@ Report,Verslag,module,Magento_Support
 "Paths file already exists","Paden bestand bestaan al",module,Magento_Support
 "Paths file cannot be created","Paden bestand kan niet worden aangemaakt",module,Magento_Support
 "Please select item(s).","Selecteer item(s).",module,Magento_Support
-"A total of %1 record(s) have been deleted.","%1 record(s) verwijderd.",module,Magento_Support
+"A total of %1 record(s) have been deleted.","%1 item(s) verwijderd.",module,Magento_Support
 Support,Ondersteuning,module,Magento_Support
 "Data Collector",Gegevensverzamelaarset,module,Magento_Support
 "The backup has been saved.","De back-up is opgeslagen.",module,Magento_Support
@@ -11661,7 +11661,7 @@ Next,Volgende,module,Magento_Ui
 "This tab contains invalid data. Please resolve this before saving.","Dit tabblad bevat ongeldige gegevens; deze moeten voor het opslaan gecorrigeerd worden.",module,Magento_Ui
 Assign,Toewijzen,module,Magento_Ui
 Options,Opties,module,Magento_Ui
-"records found","records gevonden",module,Magento_Ui
+"records found","items gevonden",module,Magento_Ui
 selected,geselecteerd,module,Magento_Ui
 of,of,module,Magento_Ui
 Filters,Filters,module,Magento_Ui
@@ -12479,7 +12479,7 @@ Assign,Toewijzen,module,Magento_VisualMerchandiser
 Remove,Verwijder,module,Magento_VisualMerchandiser
 Grid,Foto-tabel,module,Magento_VisualMerchandiser
 Tile,Tegel,module,Magento_VisualMerchandiser
-"records found","records gevonden",module,Magento_VisualMerchandiser
+"records found","items gevonden",module,Magento_VisualMerchandiser
 "per page","per pagina",module,Magento_VisualMerchandiser
 "Previous page","Vorige pagina",module,Magento_VisualMerchandiser
 "of %1","van %1",module,Magento_VisualMerchandiser
