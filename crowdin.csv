@@ -6474,7 +6474,7 @@ Reports,Rapportages,module,Magento_Logging
 "Manage Design","Beheer Ontwerp",module,Magento_Logging
 "Manage Currency Rates","Beheer Wisselkoersen",module,Magento_Logging
 "Transactional Emails","Transactionele e-mails",module,Magento_Logging
-"Custom Variables","Custom Variabelen",module,Magento_Logging
+"Custom Variables","Custom variabelen",module,Magento_Logging
 "System Backups","Systeem back-ups",module,Magento_Logging
 "Customer Tax Classes","Klant BTW-tariefgroepen",module,Magento_Logging
 "Catalog Product Tax Classes","Catalogus Product BTW-tariefgroepen",module,Magento_Logging
@@ -12269,7 +12269,7 @@ Machinable,Machinaal,module,Magento_Usps
 Debug,Debug,module,Magento_Usps
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing",module,Magento_Usps
 "Sort Order",Sorteervolgorde,module,Magento_Usps
-"Custom Variables","Aangepaste Variabelen",module,Magento_Variable
+"Custom Variables","Aangepaste variabelen",module,Magento_Variable
 "Add New Variable","Voeg nieuwe variabele toe",module,Magento_Variable
 "Save and Continue Edit",Toepassen,module,Magento_Variable
 "Custom Variable ""%1""","Aangepaste variabele ""%1""",module,Magento_Variable
