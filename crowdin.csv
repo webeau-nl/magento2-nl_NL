@@ -12520,13 +12520,14 @@ Name,Naam,module,Magento_VisualMerchandiser
 Price,Prijs,module,Magento_VisualMerchandiser
 SKU,Art.nr.,module,Magento_VisualMerchandiser
 Stock,Voorraad,module,Magento_VisualMerchandiser
-"Consumer is not authorized to access %resources","Gebruiker is niet gemachtigd tot %resources",module,Magento_Webapi
+"The consumer isn't authorized to access %resources.","Gebruiker is niet gemachtigd tot %resources.",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operatie kan enkel in HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Uitvoeren van GET commando kan niet met winkelcode 'all'",module,Magento_Webapi
+"Specified request cannot be processed.","Opgegeven aanvraag kan niet worden verwerkt.",module,Magento_Webapi
 "Request does not match any route.","Verzoek komt niet overeen met een route.",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Niet toegestane parameters: %1. Gebruik alleen %2 en %3.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Opgevraagde service is niet beschikbaar: ""%1""",module,Magento_Webapi
-"Operation ""%1"" not found.","Operatie ""%1"" is niet gevonden.",module,Magento_Webapi
+"Operation ""%1"" not found.","Operatie ""%1"" niet gevonden.",module,Magento_Webapi
 "SOAP extension is not loaded.","SOAP extensie is niet geladen.",module,Magento_Webapi
 "Invalid XML","Ongeldige XML",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","Ongeldige XML: illegaal DOCTYPE gedetecteerd",module,Magento_Webapi
@@ -12544,6 +12545,8 @@ Message,Bericht,module,Magento_Webapi
 "If empty, UTF-8 will be used.","Indien leeg zal UTF-8 worden gebruikt.",module,Magento_Webapi
 "Web Services Configuration","Web Services configuratie",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","Door REST en SOAP configuraties gegenereerd WSDL bestand",module,Magento_Webapi
+"The fewest you may purchase is %1.","Het minimale aantal dat je kunt bestellen is %1.",module,Magento_Webapi
+"WebapiAsync config for ""%topicName"" does not exist.","WebapiAsync configuratie voor ""%topicName"" bestaat niet.",module,Magento_WebapiAsync
 "Web API Security","Web API beveiliging",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Anonieme gasttoegang toestaan",module,Magento_WebapiSecurity
 "503 Service Unavailable","503 dienst onbeschikbaar",module,Magento_WebsiteRestriction
